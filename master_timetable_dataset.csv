@@ -1,0 +1,1457 @@
+stream_semester_group,stream,section,semester,dedicated_room,room_type,room_capacity,course_code,course_name,course_hours_per_week,course_department,is_lab,faculty_name,faculty_department
+CSE-A_I,CSE,A,I,CR-077,theory,64,CS-107,Design,4,CSE,False,Dr. Vivaan Iyer,CSE
+CSE-A_I,CSE,A,I,CR-077,theory,64,CS-1010,Structures,4,CSE,False,Prof. Aarav Pandey,CSE
+CSE-A_I,CSE,A,I,CR-077,theory,64,CS-1010L,Structures Lab,2,CSE,True,Prof. Aarav Pandey,CSE
+CSE-A_I,CSE,A,I,CR-077,theory,64,CS-109,Structures,4,CSE,False,Dr. Aanya Menon,CSE
+CSE-A_I,CSE,A,I,CR-077,theory,64,CS-109L,Structures Lab,2,CSE,True,Prof. Kiara Singh,CSE
+CSE-A_I,CSE,A,I,CR-077,theory,64,CS-106,Analysis,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-A_II,CSE,A,II,CR-077,theory,64,CS-207,Design,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-A_II,CSE,A,II,CR-077,theory,64,CS-207L,Design Lab,2,CSE,True,Prof. Sai Verma,CSE
+CSE-A_II,CSE,A,II,CR-077,theory,64,CS-203,Analysis,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-A_II,CSE,A,II,CR-077,theory,64,CS-203L,Analysis Lab,2,CSE,True,Prof. Aarav Pandey,CSE
+CSE-A_II,CSE,A,II,CR-077,theory,64,CS-2012,Fundamentals,3,CSE,False,Prof. Ananya Menon,CSE
+CSE-A_II,CSE,A,II,CR-077,theory,64,CS-2010,Theory,3,CSE,False,Prof. Vivaan Mishra,CSE
+CSE-A_III,CSE,A,III,CR-077,theory,64,CS-308,Engineering,3,CSE,False,Dr. Vivaan Iyer,CSE
+CSE-A_III,CSE,A,III,CR-077,theory,64,CS-307,Fundamentals,4,CSE,False,Prof. Sai Verma,CSE
+CSE-A_III,CSE,A,III,CR-077,theory,64,CS-307L,Fundamentals Lab,2,CSE,True,Dr. Vivaan Joshi,CSE
+CSE-A_III,CSE,A,III,CR-077,theory,64,CS-306,Applications,4,CSE,False,Prof. Pari Yadav,CSE
+CSE-A_III,CSE,A,III,CR-077,theory,64,CS-304,Analysis,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-A_III,CSE,A,III,CR-077,theory,64,CS-302,Principles,4,CSE,False,Prof. Sai Verma,CSE
+CSE-A_IV,CSE,A,IV,CR-077,theory,64,CS-408,Systems,4,CSE,False,Dr. Ishaan Sharma,CSE
+CSE-A_IV,CSE,A,IV,CR-077,theory,64,CS-408L,Systems Lab,2,CSE,True,Prof. Vivaan Mishra,CSE
+CSE-A_IV,CSE,A,IV,CR-077,theory,64,CS-409,Engineering,3,CSE,False,Dr. Vivaan Iyer,CSE
+CSE-A_IV,CSE,A,IV,CR-077,theory,64,CS-409L,Engineering Lab,2,CSE,True,Dr. Vivaan Joshi,CSE
+CSE-A_IV,CSE,A,IV,CR-077,theory,64,CS-403,Dynamics,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-A_IV,CSE,A,IV,CR-077,theory,64,CS-403L,Dynamics Lab,2,CSE,True,Dr. Priya Gupta,CSE
+CSE-A_V,CSE,A,V,CR-077,theory,64,CS-507,Dynamics,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-A_V,CSE,A,V,CR-077,theory,64,CS-507L,Dynamics Lab,2,CSE,True,Dr. Vivaan Iyer,CSE
+CSE-A_V,CSE,A,V,CR-077,theory,64,CS-503,Systems,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-A_V,CSE,A,V,CR-077,theory,64,CS-505,Dynamics,3,CSE,False,Prof. Pari Yadav,CSE
+CSE-A_V,CSE,A,V,CR-077,theory,64,CS-505L,Dynamics Lab,2,CSE,True,Prof. Ananya Menon,CSE
+CSE-A_V,CSE,A,V,CR-077,theory,64,CS-5010,Programming,4,CSE,False,Dr. Ananya Reddy,CSE
+CSE-A_VI,CSE,A,VI,CR-077,theory,64,CS-604,Principles,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-A_VI,CSE,A,VI,CR-077,theory,64,CS-6010,Applications,4,CSE,False,Dr. Priya Gupta,CSE
+CSE-A_VI,CSE,A,VI,CR-077,theory,64,CS-6010L,Applications Lab,2,CSE,True,Dr. Vivaan Iyer,CSE
+CSE-A_VI,CSE,A,VI,CR-077,theory,64,CS-608,Design,3,CSE,False,Prof. Aarav Pandey,CSE
+CSE-A_VI,CSE,A,VI,CR-077,theory,64,CS-608L,Design Lab,2,CSE,True,Prof. Vivaan Mishra,CSE
+CSE-A_VI,CSE,A,VI,CR-077,theory,64,CS-606,Principles,3,CSE,False,Dr. Vivaan Iyer,CSE
+CSE-A_VII,CSE,A,VII,CR-077,theory,64,CS-707,Analysis,4,CSE,False,Dr. Aanya Menon,CSE
+CSE-A_VII,CSE,A,VII,CR-077,theory,64,CS-707L,Analysis Lab,2,CSE,True,Prof. Pari Yadav,CSE
+CSE-A_VII,CSE,A,VII,CR-077,theory,64,CS-708,Principles,3,CSE,False,Prof. Sai Verma,CSE
+CSE-A_VII,CSE,A,VII,CR-077,theory,64,CS-708L,Principles Lab,2,CSE,True,Dr. Vivaan Joshi,CSE
+CSE-A_VII,CSE,A,VII,CR-077,theory,64,CS-709,Programming,4,CSE,False,Prof. Sai Verma,CSE
+CSE-A_VII,CSE,A,VII,CR-077,theory,64,CS-709L,Programming Lab,2,CSE,True,Dr. Vivaan Iyer,CSE
+CSE-A_VIII,CSE,A,VIII,CR-077,theory,64,CS-809,Engineering,3,CSE,False,Dr. Aanya Menon,CSE
+CSE-A_VIII,CSE,A,VIII,CR-077,theory,64,CS-807,Dynamics,3,CSE,False,Dr. Priya Gupta,CSE
+CSE-A_VIII,CSE,A,VIII,CR-077,theory,64,CS-807L,Dynamics Lab,2,CSE,True,Dr. Ishaan Sharma,CSE
+CSE-A_VIII,CSE,A,VIII,CR-077,theory,64,CS-802,Fundamentals,4,CSE,False,Dr. Aditya Khan,CSE
+CSE-A_VIII,CSE,A,VIII,CR-077,theory,64,CS-808,Fundamentals,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-A_VIII,CSE,A,VIII,CR-077,theory,64,CS-808L,Fundamentals Lab,2,CSE,True,Dr. Vivaan Iyer,CSE
+CSE-B_I,CSE,B,I,CR-046,theory,75,CS-1011,Dynamics,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-B_I,CSE,B,I,CR-046,theory,75,CS-1011L,Dynamics Lab,2,CSE,True,Dr. Vivaan Iyer,CSE
+CSE-B_I,CSE,B,I,CR-046,theory,75,CS-102,Programming,3,CSE,False,Prof. Vivaan Mishra,CSE
+CSE-B_I,CSE,B,I,CR-046,theory,75,CS-1012,Principles,4,CSE,False,Prof. Sai Verma,CSE
+CSE-B_I,CSE,B,I,CR-046,theory,75,CS-1012L,Principles Lab,2,CSE,True,Prof. Ananya Menon,CSE
+CSE-B_I,CSE,B,I,CR-046,theory,75,CS-106,Analysis,3,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-B_II,CSE,B,II,CR-046,theory,75,CS-209,Systems,4,CSE,False,Dr. Ananya Reddy,CSE
+CSE-B_II,CSE,B,II,CR-046,theory,75,CS-209L,Systems Lab,2,CSE,True,Prof. Kiara Singh,CSE
+CSE-B_II,CSE,B,II,CR-046,theory,75,CS-201,Structures,4,CSE,False,Dr. Ishaan Sharma,CSE
+CSE-B_II,CSE,B,II,CR-046,theory,75,CS-2010,Theory,3,CSE,False,Dr. Fatima Mishra,CSE
+CSE-B_II,CSE,B,II,CR-046,theory,75,CS-203,Analysis,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-B_II,CSE,B,II,CR-046,theory,75,CS-203L,Analysis Lab,2,CSE,True,Prof. Sai Verma,CSE
+CSE-B_III,CSE,B,III,CR-046,theory,75,CS-305,Theory,3,CSE,False,Dr. Vivaan Iyer,CSE
+CSE-B_III,CSE,B,III,CR-046,theory,75,CS-309,Fundamentals,4,CSE,False,Dr. Aanya Menon,CSE
+CSE-B_III,CSE,B,III,CR-046,theory,75,CS-309L,Fundamentals Lab,2,CSE,True,Dr. Fatima Mishra,CSE
+CSE-B_III,CSE,B,III,CR-046,theory,75,CS-3011,Applications,3,CSE,False,Prof. Sai Verma,CSE
+CSE-B_III,CSE,B,III,CR-046,theory,75,CS-3011L,Applications Lab,2,CSE,True,Prof. Vivaan Mishra,CSE
+CSE-B_III,CSE,B,III,CR-046,theory,75,CS-308,Engineering,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-B_IV,CSE,B,IV,CR-046,theory,75,CS-408,Systems,4,CSE,False,Dr. Ishaan Sharma,CSE
+CSE-B_IV,CSE,B,IV,CR-046,theory,75,CS-408L,Systems Lab,2,CSE,True,Dr. Fatima Mishra,CSE
+CSE-B_IV,CSE,B,IV,CR-046,theory,75,CS-401,Programming,4,CSE,False,Dr. Fatima Mishra,CSE
+CSE-B_IV,CSE,B,IV,CR-046,theory,75,CS-401L,Programming Lab,2,CSE,True,Prof. Aarav Pandey,CSE
+CSE-B_IV,CSE,B,IV,CR-046,theory,75,CS-4010,Analysis,3,CSE,False,Prof. Pari Yadav,CSE
+CSE-B_IV,CSE,B,IV,CR-046,theory,75,CS-4010L,Analysis Lab,2,CSE,True,Dr. Priya Gupta,CSE
+CSE-B_V,CSE,B,V,CR-046,theory,75,CS-505,Dynamics,3,CSE,False,Prof. Vivaan Mishra,CSE
+CSE-B_V,CSE,B,V,CR-046,theory,75,CS-505L,Dynamics Lab,2,CSE,True,Dr. Aditya Khan,CSE
+CSE-B_V,CSE,B,V,CR-046,theory,75,CS-5011,Principles,3,CSE,False,Dr. Vivaan Iyer,CSE
+CSE-B_V,CSE,B,V,CR-046,theory,75,CS-5011L,Principles Lab,2,CSE,True,Prof. Ananya Menon,CSE
+CSE-B_V,CSE,B,V,CR-046,theory,75,CS-501,Dynamics,4,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-B_V,CSE,B,V,CR-046,theory,75,CS-501L,Dynamics Lab,2,CSE,True,Dr. Vivaan Iyer,CSE
+CSE-B_VI,CSE,B,VI,CR-046,theory,75,CS-604,Principles,3,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-B_VI,CSE,B,VI,CR-046,theory,75,CS-608,Design,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-B_VI,CSE,B,VI,CR-046,theory,75,CS-608L,Design Lab,2,CSE,True,Prof. Pari Yadav,CSE
+CSE-B_VI,CSE,B,VI,CR-046,theory,75,CS-609,Structures,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-B_VI,CSE,B,VI,CR-046,theory,75,CS-6012,Fundamentals,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-B_VI,CSE,B,VI,CR-046,theory,75,CS-6012L,Fundamentals Lab,2,CSE,True,Dr. Vihaan Mishra,CSE
+CSE-B_VII,CSE,B,VII,CR-046,theory,75,CS-7012,Programming,4,CSE,False,Prof. Vivaan Mishra,CSE
+CSE-B_VII,CSE,B,VII,CR-046,theory,75,CS-7012L,Programming Lab,2,CSE,True,Dr. Aanya Menon,CSE
+CSE-B_VII,CSE,B,VII,CR-046,theory,75,CS-703,Analysis,3,CSE,False,Prof. Vivaan Mishra,CSE
+CSE-B_VII,CSE,B,VII,CR-046,theory,75,CS-7011,Analysis,4,CSE,False,Dr. Ishaan Sharma,CSE
+CSE-B_VII,CSE,B,VII,CR-046,theory,75,CS-7011L,Analysis Lab,2,CSE,True,Dr. Fatima Mishra,CSE
+CSE-B_VII,CSE,B,VII,CR-046,theory,75,CS-706,Theory,3,CSE,False,Prof. Vivaan Mishra,CSE
+CSE-B_VIII,CSE,B,VIII,CR-046,theory,75,CS-807,Dynamics,3,CSE,False,Prof. Ananya Menon,CSE
+CSE-B_VIII,CSE,B,VIII,CR-046,theory,75,CS-807L,Dynamics Lab,2,CSE,True,Dr. Vivaan Iyer,CSE
+CSE-B_VIII,CSE,B,VIII,CR-046,theory,75,CS-802,Fundamentals,4,CSE,False,Dr. Priya Gupta,CSE
+CSE-B_VIII,CSE,B,VIII,CR-046,theory,75,CS-806,Engineering,4,CSE,False,Dr. Aanya Menon,CSE
+CSE-B_VIII,CSE,B,VIII,CR-046,theory,75,CS-8010,Fundamentals,3,CSE,False,Dr. Vivaan Iyer,CSE
+CSE-B_VIII,CSE,B,VIII,CR-046,theory,75,CS-8010L,Fundamentals Lab,2,CSE,True,Dr. Aanya Menon,CSE
+CSE-C_I,CSE,C,I,CR-127,theory,79,CS-109,Structures,4,CSE,False,Prof. Aarav Pandey,CSE
+CSE-C_I,CSE,C,I,CR-127,theory,79,CS-109L,Structures Lab,2,CSE,True,Prof. Vivaan Mishra,CSE
+CSE-C_I,CSE,C,I,CR-127,theory,79,CS-105,Principles,3,CSE,False,Dr. Fatima Mishra,CSE
+CSE-C_I,CSE,C,I,CR-127,theory,79,CS-106,Analysis,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-C_I,CSE,C,I,CR-127,theory,79,CS-106L,Analysis Lab,2,CSE,True,Dr. Aanya Menon,CSE
+CSE-C_I,CSE,C,I,CR-127,theory,79,CS-108,Principles,4,CSE,False,Dr. Fatima Mishra,CSE
+CSE-C_II,CSE,C,II,CR-127,theory,79,CS-209,Systems,4,CSE,False,Dr. Ishaan Sharma,CSE
+CSE-C_II,CSE,C,II,CR-127,theory,79,CS-209L,Systems Lab,2,CSE,True,Dr. Vivaan Joshi,CSE
+CSE-C_II,CSE,C,II,CR-127,theory,79,CS-204,Systems,4,CSE,False,Dr. Priya Gupta,CSE
+CSE-C_II,CSE,C,II,CR-127,theory,79,CS-208,Design,4,CSE,False,Dr. Ananya Reddy,CSE
+CSE-C_II,CSE,C,II,CR-127,theory,79,CS-2012,Fundamentals,3,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-C_II,CSE,C,II,CR-127,theory,79,CS-201,Structures,4,CSE,False,Prof. Aarav Pandey,CSE
+CSE-C_III,CSE,C,III,CR-127,theory,79,CS-3010,Structures,3,CSE,False,Prof. Vivaan Mishra,CSE
+CSE-C_III,CSE,C,III,CR-127,theory,79,CS-3010L,Structures Lab,2,CSE,True,Prof. Vivaan Mishra,CSE
+CSE-C_III,CSE,C,III,CR-127,theory,79,CS-303,Design,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-C_III,CSE,C,III,CR-127,theory,79,CS-3011,Applications,3,CSE,False,Prof. Ananya Menon,CSE
+CSE-C_III,CSE,C,III,CR-127,theory,79,CS-3011L,Applications Lab,2,CSE,True,Dr. Ishaan Sharma,CSE
+CSE-C_III,CSE,C,III,CR-127,theory,79,CS-304,Analysis,3,CSE,False,Dr. Priya Gupta,CSE
+CSE-C_IV,CSE,C,IV,CR-127,theory,79,CS-4010,Analysis,3,CSE,False,Dr. Ananya Reddy,CSE
+CSE-C_IV,CSE,C,IV,CR-127,theory,79,CS-4010L,Analysis Lab,2,CSE,True,Dr. Priya Gupta,CSE
+CSE-C_IV,CSE,C,IV,CR-127,theory,79,CS-403,Dynamics,3,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-C_IV,CSE,C,IV,CR-127,theory,79,CS-403L,Dynamics Lab,2,CSE,True,Prof. Vivaan Mishra,CSE
+CSE-C_IV,CSE,C,IV,CR-127,theory,79,CS-406,Structures,4,CSE,False,Dr. Priya Gupta,CSE
+CSE-C_IV,CSE,C,IV,CR-127,theory,79,CS-406L,Structures Lab,2,CSE,True,Dr. Aanya Menon,CSE
+CSE-C_V,CSE,C,V,CR-127,theory,79,CS-505,Dynamics,3,CSE,False,Prof. Sai Verma,CSE
+CSE-C_V,CSE,C,V,CR-127,theory,79,CS-505L,Dynamics Lab,2,CSE,True,Dr. Vihaan Mishra,CSE
+CSE-C_V,CSE,C,V,CR-127,theory,79,CS-503,Systems,3,CSE,False,Prof. Ananya Menon,CSE
+CSE-C_V,CSE,C,V,CR-127,theory,79,CS-508,Structures,4,CSE,False,Prof. Aarav Pandey,CSE
+CSE-C_V,CSE,C,V,CR-127,theory,79,CS-508L,Structures Lab,2,CSE,True,Dr. Aanya Menon,CSE
+CSE-C_V,CSE,C,V,CR-127,theory,79,CS-5012,Programming,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-C_VI,CSE,C,VI,CR-127,theory,79,CS-608,Design,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-C_VI,CSE,C,VI,CR-127,theory,79,CS-608L,Design Lab,2,CSE,True,Dr. Fatima Mishra,CSE
+CSE-C_VI,CSE,C,VI,CR-127,theory,79,CS-606,Principles,3,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-C_VI,CSE,C,VI,CR-127,theory,79,CS-606L,Principles Lab,2,CSE,True,Dr. Priya Gupta,CSE
+CSE-C_VI,CSE,C,VI,CR-127,theory,79,CS-6012,Fundamentals,3,CSE,False,Dr. Priya Gupta,CSE
+CSE-C_VI,CSE,C,VI,CR-127,theory,79,CS-6012L,Fundamentals Lab,2,CSE,True,Dr. Priya Gupta,CSE
+CSE-C_VII,CSE,C,VII,CR-127,theory,79,CS-7010,Analysis,4,CSE,False,Prof. Sai Verma,CSE
+CSE-C_VII,CSE,C,VII,CR-127,theory,79,CS-705,Theory,3,CSE,False,Prof. Kiara Singh,CSE
+CSE-C_VII,CSE,C,VII,CR-127,theory,79,CS-705L,Theory Lab,2,CSE,True,Prof. Pari Yadav,CSE
+CSE-C_VII,CSE,C,VII,CR-127,theory,79,CS-706,Theory,3,CSE,False,Prof. Aarav Pandey,CSE
+CSE-C_VII,CSE,C,VII,CR-127,theory,79,CS-706L,Theory Lab,2,CSE,True,Prof. Vivaan Mishra,CSE
+CSE-C_VII,CSE,C,VII,CR-127,theory,79,CS-703,Analysis,3,CSE,False,Prof. Sai Verma,CSE
+CSE-C_VIII,CSE,C,VIII,CR-127,theory,79,CS-805,Design,3,CSE,False,Dr. Fatima Mishra,CSE
+CSE-C_VIII,CSE,C,VIII,CR-127,theory,79,CS-805L,Design Lab,2,CSE,True,Dr. Aanya Menon,CSE
+CSE-C_VIII,CSE,C,VIII,CR-127,theory,79,CS-8010,Fundamentals,3,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-C_VIII,CSE,C,VIII,CR-127,theory,79,CS-8010L,Fundamentals Lab,2,CSE,True,Dr. Vivaan Joshi,CSE
+CSE-C_VIII,CSE,C,VIII,CR-127,theory,79,CS-808,Fundamentals,3,CSE,False,Dr. Fatima Mishra,CSE
+CSE-C_VIII,CSE,C,VIII,CR-127,theory,79,CS-808L,Fundamentals Lab,2,CSE,True,Dr. Aanya Menon,CSE
+CSE-D_I,CSE,D,I,CR-104,theory,79,CS-103,Structures,3,CSE,False,Dr. Fatima Mishra,CSE
+CSE-D_I,CSE,D,I,CR-104,theory,79,CS-101,Programming,3,CSE,False,Prof. Aarav Pandey,CSE
+CSE-D_I,CSE,D,I,CR-104,theory,79,CS-101L,Programming Lab,2,CSE,True,Prof. Aarav Pandey,CSE
+CSE-D_I,CSE,D,I,CR-104,theory,79,CS-108,Principles,4,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-D_I,CSE,D,I,CR-104,theory,79,CS-108L,Principles Lab,2,CSE,True,Dr. Vihaan Mishra,CSE
+CSE-D_I,CSE,D,I,CR-104,theory,79,CS-107,Design,4,CSE,False,Prof. Kiara Singh,CSE
+CSE-D_II,CSE,D,II,CR-104,theory,79,CS-2011,Applications,4,CSE,False,Prof. Ananya Menon,CSE
+CSE-D_II,CSE,D,II,CR-104,theory,79,CS-2011L,Applications Lab,2,CSE,True,Prof. Kiara Singh,CSE
+CSE-D_II,CSE,D,II,CR-104,theory,79,CS-204,Systems,4,CSE,False,Dr. Fatima Mishra,CSE
+CSE-D_II,CSE,D,II,CR-104,theory,79,CS-209,Systems,4,CSE,False,Dr. Vihaan Mishra,CSE
+CSE-D_II,CSE,D,II,CR-104,theory,79,CS-209L,Systems Lab,2,CSE,True,Prof. Ananya Menon,CSE
+CSE-D_II,CSE,D,II,CR-104,theory,79,CS-206,Theory,3,CSE,False,Prof. Aarav Pandey,CSE
+CSE-D_III,CSE,D,III,CR-104,theory,79,CS-301,Theory,4,CSE,False,Prof. Ananya Menon,CSE
+CSE-D_III,CSE,D,III,CR-104,theory,79,CS-301L,Theory Lab,2,CSE,True,Dr. Ishaan Sharma,CSE
+CSE-D_III,CSE,D,III,CR-104,theory,79,CS-303,Design,3,CSE,False,Prof. Ananya Menon,CSE
+CSE-D_III,CSE,D,III,CR-104,theory,79,CS-309,Fundamentals,4,CSE,False,Prof. Pari Yadav,CSE
+CSE-D_III,CSE,D,III,CR-104,theory,79,CS-309L,Fundamentals Lab,2,CSE,True,Prof. Kiara Singh,CSE
+CSE-D_III,CSE,D,III,CR-104,theory,79,CS-302,Principles,4,CSE,False,Prof. Pari Yadav,CSE
+CSE-D_IV,CSE,D,IV,CR-104,theory,79,CS-402,Structures,4,CSE,False,Dr. Ishaan Sharma,CSE
+CSE-D_IV,CSE,D,IV,CR-104,theory,79,CS-407,Theory,4,CSE,False,Prof. Ananya Menon,CSE
+CSE-D_IV,CSE,D,IV,CR-104,theory,79,CS-405,Fundamentals,3,CSE,False,Dr. Ishaan Sharma,CSE
+CSE-D_IV,CSE,D,IV,CR-104,theory,79,CS-4011,Design,3,CSE,False,Dr. Aanya Menon,CSE
+CSE-D_IV,CSE,D,IV,CR-104,theory,79,CS-4012,Fundamentals,3,CSE,False,Dr. Vivaan Joshi,CSE
+CSE-D_IV,CSE,D,IV,CR-104,theory,79,CS-4012L,Fundamentals Lab,2,CSE,True,Dr. Ishaan Sharma,CSE
+CSE-D_V,CSE,D,V,CR-104,theory,79,CS-509,Applications,4,CSE,False,Dr. Aditya Khan,CSE
+CSE-D_V,CSE,D,V,CR-104,theory,79,CS-509L,Applications Lab,2,CSE,True,Dr. Vihaan Mishra,CSE
+CSE-D_V,CSE,D,V,CR-104,theory,79,CS-5012,Programming,3,CSE,False,Prof. Kiara Singh,CSE
+CSE-D_V,CSE,D,V,CR-104,theory,79,CS-508,Structures,4,CSE,False,Prof. Kiara Singh,CSE
+CSE-D_V,CSE,D,V,CR-104,theory,79,CS-508L,Structures Lab,2,CSE,True,Prof. Kiara Singh,CSE
+CSE-D_V,CSE,D,V,CR-104,theory,79,CS-5011,Principles,3,CSE,False,Prof. Kiara Singh,CSE
+CSE-D_VI,CSE,D,VI,CR-104,theory,79,CS-604,Principles,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-D_VI,CSE,D,VI,CR-104,theory,79,CS-609,Structures,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-D_VI,CSE,D,VI,CR-104,theory,79,CS-608,Design,3,CSE,False,Prof. Kiara Singh,CSE
+CSE-D_VI,CSE,D,VI,CR-104,theory,79,CS-608L,Design Lab,2,CSE,True,Dr. Aditya Khan,CSE
+CSE-D_VI,CSE,D,VI,CR-104,theory,79,CS-602,Structures,3,CSE,False,Dr. Aditya Khan,CSE
+CSE-D_VI,CSE,D,VI,CR-104,theory,79,CS-602L,Structures Lab,2,CSE,True,Prof. Pari Yadav,CSE
+CSE-D_VII,CSE,D,VII,CR-104,theory,79,CS-7012,Programming,4,CSE,False,Prof. Pari Yadav,CSE
+CSE-D_VII,CSE,D,VII,CR-104,theory,79,CS-7012L,Programming Lab,2,CSE,True,Prof. Kiara Singh,CSE
+CSE-D_VII,CSE,D,VII,CR-104,theory,79,CS-705,Theory,3,CSE,False,Prof. Kiara Singh,CSE
+CSE-D_VII,CSE,D,VII,CR-104,theory,79,CS-705L,Theory Lab,2,CSE,True,Prof. Pari Yadav,CSE
+CSE-D_VII,CSE,D,VII,CR-104,theory,79,CS-703,Analysis,3,CSE,False,Prof. Pari Yadav,CSE
+AIDS-A_I,AIDS,A,I,CR-080,theory,57,DS-1011,Principles,4,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-A_I,AIDS,A,I,CR-080,theory,57,DS-107,Systems,3,AIDS,False,Dr. Diya Joshi,AIDS
+AIDS-A_I,AIDS,A,I,CR-080,theory,57,DS-106,Fundamentals,4,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-A_I,AIDS,A,I,CR-080,theory,57,DS-106L,Fundamentals Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-A_I,AIDS,A,I,CR-080,theory,57,DS-105,Theory,3,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-A_I,AIDS,A,I,CR-080,theory,57,DS-104,Analysis,4,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-A_II,AIDS,A,II,CR-080,theory,57,DS-205,Principles,4,AIDS,False,Dr. Diya Joshi,AIDS
+AIDS-A_II,AIDS,A,II,CR-080,theory,57,DS-209,Design,4,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-A_II,AIDS,A,II,CR-080,theory,57,DS-208,Structures,3,AIDS,False,Dr. Aadhya Sharma,AIDS
+AIDS-A_II,AIDS,A,II,CR-080,theory,57,DS-2010,Design,3,AIDS,False,Prof. Vihaan Singh,AIDS
+AIDS-A_II,AIDS,A,II,CR-080,theory,57,DS-2010L,Design Lab,2,AIDS,True,Dr. Arjun Iyer,AIDS
+AIDS-A_II,AIDS,A,II,CR-080,theory,57,DS-201,Design,4,AIDS,False,Prof. Priya Khan,AIDS
+AIDS-A_III,AIDS,A,III,CR-080,theory,57,DS-303,Principles,4,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-A_III,AIDS,A,III,CR-080,theory,57,DS-3010,Applications,3,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-A_III,AIDS,A,III,CR-080,theory,57,DS-305,Theory,3,AIDS,False,Dr. Diya Joshi,AIDS
+AIDS-A_III,AIDS,A,III,CR-080,theory,57,DS-305L,Theory Lab,2,AIDS,True,Dr. Priya Yadav,AIDS
+AIDS-A_III,AIDS,A,III,CR-080,theory,57,DS-309,Design,3,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-A_III,AIDS,A,III,CR-080,theory,57,DS-309L,Design Lab,2,AIDS,True,Prof. Priya Khan,AIDS
+AIDS-A_IV,AIDS,A,IV,CR-080,theory,57,DS-402,Analysis,4,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-A_IV,AIDS,A,IV,CR-080,theory,57,DS-407,Programming,3,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-A_IV,AIDS,A,IV,CR-080,theory,57,DS-407L,Programming Lab,2,AIDS,True,Dr. Diya Khan,AIDS
+AIDS-A_IV,AIDS,A,IV,CR-080,theory,57,DS-405,Systems,4,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-A_IV,AIDS,A,IV,CR-080,theory,57,DS-405L,Systems Lab,2,AIDS,True,Dr. Priya Yadav,AIDS
+AIDS-A_IV,AIDS,A,IV,CR-080,theory,57,DS-408,Applications,3,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-A_V,AIDS,A,V,CR-080,theory,57,DS-5010,Analysis,3,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-A_V,AIDS,A,V,CR-080,theory,57,DS-5010L,Analysis Lab,2,AIDS,True,Prof. Saanvi Nath,AIDS
+AIDS-A_V,AIDS,A,V,CR-080,theory,57,DS-509,Fundamentals,4,AIDS,False,Dr. Diya Joshi,AIDS
+AIDS-A_V,AIDS,A,V,CR-080,theory,57,DS-509L,Fundamentals Lab,2,AIDS,True,Prof. Vihaan Singh,AIDS
+AIDS-A_V,AIDS,A,V,CR-080,theory,57,DS-5012,Fundamentals,4,AIDS,False,Prof. Vihaan Singh,AIDS
+AIDS-A_V,AIDS,A,V,CR-080,theory,57,DS-5012L,Fundamentals Lab,2,AIDS,True,Dr. Aadhya Sharma,AIDS
+AIDS-A_VI,AIDS,A,VI,CR-080,theory,57,DS-603,Theory,4,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-A_VI,AIDS,A,VI,CR-080,theory,57,DS-603L,Theory Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-A_VI,AIDS,A,VI,CR-080,theory,57,DS-6011,Theory,3,AIDS,False,Dr. Ananya Pandey,AIDS
+AIDS-A_VI,AIDS,A,VI,CR-080,theory,57,DS-6011L,Theory Lab,2,AIDS,True,Dr. Arjun Iyer,AIDS
+AIDS-A_VI,AIDS,A,VI,CR-080,theory,57,DS-6012,Theory,4,AIDS,False,Prof. Priya Khan,AIDS
+AIDS-A_VI,AIDS,A,VI,CR-080,theory,57,DS-6012L,Theory Lab,2,AIDS,True,Dr. Pari Reddy,AIDS
+AIDS-A_VII,AIDS,A,VII,CR-080,theory,57,DS-7011,Engineering,4,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-A_VII,AIDS,A,VII,CR-080,theory,57,DS-7011L,Engineering Lab,2,AIDS,True,Dr. Arjun Iyer,AIDS
+AIDS-A_VII,AIDS,A,VII,CR-080,theory,57,DS-708,Theory,4,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-A_VII,AIDS,A,VII,CR-080,theory,57,DS-708L,Theory Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-A_VII,AIDS,A,VII,CR-080,theory,57,DS-701,Dynamics,3,AIDS,False,Dr. Priya Yadav,AIDS
+AIDS-A_VII,AIDS,A,VII,CR-080,theory,57,DS-701L,Dynamics Lab,2,AIDS,True,Prof. Saanvi Nath,AIDS
+AIDS-A_VIII,AIDS,A,VIII,CR-080,theory,57,DS-806,Programming,4,AIDS,False,Dr. Diya Joshi,AIDS
+AIDS-A_VIII,AIDS,A,VIII,CR-080,theory,57,DS-806L,Programming Lab,2,AIDS,True,Dr. Pari Reddy,AIDS
+AIDS-A_VIII,AIDS,A,VIII,CR-080,theory,57,DS-8012,Engineering,4,AIDS,False,Dr. Ananya Pandey,AIDS
+AIDS-A_VIII,AIDS,A,VIII,CR-080,theory,57,DS-807,Programming,4,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-A_VIII,AIDS,A,VIII,CR-080,theory,57,DS-8010,Engineering,4,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-A_VIII,AIDS,A,VIII,CR-080,theory,57,DS-809,Programming,4,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-B_I,AIDS,B,I,CR-142,theory,52,DS-102,Fundamentals,4,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-B_I,AIDS,B,I,CR-142,theory,52,DS-102L,Fundamentals Lab,2,AIDS,True,Dr. Arjun Pandey,AIDS
+AIDS-B_I,AIDS,B,I,CR-142,theory,52,DS-109,Applications,4,AIDS,False,Dr. Aadhya Sharma,AIDS
+AIDS-B_I,AIDS,B,I,CR-142,theory,52,DS-104,Analysis,4,AIDS,False,Dr. Aadhya Sharma,AIDS
+AIDS-B_I,AIDS,B,I,CR-142,theory,52,DS-104L,Analysis Lab,2,AIDS,True,Dr. Aadhya Sharma,AIDS
+AIDS-B_I,AIDS,B,I,CR-142,theory,52,DS-1012,Analysis,4,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-B_II,AIDS,B,II,CR-142,theory,52,DS-2012,Dynamics,3,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-B_II,AIDS,B,II,CR-142,theory,52,DS-2012L,Dynamics Lab,2,AIDS,True,Dr. Diya Joshi,AIDS
+AIDS-B_II,AIDS,B,II,CR-142,theory,52,DS-208,Structures,3,AIDS,False,Prof. Vihaan Singh,AIDS
+AIDS-B_II,AIDS,B,II,CR-142,theory,52,DS-2010,Design,3,AIDS,False,Prof. Vihaan Singh,AIDS
+AIDS-B_II,AIDS,B,II,CR-142,theory,52,DS-2010L,Design Lab,2,AIDS,True,Dr. Diya Joshi,AIDS
+AIDS-B_II,AIDS,B,II,CR-142,theory,52,DS-203,Principles,3,AIDS,False,Dr. Ananya Pandey,AIDS
+AIDS-B_III,AIDS,B,III,CR-142,theory,52,DS-304,Systems,3,AIDS,False,Prof. Vihaan Singh,AIDS
+AIDS-B_III,AIDS,B,III,CR-142,theory,52,DS-304L,Systems Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-B_III,AIDS,B,III,CR-142,theory,52,DS-309,Design,3,AIDS,False,Dr. Diya Joshi,AIDS
+AIDS-B_III,AIDS,B,III,CR-142,theory,52,DS-309L,Design Lab,2,AIDS,True,Prof. Priya Khan,AIDS
+AIDS-B_III,AIDS,B,III,CR-142,theory,52,DS-302,Structures,3,AIDS,False,Prof. Priya Khan,AIDS
+AIDS-B_III,AIDS,B,III,CR-142,theory,52,DS-302L,Structures Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-B_IV,AIDS,B,IV,CR-142,theory,52,DS-4011,Engineering,3,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-B_IV,AIDS,B,IV,CR-142,theory,52,DS-4011L,Engineering Lab,2,AIDS,True,Prof. Vihaan Singh,AIDS
+AIDS-B_IV,AIDS,B,IV,CR-142,theory,52,DS-405,Systems,4,AIDS,False,Prof. Vihaan Singh,AIDS
+AIDS-B_IV,AIDS,B,IV,CR-142,theory,52,DS-405L,Systems Lab,2,AIDS,True,Prof. Vihaan Singh,AIDS
+AIDS-B_IV,AIDS,B,IV,CR-142,theory,52,DS-403,Analysis,4,AIDS,False,Dr. Diya Joshi,AIDS
+AIDS-B_IV,AIDS,B,IV,CR-142,theory,52,DS-403L,Analysis Lab,2,AIDS,True,Dr. Reyansh Gupta,AIDS
+AIDS-B_V,AIDS,B,V,CR-142,theory,52,DS-506,Engineering,3,AIDS,False,Prof. Priya Khan,AIDS
+AIDS-B_V,AIDS,B,V,CR-142,theory,52,DS-502,Theory,3,AIDS,False,Prof. Priya Khan,AIDS
+AIDS-B_V,AIDS,B,V,CR-142,theory,52,DS-5010,Analysis,3,AIDS,False,Dr. Aadhya Sharma,AIDS
+AIDS-B_V,AIDS,B,V,CR-142,theory,52,DS-5010L,Analysis Lab,2,AIDS,True,Dr. Priya Yadav,AIDS
+AIDS-B_V,AIDS,B,V,CR-142,theory,52,DS-5011,Structures,4,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-B_V,AIDS,B,V,CR-142,theory,52,DS-508,Programming,3,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-B_VI,AIDS,B,VI,CR-142,theory,52,DS-603,Theory,4,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-B_VI,AIDS,B,VI,CR-142,theory,52,DS-603L,Theory Lab,2,AIDS,True,Dr. Priya Yadav,AIDS
+AIDS-B_VI,AIDS,B,VI,CR-142,theory,52,DS-601,Analysis,3,AIDS,False,Dr. Priya Yadav,AIDS
+AIDS-B_VI,AIDS,B,VI,CR-142,theory,52,DS-602,Fundamentals,4,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-B_VI,AIDS,B,VI,CR-142,theory,52,DS-609,Programming,3,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-B_VI,AIDS,B,VI,CR-142,theory,52,DS-609L,Programming Lab,2,AIDS,True,Prof. Saanvi Nath,AIDS
+AIDS-B_VII,AIDS,B,VII,CR-142,theory,52,DS-705,Engineering,3,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-B_VII,AIDS,B,VII,CR-142,theory,52,DS-7011,Engineering,4,AIDS,False,Prof. Vihaan Singh,AIDS
+AIDS-B_VII,AIDS,B,VII,CR-142,theory,52,DS-7011L,Engineering Lab,2,AIDS,True,Dr. Diya Joshi,AIDS
+AIDS-B_VII,AIDS,B,VII,CR-142,theory,52,DS-706,Dynamics,4,AIDS,False,Dr. Priya Yadav,AIDS
+AIDS-B_VII,AIDS,B,VII,CR-142,theory,52,DS-706L,Dynamics Lab,2,AIDS,True,Prof. Vihaan Singh,AIDS
+AIDS-B_VII,AIDS,B,VII,CR-142,theory,52,DS-707,Theory,4,AIDS,False,Dr. Priya Yadav,AIDS
+AIDS-B_VIII,AIDS,B,VIII,CR-142,theory,52,DS-8010,Engineering,4,AIDS,False,Dr. Aadhya Sharma,AIDS
+AIDS-B_VIII,AIDS,B,VIII,CR-142,theory,52,DS-807,Programming,4,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-B_VIII,AIDS,B,VIII,CR-142,theory,52,DS-8012,Engineering,4,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-B_VIII,AIDS,B,VIII,CR-142,theory,52,DS-8011,Engineering,4,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-B_VIII,AIDS,B,VIII,CR-142,theory,52,DS-8011L,Engineering Lab,2,AIDS,True,Dr. Arjun Iyer,AIDS
+AIDS-B_VIII,AIDS,B,VIII,CR-142,theory,52,DS-805,Fundamentals,4,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-C_I,AIDS,C,I,CR-078,theory,80,DS-107,Systems,3,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-C_I,AIDS,C,I,CR-078,theory,80,DS-102,Fundamentals,4,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-C_I,AIDS,C,I,CR-078,theory,80,DS-102L,Fundamentals Lab,2,AIDS,True,Dr. Pari Reddy,AIDS
+AIDS-C_I,AIDS,C,I,CR-078,theory,80,DS-103,Applications,3,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-C_I,AIDS,C,I,CR-078,theory,80,DS-101,Theory,3,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-C_I,AIDS,C,I,CR-078,theory,80,DS-104,Analysis,4,AIDS,False,Dr. Diya Khan,AIDS
+AIDS-C_II,AIDS,C,II,CR-078,theory,80,DS-204,Principles,4,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-C_II,AIDS,C,II,CR-078,theory,80,DS-204L,Principles Lab,2,AIDS,True,Dr. Arjun Pandey,AIDS
+AIDS-C_II,AIDS,C,II,CR-078,theory,80,DS-2010,Design,3,AIDS,False,Dr. Arjun Iyer,AIDS
+AIDS-C_II,AIDS,C,II,CR-078,theory,80,DS-2010L,Design Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-C_II,AIDS,C,II,CR-078,theory,80,DS-205,Principles,4,AIDS,False,Dr. Ananya Pandey,AIDS
+AIDS-C_II,AIDS,C,II,CR-078,theory,80,DS-207,Systems,3,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-C_III,AIDS,C,III,CR-078,theory,80,DS-305,Theory,3,AIDS,False,Dr. Priya Yadav,AIDS
+AIDS-C_III,AIDS,C,III,CR-078,theory,80,DS-305L,Theory Lab,2,AIDS,True,Dr. Aadhya Sharma,AIDS
+AIDS-C_III,AIDS,C,III,CR-078,theory,80,DS-309,Design,3,AIDS,False,Dr. Ananya Pandey,AIDS
+AIDS-C_III,AIDS,C,III,CR-078,theory,80,DS-309L,Design Lab,2,AIDS,True,Dr. Arjun Pandey,AIDS
+AIDS-C_III,AIDS,C,III,CR-078,theory,80,DS-306,Fundamentals,3,AIDS,False,Dr. Ananya Pandey,AIDS
+AIDS-C_III,AIDS,C,III,CR-078,theory,80,DS-306L,Fundamentals Lab,2,AIDS,True,Prof. Vihaan Singh,AIDS
+AIDS-C_IV,AIDS,C,IV,CR-078,theory,80,DS-405,Systems,4,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-C_IV,AIDS,C,IV,CR-078,theory,80,DS-405L,Systems Lab,2,AIDS,True,Dr. Aadhya Sharma,AIDS
+AIDS-C_IV,AIDS,C,IV,CR-078,theory,80,DS-4010,Analysis,3,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-C_IV,AIDS,C,IV,CR-078,theory,80,DS-406,Theory,4,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-C_IV,AIDS,C,IV,CR-078,theory,80,DS-406L,Theory Lab,2,AIDS,True,Dr. Priya Yadav,AIDS
+AIDS-C_IV,AIDS,C,IV,CR-078,theory,80,DS-402,Analysis,4,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-C_V,AIDS,C,V,CR-078,theory,80,DS-502,Theory,3,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-C_V,AIDS,C,V,CR-078,theory,80,DS-501,Principles,3,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-C_V,AIDS,C,V,CR-078,theory,80,DS-501L,Principles Lab,2,AIDS,True,Prof. Vihaan Singh,AIDS
+AIDS-C_V,AIDS,C,V,CR-078,theory,80,DS-5011,Structures,4,AIDS,False,Prof. Saanvi Nath,AIDS
+AIDS-C_V,AIDS,C,V,CR-078,theory,80,DS-506,Engineering,3,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-C_V,AIDS,C,V,CR-078,theory,80,DS-505,Analysis,4,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-C_VI,AIDS,C,VI,CR-078,theory,80,DS-6012,Theory,4,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-C_VI,AIDS,C,VI,CR-078,theory,80,DS-6012L,Theory Lab,2,AIDS,True,Dr. Diya Joshi,AIDS
+AIDS-C_VI,AIDS,C,VI,CR-078,theory,80,DS-606,Dynamics,4,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-C_VI,AIDS,C,VI,CR-078,theory,80,DS-606L,Dynamics Lab,2,AIDS,True,Prof. Priya Khan,AIDS
+AIDS-C_VI,AIDS,C,VI,CR-078,theory,80,DS-608,Analysis,4,AIDS,False,Dr. Arjun Pandey,AIDS
+AIDS-C_VI,AIDS,C,VI,CR-078,theory,80,DS-608L,Analysis Lab,2,AIDS,True,Prof. Sai Sharma,AIDS
+AIDS-C_VII,AIDS,C,VII,CR-078,theory,80,DS-702,Structures,3,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-C_VII,AIDS,C,VII,CR-078,theory,80,DS-702L,Structures Lab,2,AIDS,True,Dr. Diya Joshi,AIDS
+AIDS-C_VII,AIDS,C,VII,CR-078,theory,80,DS-7011,Engineering,4,AIDS,False,Dr. Aadhya Sharma,AIDS
+AIDS-C_VII,AIDS,C,VII,CR-078,theory,80,DS-7011L,Engineering Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-C_VII,AIDS,C,VII,CR-078,theory,80,DS-705,Engineering,3,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-C_VII,AIDS,C,VII,CR-078,theory,80,DS-709,Engineering,4,AIDS,False,Dr. Priya Yadav,AIDS
+AIDS-C_VIII,AIDS,C,VIII,CR-078,theory,80,DS-801,Analysis,4,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-C_VIII,AIDS,C,VIII,CR-078,theory,80,DS-801L,Analysis Lab,2,AIDS,True,Dr. Reyansh Gupta,AIDS
+AIDS-C_VIII,AIDS,C,VIII,CR-078,theory,80,DS-806,Programming,4,AIDS,False,Prof. Priya Khan,AIDS
+AIDS-C_VIII,AIDS,C,VIII,CR-078,theory,80,DS-806L,Programming Lab,2,AIDS,True,Dr. Pari Reddy,AIDS
+AIDS-C_VIII,AIDS,C,VIII,CR-078,theory,80,DS-809,Programming,4,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-C_VIII,AIDS,C,VIII,CR-078,theory,80,DS-809L,Programming Lab,2,AIDS,True,Prof. Priya Khan,AIDS
+AIDS-D_I,AIDS,D,I,CR-175,theory,59,DS-107,Systems,3,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-D_I,AIDS,D,I,CR-175,theory,59,DS-109,Applications,4,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-D_I,AIDS,D,I,CR-175,theory,59,DS-101,Theory,3,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-D_I,AIDS,D,I,CR-175,theory,59,DS-103,Applications,3,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-D_I,AIDS,D,I,CR-175,theory,59,DS-1012,Analysis,4,AIDS,False,Prof. Priya Khan,AIDS
+AIDS-D_I,AIDS,D,I,CR-175,theory,59,DS-1010,Theory,3,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-D_II,AIDS,D,II,CR-175,theory,59,DS-201,Design,4,AIDS,False,Dr. Priya Yadav,AIDS
+AIDS-D_II,AIDS,D,II,CR-175,theory,59,DS-201L,Design Lab,2,AIDS,True,Dr. Reyansh Gupta,AIDS
+AIDS-D_II,AIDS,D,II,CR-175,theory,59,DS-205,Principles,4,AIDS,False,Dr. Pari Reddy,AIDS
+AIDS-D_II,AIDS,D,II,CR-175,theory,59,DS-203,Principles,3,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-D_II,AIDS,D,II,CR-175,theory,59,DS-203L,Principles Lab,2,AIDS,True,Prof. Priya Khan,AIDS
+AIDS-D_II,AIDS,D,II,CR-175,theory,59,DS-206,Fundamentals,4,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-D_III,AIDS,D,III,CR-175,theory,59,DS-304,Systems,3,AIDS,False,Prof. Aarav Yadav,AIDS
+AIDS-D_III,AIDS,D,III,CR-175,theory,59,DS-304L,Systems Lab,2,AIDS,True,Prof. Sai Sharma,AIDS
+AIDS-D_III,AIDS,D,III,CR-175,theory,59,DS-3011,Engineering,3,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-D_III,AIDS,D,III,CR-175,theory,59,DS-3011L,Engineering Lab,2,AIDS,True,Prof. Aarav Yadav,AIDS
+AIDS-D_III,AIDS,D,III,CR-175,theory,59,DS-3010,Applications,3,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-D_III,AIDS,D,III,CR-175,theory,59,DS-3012,Principles,4,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-D_IV,AIDS,D,IV,CR-175,theory,59,DS-409,Theory,4,AIDS,False,Dr. Aadhya Sharma,AIDS
+AIDS-D_IV,AIDS,D,IV,CR-175,theory,59,DS-409L,Theory Lab,2,AIDS,True,Prof. Saanvi Reddy,AIDS
+AIDS-D_IV,AIDS,D,IV,CR-175,theory,59,DS-404,Analysis,3,AIDS,False,Dr. Reyansh Gupta,AIDS
+AIDS-D_IV,AIDS,D,IV,CR-175,theory,59,DS-404L,Analysis Lab,2,AIDS,True,Dr. Ananya Pandey,AIDS
+AIDS-D_IV,AIDS,D,IV,CR-175,theory,59,DS-408,Applications,3,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-D_IV,AIDS,D,IV,CR-175,theory,59,DS-408L,Applications Lab,2,AIDS,True,Prof. Sai Sharma,AIDS
+AIDS-D_V,AIDS,D,V,CR-175,theory,59,DS-506,Engineering,3,AIDS,False,Prof. Sai Sharma,AIDS
+AIDS-D_V,AIDS,D,V,CR-175,theory,59,DS-5011,Structures,4,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-D_V,AIDS,D,V,CR-175,theory,59,DS-503,Design,3,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-D_V,AIDS,D,V,CR-175,theory,59,DS-505,Analysis,4,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-D_V,AIDS,D,V,CR-175,theory,59,DS-505L,Analysis Lab,2,AIDS,True,Dr. Aadhya Sharma,AIDS
+AIDS-D_V,AIDS,D,V,CR-175,theory,59,DS-504,Principles,4,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-D_VI,AIDS,D,VI,CR-175,theory,59,DS-606,Dynamics,4,AIDS,False,Prof. Saanvi Reddy,AIDS
+AIDS-D_VI,AIDS,D,VI,CR-175,theory,59,DS-606L,Dynamics Lab,2,AIDS,True,Prof. Sai Sharma,AIDS
+AIML-A_I,AIML,A,I,CR-184,theory,66,AI-103,Applications,4,AIML,False,Dr. Diya Yadav,AIML
+AIML-A_I,AIML,A,I,CR-184,theory,66,AI-102,Principles,4,AIML,False,Prof. Krishna Khan,AIML
+AIML-A_I,AIML,A,I,CR-184,theory,66,AI-102L,Principles Lab,2,AIML,True,Prof. Diya Reddy,AIML
+AIML-A_I,AIML,A,I,CR-184,theory,66,AI-108,Fundamentals,4,AIML,False,Prof. Arjun Patel,AIML
+AIML-A_I,AIML,A,I,CR-184,theory,66,AI-1010,Systems,3,AIML,False,Dr. Fatima Khan,AIML
+AIML-A_I,AIML,A,I,CR-184,theory,66,AI-1010L,Systems Lab,2,AIML,True,Prof. Fatima Gupta,AIML
+AIML-A_II,AIML,A,II,CR-184,theory,66,AI-203,Principles,3,AIML,False,Dr. Diya Sharma,AIML
+AIML-A_II,AIML,A,II,CR-184,theory,66,AI-203L,Principles Lab,2,AIML,True,Prof. Diya Reddy,AIML
+AIML-A_II,AIML,A,II,CR-184,theory,66,AI-2010,Structures,3,AIML,False,Dr. Aditya Yadav,AIML
+AIML-A_II,AIML,A,II,CR-184,theory,66,AI-2010L,Structures Lab,2,AIML,True,Prof. Diya Reddy,AIML
+AIML-A_II,AIML,A,II,CR-184,theory,66,AI-208,Design,3,AIML,False,Dr. Pari Khan,AIML
+AIML-A_II,AIML,A,II,CR-184,theory,66,AI-208L,Design Lab,2,AIML,True,Prof. Ayaan Patel,AIML
+AIML-A_III,AIML,A,III,CR-184,theory,66,AI-306,Programming,4,AIML,False,Prof. Fatima Gupta,AIML
+AIML-A_III,AIML,A,III,CR-184,theory,66,AI-306L,Programming Lab,2,AIML,True,Dr. Diya Sharma,AIML
+AIML-A_III,AIML,A,III,CR-184,theory,66,AI-3012,Programming,4,AIML,False,Dr. Fatima Khan,AIML
+AIML-A_III,AIML,A,III,CR-184,theory,66,AI-3012L,Programming Lab,2,AIML,True,Dr. Fatima Khan,AIML
+AIML-A_III,AIML,A,III,CR-184,theory,66,AI-3011,Engineering,4,AIML,False,Dr. Fatima Khan,AIML
+AIML-A_III,AIML,A,III,CR-184,theory,66,AI-304,Applications,4,AIML,False,Prof. Aditya Verma,AIML
+AIML-A_IV,AIML,A,IV,CR-184,theory,66,AI-405,Design,4,AIML,False,Dr. Pari Khan,AIML
+AIML-A_IV,AIML,A,IV,CR-184,theory,66,AI-404,Theory,3,AIML,False,Prof. Ayaan Patel,AIML
+AIML-A_IV,AIML,A,IV,CR-184,theory,66,AI-404L,Theory Lab,2,AIML,True,Dr. Aarav Gupta,AIML
+AIML-A_IV,AIML,A,IV,CR-184,theory,66,AI-408,Dynamics,4,AIML,False,Dr. Diya Yadav,AIML
+AIML-A_IV,AIML,A,IV,CR-184,theory,66,AI-408L,Dynamics Lab,2,AIML,True,Dr. Pari Khan,AIML
+AIML-A_IV,AIML,A,IV,CR-184,theory,66,AI-406,Fundamentals,3,AIML,False,Prof. Saanvi Kumar,AIML
+AIML-A_V,AIML,A,V,CR-184,theory,66,AI-508,Systems,3,AIML,False,Prof. Krishna Khan,AIML
+AIML-A_V,AIML,A,V,CR-184,theory,66,AI-508L,Systems Lab,2,AIML,True,Dr. Diya Yadav,AIML
+AIML-A_V,AIML,A,V,CR-184,theory,66,AI-507,Programming,4,AIML,False,Dr. Aditya Yadav,AIML
+AIML-A_V,AIML,A,V,CR-184,theory,66,AI-506,Structures,3,AIML,False,Dr. Diya Sharma,AIML
+AIML-A_V,AIML,A,V,CR-184,theory,66,AI-506L,Structures Lab,2,AIML,True,Prof. Krishna Khan,AIML
+AIML-A_V,AIML,A,V,CR-184,theory,66,AI-501,Principles,3,AIML,False,Prof. Diya Reddy,AIML
+AIML-A_VI,AIML,A,VI,CR-184,theory,66,AI-608,Dynamics,3,AIML,False,Dr. Fatima Khan,AIML
+AIML-A_VI,AIML,A,VI,CR-184,theory,66,AI-607,Programming,3,AIML,False,Dr. Diya Yadav,AIML
+AIML-A_VI,AIML,A,VI,CR-184,theory,66,AI-607L,Programming Lab,2,AIML,True,Prof. Saanvi Kumar,AIML
+AIML-A_VI,AIML,A,VI,CR-184,theory,66,AI-6012,Fundamentals,4,AIML,False,Prof. Ayaan Patel,AIML
+AIML-A_VI,AIML,A,VI,CR-184,theory,66,AI-6012L,Fundamentals Lab,2,AIML,True,Prof. Fatima Gupta,AIML
+AIML-A_VI,AIML,A,VI,CR-184,theory,66,AI-6010,Engineering,3,AIML,False,Prof. Fatima Gupta,AIML
+AIML-A_VII,AIML,A,VII,CR-184,theory,66,AI-706,Design,3,AIML,False,Prof. Diya Reddy,AIML
+AIML-A_VII,AIML,A,VII,CR-184,theory,66,AI-706L,Design Lab,2,AIML,True,Prof. Arjun Patel,AIML
+AIML-A_VII,AIML,A,VII,CR-184,theory,66,AI-7012,Theory,3,AIML,False,Dr. Pari Singh,AIML
+AIML-A_VII,AIML,A,VII,CR-184,theory,66,AI-7012L,Theory Lab,2,AIML,True,Dr. Aarav Gupta,AIML
+AIML-A_VII,AIML,A,VII,CR-184,theory,66,AI-702,Principles,4,AIML,False,Dr. Diya Sharma,AIML
+AIML-A_VII,AIML,A,VII,CR-184,theory,66,AI-702L,Principles Lab,2,AIML,True,Dr. Pari Singh,AIML
+AIML-A_VIII,AIML,A,VIII,CR-184,theory,66,AI-8010,Design,3,AIML,False,Dr. Diya Pandey,AIML
+AIML-A_VIII,AIML,A,VIII,CR-184,theory,66,AI-8010L,Design Lab,2,AIML,True,Prof. Fatima Gupta,AIML
+AIML-A_VIII,AIML,A,VIII,CR-184,theory,66,AI-809,Engineering,4,AIML,False,Prof. Ayaan Patel,AIML
+AIML-A_VIII,AIML,A,VIII,CR-184,theory,66,AI-803,Theory,4,AIML,False,Dr. Diya Yadav,AIML
+AIML-A_VIII,AIML,A,VIII,CR-184,theory,66,AI-803L,Theory Lab,2,AIML,True,Prof. Saanvi Kumar,AIML
+AIML-A_VIII,AIML,A,VIII,CR-184,theory,66,AI-8011,Programming,4,AIML,False,Prof. Diya Reddy,AIML
+AIML-B_I,AIML,B,I,CR-033,theory,77,AI-106,Engineering,3,AIML,False,Prof. Saanvi Kumar,AIML
+AIML-B_I,AIML,B,I,CR-033,theory,77,AI-103,Applications,4,AIML,False,Prof. Diya Reddy,AIML
+AIML-B_I,AIML,B,I,CR-033,theory,77,AI-109,Principles,4,AIML,False,Dr. Pari Khan,AIML
+AIML-B_I,AIML,B,I,CR-033,theory,77,AI-109L,Principles Lab,2,AIML,True,Dr. Diya Sharma,AIML
+AIML-B_I,AIML,B,I,CR-033,theory,77,AI-1011,Fundamentals,3,AIML,False,Prof. Saanvi Kumar,AIML
+AIML-B_I,AIML,B,I,CR-033,theory,77,AI-104,Principles,3,AIML,False,Prof. Diya Reddy,AIML
+AIML-B_II,AIML,B,II,CR-033,theory,77,AI-208,Design,3,AIML,False,Dr. Pari Singh,AIML
+AIML-B_II,AIML,B,II,CR-033,theory,77,AI-208L,Design Lab,2,AIML,True,Dr. Aarav Gupta,AIML
+AIML-B_II,AIML,B,II,CR-033,theory,77,AI-202,Principles,3,AIML,False,Dr. Diya Yadav,AIML
+AIML-B_II,AIML,B,II,CR-033,theory,77,AI-202L,Principles Lab,2,AIML,True,Dr. Diya Sharma,AIML
+AIML-B_II,AIML,B,II,CR-033,theory,77,AI-207,Analysis,4,AIML,False,Prof. Ayaan Patel,AIML
+AIML-B_II,AIML,B,II,CR-033,theory,77,AI-207L,Analysis Lab,2,AIML,True,Prof. Fatima Gupta,AIML
+AIML-B_III,AIML,B,III,CR-033,theory,77,AI-303,Fundamentals,4,AIML,False,Dr. Pari Khan,AIML
+AIML-B_III,AIML,B,III,CR-033,theory,77,AI-308,Theory,4,AIML,False,Dr. Aditya Yadav,AIML
+AIML-B_III,AIML,B,III,CR-033,theory,77,AI-308L,Theory Lab,2,AIML,True,Prof. Aditya Verma,AIML
+AIML-B_III,AIML,B,III,CR-033,theory,77,AI-305,Design,4,AIML,False,Dr. Pari Singh,AIML
+AIML-B_III,AIML,B,III,CR-033,theory,77,AI-301,Systems,3,AIML,False,Dr. Diya Yadav,AIML
+AIML-B_III,AIML,B,III,CR-033,theory,77,AI-307,Engineering,3,AIML,False,Prof. Fatima Gupta,AIML
+AIML-B_IV,AIML,B,IV,CR-033,theory,77,AI-409,Engineering,4,AIML,False,Dr. Aarav Gupta,AIML
+AIML-B_IV,AIML,B,IV,CR-033,theory,77,AI-404,Theory,3,AIML,False,Prof. Ayaan Patel,AIML
+AIML-B_IV,AIML,B,IV,CR-033,theory,77,AI-404L,Theory Lab,2,AIML,True,Dr. Aditya Yadav,AIML
+AIML-B_IV,AIML,B,IV,CR-033,theory,77,AI-4010,Principles,4,AIML,False,Dr. Fatima Khan,AIML
+AIML-B_IV,AIML,B,IV,CR-033,theory,77,AI-4010L,Principles Lab,2,AIML,True,Prof. Aditya Verma,AIML
+AIML-B_IV,AIML,B,IV,CR-033,theory,77,AI-402,Dynamics,4,AIML,False,Dr. Pari Singh,AIML
+AIML-B_V,AIML,B,V,CR-033,theory,77,AI-5011,Design,3,AIML,False,Prof. Diya Reddy,AIML
+AIML-B_V,AIML,B,V,CR-033,theory,77,AI-5011L,Design Lab,2,AIML,True,Dr. Diya Yadav,AIML
+AIML-B_V,AIML,B,V,CR-033,theory,77,AI-502,Principles,3,AIML,False,Prof. Krishna Khan,AIML
+AIML-B_V,AIML,B,V,CR-033,theory,77,AI-502L,Principles Lab,2,AIML,True,Prof. Diya Reddy,AIML
+AIML-B_V,AIML,B,V,CR-033,theory,77,AI-5010,Fundamentals,3,AIML,False,Prof. Diya Reddy,AIML
+AIML-B_V,AIML,B,V,CR-033,theory,77,AI-5010L,Fundamentals Lab,2,AIML,True,Dr. Pari Khan,AIML
+AIML-B_VI,AIML,B,VI,CR-033,theory,77,AI-602,Theory,4,AIML,False,Prof. Aditya Verma,AIML
+AIML-B_VI,AIML,B,VI,CR-033,theory,77,AI-602L,Theory Lab,2,AIML,True,Dr. Diya Yadav,AIML
+AIML-B_VI,AIML,B,VI,CR-033,theory,77,AI-609,Dynamics,4,AIML,False,Dr. Diya Pandey,AIML
+AIML-B_VI,AIML,B,VI,CR-033,theory,77,AI-604,Structures,3,AIML,False,Dr. Fatima Khan,AIML
+AIML-B_VI,AIML,B,VI,CR-033,theory,77,AI-603,Engineering,4,AIML,False,Dr. Diya Sharma,AIML
+AIML-B_VI,AIML,B,VI,CR-033,theory,77,AI-603L,Engineering Lab,2,AIML,True,Dr. Fatima Khan,AIML
+AIML-B_VII,AIML,B,VII,CR-033,theory,77,AI-7011,Applications,3,AIML,False,Prof. Arjun Patel,AIML
+AIML-B_VII,AIML,B,VII,CR-033,theory,77,AI-7011L,Applications Lab,2,AIML,True,Dr. Pari Singh,AIML
+AIML-B_VII,AIML,B,VII,CR-033,theory,77,AI-707,Engineering,3,AIML,False,Prof. Arjun Patel,AIML
+AIML-B_VII,AIML,B,VII,CR-033,theory,77,AI-707L,Engineering Lab,2,AIML,True,Prof. Saanvi Kumar,AIML
+AIML-B_VII,AIML,B,VII,CR-033,theory,77,AI-7010,Applications,4,AIML,False,Prof. Fatima Gupta,AIML
+AIML-B_VII,AIML,B,VII,CR-033,theory,77,AI-7010L,Applications Lab,2,AIML,True,Prof. Diya Reddy,AIML
+AIML-B_VIII,AIML,B,VIII,CR-033,theory,77,AI-805,Programming,3,AIML,False,Prof. Aditya Verma,AIML
+AIML-B_VIII,AIML,B,VIII,CR-033,theory,77,AI-802,Programming,4,AIML,False,Dr. Aditya Yadav,AIML
+AIML-B_VIII,AIML,B,VIII,CR-033,theory,77,AI-802L,Programming Lab,2,AIML,True,Prof. Diya Reddy,AIML
+AIML-B_VIII,AIML,B,VIII,CR-033,theory,77,AI-806,Applications,3,AIML,False,Dr. Diya Sharma,AIML
+AIML-B_VIII,AIML,B,VIII,CR-033,theory,77,AI-806L,Applications Lab,2,AIML,True,Prof. Fatima Gupta,AIML
+AIML-B_VIII,AIML,B,VIII,CR-033,theory,77,AI-801,Fundamentals,3,AIML,False,Prof. Fatima Gupta,AIML
+AIML-C_I,AIML,C,I,CR-135,theory,64,AI-104,Principles,3,AIML,False,Prof. Fatima Gupta,AIML
+AIML-C_I,AIML,C,I,CR-135,theory,64,AI-104L,Principles Lab,2,AIML,True,Prof. Arjun Patel,AIML
+AIML-C_I,AIML,C,I,CR-135,theory,64,AI-105,Engineering,3,AIML,False,Dr. Diya Pandey,AIML
+AIML-C_I,AIML,C,I,CR-135,theory,64,AI-105L,Engineering Lab,2,AIML,True,Prof. Krishna Khan,AIML
+AIML-C_I,AIML,C,I,CR-135,theory,64,AI-102,Principles,4,AIML,False,Dr. Diya Sharma,AIML
+AIML-C_I,AIML,C,I,CR-135,theory,64,AI-102L,Principles Lab,2,AIML,True,Dr. Diya Yadav,AIML
+AIML-C_II,AIML,C,II,CR-135,theory,64,AI-2012,Principles,3,AIML,False,Dr. Aditya Yadav,AIML
+AIML-C_II,AIML,C,II,CR-135,theory,64,AI-2012L,Principles Lab,2,AIML,True,Prof. Arjun Patel,AIML
+AIML-C_II,AIML,C,II,CR-135,theory,64,AI-2010,Structures,3,AIML,False,Dr. Diya Sharma,AIML
+AIML-C_II,AIML,C,II,CR-135,theory,64,AI-2010L,Structures Lab,2,AIML,True,Prof. Krishna Khan,AIML
+AIML-C_II,AIML,C,II,CR-135,theory,64,AI-206,Design,3,AIML,False,Dr. Fatima Khan,AIML
+AIML-C_II,AIML,C,II,CR-135,theory,64,AI-208,Design,3,AIML,False,Prof. Krishna Khan,AIML
+AIML-C_III,AIML,C,III,CR-135,theory,64,AI-3011,Engineering,4,AIML,False,Prof. Arjun Patel,AIML
+AIML-C_III,AIML,C,III,CR-135,theory,64,AI-308,Theory,4,AIML,False,Prof. Saanvi Kumar,AIML
+AIML-C_III,AIML,C,III,CR-135,theory,64,AI-308L,Theory Lab,2,AIML,True,Dr. Fatima Khan,AIML
+AIML-C_III,AIML,C,III,CR-135,theory,64,AI-309,Fundamentals,3,AIML,False,Prof. Ayaan Patel,AIML
+AIML-C_III,AIML,C,III,CR-135,theory,64,AI-309L,Fundamentals Lab,2,AIML,True,Prof. Arjun Patel,AIML
+AIML-C_III,AIML,C,III,CR-135,theory,64,AI-307,Engineering,3,AIML,False,Dr. Pari Singh,AIML
+AIML-C_IV,AIML,C,IV,CR-135,theory,64,AI-409,Engineering,4,AIML,False,Dr. Diya Yadav,AIML
+AIML-C_IV,AIML,C,IV,CR-135,theory,64,AI-4012,Principles,3,AIML,False,Dr. Pari Khan,AIML
+AIML-C_IV,AIML,C,IV,CR-135,theory,64,AI-404,Theory,3,AIML,False,Prof. Aditya Verma,AIML
+AIML-C_IV,AIML,C,IV,CR-135,theory,64,AI-404L,Theory Lab,2,AIML,True,Prof. Krishna Khan,AIML
+AIML-C_IV,AIML,C,IV,CR-135,theory,64,AI-408,Dynamics,4,AIML,False,Prof. Fatima Gupta,AIML
+AIML-C_IV,AIML,C,IV,CR-135,theory,64,AI-408L,Dynamics Lab,2,AIML,True,Dr. Pari Khan,AIML
+AIML-C_V,AIML,C,V,CR-135,theory,64,AI-503,Fundamentals,4,AIML,False,Prof. Saanvi Kumar,AIML
+AIML-C_V,AIML,C,V,CR-135,theory,64,AI-5011,Design,3,AIML,False,Prof. Ayaan Patel,AIML
+AIML-C_V,AIML,C,V,CR-135,theory,64,AI-5011L,Design Lab,2,AIML,True,Prof. Aditya Verma,AIML
+AIML-C_V,AIML,C,V,CR-135,theory,64,AI-506,Structures,3,AIML,False,Dr. Diya Pandey,AIML
+AIML-C_V,AIML,C,V,CR-135,theory,64,AI-506L,Structures Lab,2,AIML,True,Dr. Diya Pandey,AIML
+AIML-C_V,AIML,C,V,CR-135,theory,64,AI-508,Systems,3,AIML,False,Dr. Diya Pandey,AIML
+AIML-C_VI,AIML,C,VI,CR-135,theory,64,AI-604,Structures,3,AIML,False,Dr. Diya Yadav,AIML
+AIML-C_VI,AIML,C,VI,CR-135,theory,64,AI-601,Engineering,4,AIML,False,Prof. Krishna Khan,AIML
+AIML-C_VI,AIML,C,VI,CR-135,theory,64,AI-601L,Engineering Lab,2,AIML,True,Dr. Aditya Yadav,AIML
+AIML-C_VI,AIML,C,VI,CR-135,theory,64,AI-608,Dynamics,3,AIML,False,Prof. Ayaan Patel,AIML
+AIML-C_VI,AIML,C,VI,CR-135,theory,64,AI-603,Engineering,4,AIML,False,Prof. Arjun Patel,AIML
+AIML-C_VI,AIML,C,VI,CR-135,theory,64,AI-603L,Engineering Lab,2,AIML,True,Prof. Ayaan Patel,AIML
+AIML-C_VII,AIML,C,VII,CR-135,theory,64,AI-7012,Theory,3,AIML,False,Dr. Diya Sharma,AIML
+AIML-C_VII,AIML,C,VII,CR-135,theory,64,AI-7012L,Theory Lab,2,AIML,True,Prof. Saanvi Kumar,AIML
+AIML-C_VII,AIML,C,VII,CR-135,theory,64,AI-707,Engineering,3,AIML,False,Dr. Diya Sharma,AIML
+AIML-C_VII,AIML,C,VII,CR-135,theory,64,AI-707L,Engineering Lab,2,AIML,True,Prof. Aditya Verma,AIML
+AIML-C_VII,AIML,C,VII,CR-135,theory,64,AI-709,Applications,3,AIML,False,Dr. Aarav Gupta,AIML
+AIML-C_VII,AIML,C,VII,CR-135,theory,64,AI-709L,Applications Lab,2,AIML,True,Dr. Pari Singh,AIML
+AIML-C_VIII,AIML,C,VIII,CR-135,theory,64,AI-805,Programming,3,AIML,False,Dr. Pari Singh,AIML
+AIML-C_VIII,AIML,C,VIII,CR-135,theory,64,AI-803,Theory,4,AIML,False,Dr. Aarav Gupta,AIML
+AIML-C_VIII,AIML,C,VIII,CR-135,theory,64,AI-803L,Theory Lab,2,AIML,True,Prof. Ayaan Patel,AIML
+AIML-C_VIII,AIML,C,VIII,CR-135,theory,64,AI-801,Fundamentals,3,AIML,False,Dr. Fatima Khan,AIML
+AIML-C_VIII,AIML,C,VIII,CR-135,theory,64,AI-809,Engineering,4,AIML,False,Dr. Aditya Yadav,AIML
+AIML-C_VIII,AIML,C,VIII,CR-135,theory,64,AI-8010,Design,3,AIML,False,Prof. Saanvi Kumar,AIML
+AIML-D_I,AIML,D,I,CR-154,theory,67,AI-1010,Systems,3,AIML,False,Prof. Krishna Khan,AIML
+AIML-D_I,AIML,D,I,CR-154,theory,67,AI-1010L,Systems Lab,2,AIML,True,Prof. Krishna Khan,AIML
+AIML-D_I,AIML,D,I,CR-154,theory,67,AI-108,Fundamentals,4,AIML,False,Dr. Diya Pandey,AIML
+AIML-D_I,AIML,D,I,CR-154,theory,67,AI-109,Principles,4,AIML,False,Prof. Arjun Patel,AIML
+AIML-D_I,AIML,D,I,CR-154,theory,67,AI-109L,Principles Lab,2,AIML,True,Prof. Ayaan Patel,AIML
+AIML-D_I,AIML,D,I,CR-154,theory,67,AI-104,Principles,3,AIML,False,Dr. Pari Singh,AIML
+AIML-D_II,AIML,D,II,CR-154,theory,67,AI-2011,Engineering,4,AIML,False,Prof. Krishna Khan,AIML
+AIML-D_II,AIML,D,II,CR-154,theory,67,AI-2011L,Engineering Lab,2,AIML,True,Prof. Saanvi Kumar,AIML
+AIML-D_II,AIML,D,II,CR-154,theory,67,AI-204,Principles,3,AIML,False,Prof. Saanvi Kumar,AIML
+AIML-D_II,AIML,D,II,CR-154,theory,67,AI-204L,Principles Lab,2,AIML,True,Dr. Pari Khan,AIML
+AIML-D_II,AIML,D,II,CR-154,theory,67,AI-202,Principles,3,AIML,False,Dr. Pari Khan,AIML
+AIML-D_II,AIML,D,II,CR-154,theory,67,AI-202L,Principles Lab,2,AIML,True,Dr. Pari Singh,AIML
+AIML-D_III,AIML,D,III,CR-154,theory,67,AI-305,Design,4,AIML,False,Dr. Pari Khan,AIML
+AIML-D_III,AIML,D,III,CR-154,theory,67,AI-302,Engineering,4,AIML,False,Prof. Arjun Patel,AIML
+AIML-D_III,AIML,D,III,CR-154,theory,67,AI-302L,Engineering Lab,2,AIML,True,Prof. Fatima Gupta,AIML
+AIML-D_III,AIML,D,III,CR-154,theory,67,AI-306,Programming,4,AIML,False,Dr. Aditya Yadav,AIML
+AIML-D_III,AIML,D,III,CR-154,theory,67,AI-306L,Programming Lab,2,AIML,True,Prof. Saanvi Kumar,AIML
+AIML-D_III,AIML,D,III,CR-154,theory,67,AI-303,Fundamentals,4,AIML,False,Dr. Aarav Gupta,AIML
+AIML-D_IV,AIML,D,IV,CR-154,theory,67,AI-405,Design,4,AIML,False,Dr. Aarav Gupta,AIML
+AIML-D_IV,AIML,D,IV,CR-154,theory,67,AI-407,Structures,4,AIML,False,Dr. Aarav Gupta,AIML
+AIML-D_IV,AIML,D,IV,CR-154,theory,67,AI-407L,Structures Lab,2,AIML,True,Prof. Aditya Verma,AIML
+AIML-D_IV,AIML,D,IV,CR-154,theory,67,AI-404,Theory,3,AIML,False,Dr. Pari Khan,AIML
+AIML-D_IV,AIML,D,IV,CR-154,theory,67,AI-404L,Theory Lab,2,AIML,True,Dr. Fatima Khan,AIML
+AIML-D_IV,AIML,D,IV,CR-154,theory,67,AI-4010,Principles,4,AIML,False,Dr. Diya Pandey,AIML
+AIML-D_V,AIML,D,V,CR-154,theory,67,AI-507,Programming,4,AIML,False,Dr. Aditya Yadav,AIML
+AIML-D_V,AIML,D,V,CR-154,theory,67,AI-5012,Analysis,4,AIML,False,Dr. Aarav Gupta,AIML
+AIML-D_V,AIML,D,V,CR-154,theory,67,AI-504,Engineering,4,AIML,False,Dr. Pari Singh,AIML
+AIML-D_V,AIML,D,V,CR-154,theory,67,AI-508,Systems,3,AIML,False,Prof. Aditya Verma,AIML
+AIML-D_V,AIML,D,V,CR-154,theory,67,AI-508L,Systems Lab,2,AIML,True,Prof. Krishna Khan,AIML
+AIML-D_V,AIML,D,V,CR-154,theory,67,AI-503,Fundamentals,4,AIML,False,Dr. Diya Pandey,AIML
+AIML-D_VI,AIML,D,VI,CR-154,theory,67,AI-604,Structures,3,AIML,False,Prof. Aditya Verma,AIML
+AIML-D_VI,AIML,D,VI,CR-154,theory,67,AI-607,Programming,3,AIML,False,Prof. Aditya Verma,AIML
+AIML-D_VI,AIML,D,VI,CR-154,theory,67,AI-607L,Programming Lab,2,AIML,True,Prof. Arjun Patel,AIML
+AIML-D_VI,AIML,D,VI,CR-154,theory,67,AI-603,Engineering,4,AIML,False,Dr. Diya Pandey,AIML
+AIML-D_VI,AIML,D,VI,CR-154,theory,67,AI-603L,Engineering Lab,2,AIML,True,Dr. Aditya Yadav,AIML
+AIML-D_VI,AIML,D,VI,CR-154,theory,67,AI-605,Programming,3,AIML,False,Dr. Aarav Gupta,AIML
+AIML-D_VII,AIML,D,VII,CR-154,theory,67,AI-709,Applications,3,AIML,False,Prof. Aditya Verma,AIML
+AIML-D_VII,AIML,D,VII,CR-154,theory,67,AI-709L,Applications Lab,2,AIML,True,Dr. Diya Pandey,AIML
+ECE-A_I,ECE,A,I,CR-121,theory,60,EC-101,Analysis,3,ECE,False,Dr. Ishaan Nath,ECE
+ECE-A_I,ECE,A,I,CR-121,theory,60,EC-101L,Analysis Lab,2,ECE,True,Prof. Priya Joshi,ECE
+ECE-A_I,ECE,A,I,CR-121,theory,60,EC-108,Programming,4,ECE,False,Prof. Ananya Mishra,ECE
+ECE-A_I,ECE,A,I,CR-121,theory,60,EC-1012,Fundamentals,4,ECE,False,Dr. Aarav Khan,ECE
+ECE-A_I,ECE,A,I,CR-121,theory,60,EC-1012L,Fundamentals Lab,2,ECE,True,Dr. Kiara Kumar,ECE
+ECE-A_I,ECE,A,I,CR-121,theory,60,EC-105,Structures,4,ECE,False,Prof. Aditya Khan,ECE
+ECE-A_II,ECE,A,II,CR-121,theory,60,EC-206,Theory,3,ECE,False,Prof. Sai Patel,ECE
+ECE-A_II,ECE,A,II,CR-121,theory,60,EC-203,Systems,3,ECE,False,Prof. Ananya Mishra,ECE
+ECE-A_II,ECE,A,II,CR-121,theory,60,EC-203L,Systems Lab,2,ECE,True,Dr. Fatima Iyer,ECE
+ECE-A_II,ECE,A,II,CR-121,theory,60,EC-2012,Dynamics,3,ECE,False,Dr. Ishaan Nath,ECE
+ECE-A_II,ECE,A,II,CR-121,theory,60,EC-2012L,Dynamics Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-A_II,ECE,A,II,CR-121,theory,60,EC-204,Engineering,4,ECE,False,Dr. Pari Patel,ECE
+ECE-A_III,ECE,A,III,CR-121,theory,60,EC-304,Theory,4,ECE,False,Prof. Kiara Patel,ECE
+ECE-A_III,ECE,A,III,CR-121,theory,60,EC-306,Analysis,4,ECE,False,Dr. Kiara Kumar,ECE
+ECE-A_III,ECE,A,III,CR-121,theory,60,EC-305,Design,4,ECE,False,Prof. Kiara Patel,ECE
+ECE-A_III,ECE,A,III,CR-121,theory,60,EC-3012,Applications,3,ECE,False,Prof. Ananya Mishra,ECE
+ECE-A_III,ECE,A,III,CR-121,theory,60,EC-309,Systems,4,ECE,False,Prof. Aarav Mishra,ECE
+ECE-A_III,ECE,A,III,CR-121,theory,60,EC-309L,Systems Lab,2,ECE,True,Dr. Ishaan Nath,ECE
+ECE-A_IV,ECE,A,IV,CR-121,theory,60,EC-406,Systems,4,ECE,False,Prof. Diya Singh,ECE
+ECE-A_IV,ECE,A,IV,CR-121,theory,60,EC-401,Fundamentals,3,ECE,False,Prof. Aarav Gupta,ECE
+ECE-A_IV,ECE,A,IV,CR-121,theory,60,EC-401L,Fundamentals Lab,2,ECE,True,Prof. Ananya Mishra,ECE
+ECE-A_IV,ECE,A,IV,CR-121,theory,60,EC-405,Principles,4,ECE,False,Prof. Kiara Patel,ECE
+ECE-A_IV,ECE,A,IV,CR-121,theory,60,EC-407,Theory,3,ECE,False,Dr. Kiara Kumar,ECE
+ECE-A_IV,ECE,A,IV,CR-121,theory,60,EC-4011,Theory,3,ECE,False,Prof. Sai Patel,ECE
+ECE-A_V,ECE,A,V,CR-121,theory,60,EC-507,Engineering,3,ECE,False,Dr. Reyansh Khan,ECE
+ECE-A_V,ECE,A,V,CR-121,theory,60,EC-5011,Programming,3,ECE,False,Prof. Kiara Patel,ECE
+ECE-A_V,ECE,A,V,CR-121,theory,60,EC-5011L,Programming Lab,2,ECE,True,Prof. Ananya Mishra,ECE
+ECE-A_V,ECE,A,V,CR-121,theory,60,EC-509,Programming,3,ECE,False,Dr. Fatima Iyer,ECE
+ECE-A_V,ECE,A,V,CR-121,theory,60,EC-509L,Programming Lab,2,ECE,True,Dr. Ishaan Nath,ECE
+ECE-A_V,ECE,A,V,CR-121,theory,60,EC-5012,Engineering,4,ECE,False,Prof. Priya Joshi,ECE
+ECE-A_VI,ECE,A,VI,CR-121,theory,60,EC-601,Systems,3,ECE,False,Prof. Aarav Gupta,ECE
+ECE-A_VI,ECE,A,VI,CR-121,theory,60,EC-601L,Systems Lab,2,ECE,True,Prof. Aarav Gupta,ECE
+ECE-A_VI,ECE,A,VI,CR-121,theory,60,EC-603,Design,3,ECE,False,Prof. Aditya Khan,ECE
+ECE-A_VI,ECE,A,VI,CR-121,theory,60,EC-603L,Design Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-A_VI,ECE,A,VI,CR-121,theory,60,EC-604,Engineering,3,ECE,False,Prof. Sai Patel,ECE
+ECE-A_VI,ECE,A,VI,CR-121,theory,60,EC-605,Theory,3,ECE,False,Prof. Diya Singh,ECE
+ECE-A_VII,ECE,A,VII,CR-121,theory,60,EC-708,Analysis,3,ECE,False,Prof. Ananya Mishra,ECE
+ECE-A_VII,ECE,A,VII,CR-121,theory,60,EC-707,Structures,4,ECE,False,Dr. Kiara Kumar,ECE
+ECE-A_VII,ECE,A,VII,CR-121,theory,60,EC-707L,Structures Lab,2,ECE,True,Dr. Pari Patel,ECE
+ECE-A_VII,ECE,A,VII,CR-121,theory,60,EC-709,Design,3,ECE,False,Dr. Kiara Kumar,ECE
+ECE-A_VII,ECE,A,VII,CR-121,theory,60,EC-701,Engineering,4,ECE,False,Prof. Diya Singh,ECE
+ECE-A_VII,ECE,A,VII,CR-121,theory,60,EC-7010,Applications,3,ECE,False,Prof. Aarav Mishra,ECE
+ECE-A_VIII,ECE,A,VIII,CR-121,theory,60,EC-808,Analysis,3,ECE,False,Prof. Ananya Mishra,ECE
+ECE-A_VIII,ECE,A,VIII,CR-121,theory,60,EC-808L,Analysis Lab,2,ECE,True,Prof. Kiara Patel,ECE
+ECE-A_VIII,ECE,A,VIII,CR-121,theory,60,EC-809,Dynamics,3,ECE,False,Prof. Priya Joshi,ECE
+ECE-A_VIII,ECE,A,VIII,CR-121,theory,60,EC-809L,Dynamics Lab,2,ECE,True,Prof. Aarav Gupta,ECE
+ECE-A_VIII,ECE,A,VIII,CR-121,theory,60,EC-807,Principles,4,ECE,False,Prof. Kiara Patel,ECE
+ECE-A_VIII,ECE,A,VIII,CR-121,theory,60,EC-807L,Principles Lab,2,ECE,True,Prof. Kiara Patel,ECE
+ECE-B_I,ECE,B,I,CR-143,theory,58,EC-101,Analysis,3,ECE,False,Dr. Aarav Khan,ECE
+ECE-B_I,ECE,B,I,CR-143,theory,58,EC-101L,Analysis Lab,2,ECE,True,Prof. Aarav Mishra,ECE
+ECE-B_I,ECE,B,I,CR-143,theory,58,EC-109,Analysis,3,ECE,False,Prof. Kiara Patel,ECE
+ECE-B_I,ECE,B,I,CR-143,theory,58,EC-1010,Fundamentals,3,ECE,False,Dr. Aarav Khan,ECE
+ECE-B_I,ECE,B,I,CR-143,theory,58,EC-103,Theory,3,ECE,False,Dr. Pari Patel,ECE
+ECE-B_I,ECE,B,I,CR-143,theory,58,EC-103L,Theory Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-B_II,ECE,B,II,CR-143,theory,58,EC-207,Dynamics,3,ECE,False,Dr. Aarav Khan,ECE
+ECE-B_II,ECE,B,II,CR-143,theory,58,EC-207L,Dynamics Lab,2,ECE,True,Dr. Fatima Iyer,ECE
+ECE-B_II,ECE,B,II,CR-143,theory,58,EC-2011,Dynamics,4,ECE,False,Dr. Fatima Iyer,ECE
+ECE-B_II,ECE,B,II,CR-143,theory,58,EC-2011L,Dynamics Lab,2,ECE,True,Prof. Priya Joshi,ECE
+ECE-B_II,ECE,B,II,CR-143,theory,58,EC-203,Systems,3,ECE,False,Dr. Pari Patel,ECE
+ECE-B_II,ECE,B,II,CR-143,theory,58,EC-203L,Systems Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-B_III,ECE,B,III,CR-143,theory,58,EC-301,Design,4,ECE,False,Dr. Kiara Kumar,ECE
+ECE-B_III,ECE,B,III,CR-143,theory,58,EC-3011,Design,3,ECE,False,Dr. Pari Patel,ECE
+ECE-B_III,ECE,B,III,CR-143,theory,58,EC-309,Systems,4,ECE,False,Prof. Aarav Gupta,ECE
+ECE-B_III,ECE,B,III,CR-143,theory,58,EC-309L,Systems Lab,2,ECE,True,Dr. Pari Patel,ECE
+ECE-B_III,ECE,B,III,CR-143,theory,58,EC-303,Structures,4,ECE,False,Dr. Pari Patel,ECE
+ECE-B_III,ECE,B,III,CR-143,theory,58,EC-306,Analysis,4,ECE,False,Prof. Priya Joshi,ECE
+ECE-B_IV,ECE,B,IV,CR-143,theory,58,EC-401,Fundamentals,3,ECE,False,Prof. Aarav Gupta,ECE
+ECE-B_IV,ECE,B,IV,CR-143,theory,58,EC-401L,Fundamentals Lab,2,ECE,True,Dr. Ishaan Nath,ECE
+ECE-B_IV,ECE,B,IV,CR-143,theory,58,EC-4012,Structures,4,ECE,False,Prof. Sai Patel,ECE
+ECE-B_IV,ECE,B,IV,CR-143,theory,58,EC-406,Systems,4,ECE,False,Prof. Aarav Gupta,ECE
+ECE-B_IV,ECE,B,IV,CR-143,theory,58,EC-402,Analysis,4,ECE,False,Prof. Ananya Mishra,ECE
+ECE-B_IV,ECE,B,IV,CR-143,theory,58,EC-407,Theory,3,ECE,False,Prof. Aarav Mishra,ECE
+ECE-B_V,ECE,B,V,CR-143,theory,58,EC-5012,Engineering,4,ECE,False,Prof. Kiara Patel,ECE
+ECE-B_V,ECE,B,V,CR-143,theory,58,EC-507,Engineering,3,ECE,False,Prof. Aditya Khan,ECE
+ECE-B_V,ECE,B,V,CR-143,theory,58,EC-506,Dynamics,3,ECE,False,Prof. Diya Singh,ECE
+ECE-B_V,ECE,B,V,CR-143,theory,58,EC-506L,Dynamics Lab,2,ECE,True,Prof. Ananya Mishra,ECE
+ECE-B_V,ECE,B,V,CR-143,theory,58,EC-508,Design,4,ECE,False,Prof. Aditya Khan,ECE
+ECE-B_V,ECE,B,V,CR-143,theory,58,EC-504,Principles,4,ECE,False,Dr. Ishaan Nath,ECE
+ECE-B_VI,ECE,B,VI,CR-143,theory,58,EC-605,Theory,3,ECE,False,Dr. Kiara Kumar,ECE
+ECE-B_VI,ECE,B,VI,CR-143,theory,58,EC-605L,Theory Lab,2,ECE,True,Dr. Reyansh Khan,ECE
+ECE-B_VI,ECE,B,VI,CR-143,theory,58,EC-609,Theory,3,ECE,False,Dr. Pari Patel,ECE
+ECE-B_VI,ECE,B,VI,CR-143,theory,58,EC-606,Fundamentals,4,ECE,False,Prof. Aarav Gupta,ECE
+ECE-B_VI,ECE,B,VI,CR-143,theory,58,EC-604,Engineering,3,ECE,False,Dr. Pari Patel,ECE
+ECE-B_VI,ECE,B,VI,CR-143,theory,58,EC-6010,Systems,4,ECE,False,Dr. Pari Patel,ECE
+ECE-B_VII,ECE,B,VII,CR-143,theory,58,EC-704,Structures,4,ECE,False,Prof. Priya Joshi,ECE
+ECE-B_VII,ECE,B,VII,CR-143,theory,58,EC-704L,Structures Lab,2,ECE,True,Dr. Kiara Kumar,ECE
+ECE-B_VII,ECE,B,VII,CR-143,theory,58,EC-7011,Fundamentals,3,ECE,False,Prof. Diya Singh,ECE
+ECE-B_VII,ECE,B,VII,CR-143,theory,58,EC-7011L,Fundamentals Lab,2,ECE,True,Dr. Aarav Khan,ECE
+ECE-B_VII,ECE,B,VII,CR-143,theory,58,EC-702,Theory,3,ECE,False,Dr. Reyansh Khan,ECE
+ECE-B_VII,ECE,B,VII,CR-143,theory,58,EC-709,Design,3,ECE,False,Prof. Priya Joshi,ECE
+ECE-B_VIII,ECE,B,VIII,CR-143,theory,58,EC-808,Analysis,3,ECE,False,Dr. Aarav Khan,ECE
+ECE-B_VIII,ECE,B,VIII,CR-143,theory,58,EC-808L,Analysis Lab,2,ECE,True,Dr. Aarav Khan,ECE
+ECE-B_VIII,ECE,B,VIII,CR-143,theory,58,EC-8012,Structures,4,ECE,False,Prof. Diya Singh,ECE
+ECE-B_VIII,ECE,B,VIII,CR-143,theory,58,EC-8012L,Structures Lab,2,ECE,True,Prof. Diya Singh,ECE
+ECE-B_VIII,ECE,B,VIII,CR-143,theory,58,EC-8011,Principles,3,ECE,False,Dr. Aarav Khan,ECE
+ECE-B_VIII,ECE,B,VIII,CR-143,theory,58,EC-8011L,Principles Lab,2,ECE,True,Dr. Ishaan Nath,ECE
+ECE-C_I,ECE,C,I,CR-051,theory,64,EC-1012,Fundamentals,4,ECE,False,Prof. Priya Joshi,ECE
+ECE-C_I,ECE,C,I,CR-051,theory,64,EC-1012L,Fundamentals Lab,2,ECE,True,Dr. Kiara Kumar,ECE
+ECE-C_I,ECE,C,I,CR-051,theory,64,EC-104,Design,4,ECE,False,Prof. Aarav Mishra,ECE
+ECE-C_I,ECE,C,I,CR-051,theory,64,EC-105,Structures,4,ECE,False,Prof. Kiara Patel,ECE
+ECE-C_I,ECE,C,I,CR-051,theory,64,EC-105L,Structures Lab,2,ECE,True,Prof. Aditya Khan,ECE
+ECE-C_I,ECE,C,I,CR-051,theory,64,EC-102,Theory,4,ECE,False,Prof. Priya Joshi,ECE
+ECE-C_II,ECE,C,II,CR-051,theory,64,EC-207,Dynamics,3,ECE,False,Prof. Diya Singh,ECE
+ECE-C_II,ECE,C,II,CR-051,theory,64,EC-207L,Dynamics Lab,2,ECE,True,Prof. Priya Joshi,ECE
+ECE-C_II,ECE,C,II,CR-051,theory,64,EC-208,Principles,4,ECE,False,Dr. Aarav Khan,ECE
+ECE-C_II,ECE,C,II,CR-051,theory,64,EC-203,Systems,3,ECE,False,Dr. Fatima Iyer,ECE
+ECE-C_II,ECE,C,II,CR-051,theory,64,EC-203L,Systems Lab,2,ECE,True,Dr. Reyansh Khan,ECE
+ECE-C_II,ECE,C,II,CR-051,theory,64,EC-2012,Dynamics,3,ECE,False,Prof. Aarav Mishra,ECE
+ECE-C_III,ECE,C,III,CR-051,theory,64,EC-3010,Design,4,ECE,False,Dr. Reyansh Khan,ECE
+ECE-C_III,ECE,C,III,CR-051,theory,64,EC-303,Structures,4,ECE,False,Prof. Ananya Mishra,ECE
+ECE-C_III,ECE,C,III,CR-051,theory,64,EC-306,Analysis,4,ECE,False,Dr. Kiara Kumar,ECE
+ECE-C_III,ECE,C,III,CR-051,theory,64,EC-301,Design,4,ECE,False,Prof. Aarav Gupta,ECE
+ECE-C_III,ECE,C,III,CR-051,theory,64,EC-309,Systems,4,ECE,False,Dr. Ishaan Nath,ECE
+ECE-C_III,ECE,C,III,CR-051,theory,64,EC-309L,Systems Lab,2,ECE,True,Dr. Ishaan Nath,ECE
+ECE-C_IV,ECE,C,IV,CR-051,theory,64,EC-401,Fundamentals,3,ECE,False,Prof. Ananya Mishra,ECE
+ECE-C_IV,ECE,C,IV,CR-051,theory,64,EC-401L,Fundamentals Lab,2,ECE,True,Prof. Aditya Khan,ECE
+ECE-C_IV,ECE,C,IV,CR-051,theory,64,EC-405,Principles,4,ECE,False,Prof. Aarav Mishra,ECE
+ECE-C_IV,ECE,C,IV,CR-051,theory,64,EC-4010,Design,3,ECE,False,Prof. Aarav Gupta,ECE
+ECE-C_IV,ECE,C,IV,CR-051,theory,64,EC-4010L,Design Lab,2,ECE,True,Prof. Kiara Patel,ECE
+ECE-C_IV,ECE,C,IV,CR-051,theory,64,EC-407,Theory,3,ECE,False,Dr. Aarav Khan,ECE
+ECE-C_V,ECE,C,V,CR-051,theory,64,EC-509,Programming,3,ECE,False,Prof. Sai Patel,ECE
+ECE-C_V,ECE,C,V,CR-051,theory,64,EC-509L,Programming Lab,2,ECE,True,Dr. Reyansh Khan,ECE
+ECE-C_V,ECE,C,V,CR-051,theory,64,EC-5010,Principles,3,ECE,False,Dr. Fatima Iyer,ECE
+ECE-C_V,ECE,C,V,CR-051,theory,64,EC-5010L,Principles Lab,2,ECE,True,Dr. Pari Patel,ECE
+ECE-C_V,ECE,C,V,CR-051,theory,64,EC-508,Design,4,ECE,False,Prof. Aarav Mishra,ECE
+ECE-C_V,ECE,C,V,CR-051,theory,64,EC-504,Principles,4,ECE,False,Prof. Aarav Gupta,ECE
+ECE-C_VI,ECE,C,VI,CR-051,theory,64,EC-604,Engineering,3,ECE,False,Dr. Pari Patel,ECE
+ECE-C_VI,ECE,C,VI,CR-051,theory,64,EC-6010,Systems,4,ECE,False,Dr. Fatima Iyer,ECE
+ECE-C_VI,ECE,C,VI,CR-051,theory,64,EC-6010L,Systems Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-C_VI,ECE,C,VI,CR-051,theory,64,EC-6012,Design,3,ECE,False,Dr. Reyansh Khan,ECE
+ECE-C_VI,ECE,C,VI,CR-051,theory,64,EC-6012L,Design Lab,2,ECE,True,Prof. Diya Singh,ECE
+ECE-C_VI,ECE,C,VI,CR-051,theory,64,EC-602,Applications,3,ECE,False,Prof. Ananya Mishra,ECE
+ECE-C_VII,ECE,C,VII,CR-051,theory,64,EC-707,Structures,4,ECE,False,Dr. Fatima Iyer,ECE
+ECE-C_VII,ECE,C,VII,CR-051,theory,64,EC-707L,Structures Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-C_VII,ECE,C,VII,CR-051,theory,64,EC-706,Principles,4,ECE,False,Prof. Priya Joshi,ECE
+ECE-C_VII,ECE,C,VII,CR-051,theory,64,EC-709,Design,3,ECE,False,Dr. Reyansh Khan,ECE
+ECE-C_VII,ECE,C,VII,CR-051,theory,64,EC-708,Analysis,3,ECE,False,Dr. Kiara Kumar,ECE
+ECE-C_VII,ECE,C,VII,CR-051,theory,64,EC-701,Engineering,4,ECE,False,Prof. Aditya Khan,ECE
+ECE-C_VIII,ECE,C,VIII,CR-051,theory,64,EC-806,Analysis,3,ECE,False,Prof. Aditya Khan,ECE
+ECE-C_VIII,ECE,C,VIII,CR-051,theory,64,EC-806L,Analysis Lab,2,ECE,True,Dr. Ishaan Nath,ECE
+ECE-C_VIII,ECE,C,VIII,CR-051,theory,64,EC-808,Analysis,3,ECE,False,Prof. Aarav Mishra,ECE
+ECE-C_VIII,ECE,C,VIII,CR-051,theory,64,EC-808L,Analysis Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-C_VIII,ECE,C,VIII,CR-051,theory,64,EC-804,Applications,3,ECE,False,Dr. Ishaan Nath,ECE
+ECE-C_VIII,ECE,C,VIII,CR-051,theory,64,EC-804L,Applications Lab,2,ECE,True,Prof. Sai Patel,ECE
+ECE-D_I,ECE,D,I,CR-132,theory,65,EC-1010,Fundamentals,3,ECE,False,Prof. Aarav Mishra,ECE
+ECE-D_I,ECE,D,I,CR-132,theory,65,EC-101,Analysis,3,ECE,False,Dr. Reyansh Khan,ECE
+ECE-D_I,ECE,D,I,CR-132,theory,65,EC-101L,Analysis Lab,2,ECE,True,Prof. Diya Singh,ECE
+ECE-D_I,ECE,D,I,CR-132,theory,65,EC-104,Design,4,ECE,False,Prof. Diya Singh,ECE
+ECE-D_I,ECE,D,I,CR-132,theory,65,EC-1012,Fundamentals,4,ECE,False,Dr. Ishaan Nath,ECE
+ECE-D_I,ECE,D,I,CR-132,theory,65,EC-1012L,Fundamentals Lab,2,ECE,True,Prof. Diya Singh,ECE
+ECE-D_II,ECE,D,II,CR-132,theory,65,EC-206,Theory,3,ECE,False,Dr. Aarav Khan,ECE
+ECE-D_II,ECE,D,II,CR-132,theory,65,EC-201,Analysis,4,ECE,False,Dr. Fatima Iyer,ECE
+ECE-D_II,ECE,D,II,CR-132,theory,65,EC-202,Theory,4,ECE,False,Dr. Reyansh Khan,ECE
+ECE-D_II,ECE,D,II,CR-132,theory,65,EC-204,Engineering,4,ECE,False,Prof. Aditya Khan,ECE
+ECE-D_II,ECE,D,II,CR-132,theory,65,EC-2011,Dynamics,4,ECE,False,Dr. Fatima Iyer,ECE
+ECE-D_II,ECE,D,II,CR-132,theory,65,EC-2011L,Dynamics Lab,2,ECE,True,Prof. Aditya Khan,ECE
+ECE-D_III,ECE,D,III,CR-132,theory,65,EC-308,Systems,3,ECE,False,Dr. Fatima Iyer,ECE
+ECE-D_III,ECE,D,III,CR-132,theory,65,EC-306,Analysis,4,ECE,False,Dr. Reyansh Khan,ECE
+ECE-D_III,ECE,D,III,CR-132,theory,65,EC-301,Design,4,ECE,False,Prof. Aditya Khan,ECE
+ECE-D_III,ECE,D,III,CR-132,theory,65,EC-305,Design,4,ECE,False,Prof. Sai Patel,ECE
+ECE-D_III,ECE,D,III,CR-132,theory,65,EC-3012,Applications,3,ECE,False,Dr. Ishaan Nath,ECE
+ECE-D_III,ECE,D,III,CR-132,theory,65,EC-302,Applications,3,ECE,False,Prof. Aarav Mishra,ECE
+ECE-D_IV,ECE,D,IV,CR-132,theory,65,EC-4010,Design,3,ECE,False,Dr. Reyansh Khan,ECE
+ECE-D_IV,ECE,D,IV,CR-132,theory,65,EC-4010L,Design Lab,2,ECE,True,Dr. Kiara Kumar,ECE
+ECE-D_IV,ECE,D,IV,CR-132,theory,65,EC-407,Theory,3,ECE,False,Dr. Aarav Khan,ECE
+EE-A_I,EE,A,I,CR-048,theory,67,EE-103,Fundamentals,4,EE,False,Dr. Kiara Reddy,EE
+EE-A_I,EE,A,I,CR-048,theory,67,EE-103L,Fundamentals Lab,2,EE,True,Prof. Kiara Menon,EE
+EE-A_I,EE,A,I,CR-048,theory,67,EE-1010,Engineering,4,EE,False,Dr. Aanya Kumar,EE
+EE-A_I,EE,A,I,CR-048,theory,67,EE-101,Design,3,EE,False,Prof. Reyansh Iyer,EE
+EE-A_I,EE,A,I,CR-048,theory,67,EE-101L,Design Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-A_I,EE,A,I,CR-048,theory,67,EE-108,Dynamics,4,EE,False,Prof. Sai Iyer,EE
+EE-A_II,EE,A,II,CR-048,theory,67,EE-205,Dynamics,3,EE,False,Dr. Reyansh Mishra,EE
+EE-A_II,EE,A,II,CR-048,theory,67,EE-2011,Programming,3,EE,False,Prof. Aanya Yadav,EE
+EE-A_II,EE,A,II,CR-048,theory,67,EE-2010,Principles,4,EE,False,Prof. Aanya Yadav,EE
+EE-A_II,EE,A,II,CR-048,theory,67,EE-2010L,Principles Lab,2,EE,True,Prof. Kiara Menon,EE
+EE-A_II,EE,A,II,CR-048,theory,67,EE-2012,Systems,3,EE,False,Prof. Reyansh Iyer,EE
+EE-A_II,EE,A,II,CR-048,theory,67,EE-209,Dynamics,4,EE,False,Dr. Priya Verma,EE
+EE-A_III,EE,A,III,CR-048,theory,67,EE-308,Theory,3,EE,False,Dr. Reyansh Mishra,EE
+EE-A_III,EE,A,III,CR-048,theory,67,EE-308L,Theory Lab,2,EE,True,Dr. Priya Verma,EE
+EE-A_III,EE,A,III,CR-048,theory,67,EE-305,Theory,3,EE,False,Prof. Kiara Menon,EE
+EE-A_III,EE,A,III,CR-048,theory,67,EE-301,Structures,4,EE,False,Prof. Saanvi Gupta,EE
+EE-A_III,EE,A,III,CR-048,theory,67,EE-301L,Structures Lab,2,EE,True,Dr. Riya Menon,EE
+EE-A_III,EE,A,III,CR-048,theory,67,EE-306,Dynamics,3,EE,False,Prof. Reyansh Iyer,EE
+EE-A_IV,EE,A,IV,CR-048,theory,67,EE-403,Systems,3,EE,False,Dr. Fatima Menon,EE
+EE-A_IV,EE,A,IV,CR-048,theory,67,EE-406,Analysis,4,EE,False,Prof. Aadhya Joshi,EE
+EE-A_IV,EE,A,IV,CR-048,theory,67,EE-406L,Analysis Lab,2,EE,True,Prof. Aanya Yadav,EE
+EE-A_IV,EE,A,IV,CR-048,theory,67,EE-4011,Structures,3,EE,False,Prof. Ananya Singh,EE
+EE-A_IV,EE,A,IV,CR-048,theory,67,EE-4011L,Structures Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-A_IV,EE,A,IV,CR-048,theory,67,EE-401,Fundamentals,4,EE,False,Prof. Aadhya Joshi,EE
+EE-A_V,EE,A,V,CR-048,theory,67,EE-506,Fundamentals,3,EE,False,Dr. Reyansh Mishra,EE
+EE-A_V,EE,A,V,CR-048,theory,67,EE-507,Analysis,4,EE,False,Dr. Riya Menon,EE
+EE-A_V,EE,A,V,CR-048,theory,67,EE-501,Dynamics,4,EE,False,Prof. Ananya Singh,EE
+EE-A_V,EE,A,V,CR-048,theory,67,EE-501L,Dynamics Lab,2,EE,True,Dr. Fatima Menon,EE
+EE-A_V,EE,A,V,CR-048,theory,67,EE-502,Theory,3,EE,False,Prof. Ananya Singh,EE
+EE-A_V,EE,A,V,CR-048,theory,67,EE-502L,Theory Lab,2,EE,True,Prof. Aadhya Joshi,EE
+EE-A_VI,EE,A,VI,CR-048,theory,67,EE-609,Structures,3,EE,False,Dr. Fatima Menon,EE
+EE-A_VI,EE,A,VI,CR-048,theory,67,EE-6010,Fundamentals,4,EE,False,Dr. Kiara Reddy,EE
+EE-A_VI,EE,A,VI,CR-048,theory,67,EE-6010L,Fundamentals Lab,2,EE,True,Prof. Aanya Yadav,EE
+EE-A_VI,EE,A,VI,CR-048,theory,67,EE-607,Theory,3,EE,False,Dr. Reyansh Mishra,EE
+EE-A_VI,EE,A,VI,CR-048,theory,67,EE-607L,Theory Lab,2,EE,True,Dr. Kiara Reddy,EE
+EE-A_VI,EE,A,VI,CR-048,theory,67,EE-604,Design,3,EE,False,Dr. Fatima Menon,EE
+EE-A_VII,EE,A,VII,CR-048,theory,67,EE-709,Structures,3,EE,False,Dr. Riya Menon,EE
+EE-A_VII,EE,A,VII,CR-048,theory,67,EE-709L,Structures Lab,2,EE,True,Dr. Fatima Menon,EE
+EE-A_VII,EE,A,VII,CR-048,theory,67,EE-7010,Fundamentals,4,EE,False,Prof. Aanya Yadav,EE
+EE-A_VII,EE,A,VII,CR-048,theory,67,EE-7010L,Fundamentals Lab,2,EE,True,Dr. Reyansh Mishra,EE
+EE-A_VII,EE,A,VII,CR-048,theory,67,EE-7011,Analysis,4,EE,False,Dr. Aanya Kumar,EE
+EE-A_VII,EE,A,VII,CR-048,theory,67,EE-7011L,Analysis Lab,2,EE,True,Prof. Aanya Yadav,EE
+EE-A_VIII,EE,A,VIII,CR-048,theory,67,EE-807,Applications,3,EE,False,Dr. Riya Menon,EE
+EE-A_VIII,EE,A,VIII,CR-048,theory,67,EE-801,Applications,4,EE,False,Prof. Aanya Yadav,EE
+EE-A_VIII,EE,A,VIII,CR-048,theory,67,EE-805,Structures,3,EE,False,Dr. Reyansh Mishra,EE
+EE-A_VIII,EE,A,VIII,CR-048,theory,67,EE-8011,Fundamentals,4,EE,False,Dr. Aanya Kumar,EE
+EE-A_VIII,EE,A,VIII,CR-048,theory,67,EE-8011L,Fundamentals Lab,2,EE,True,Prof. Aadhya Joshi,EE
+EE-A_VIII,EE,A,VIII,CR-048,theory,67,EE-809,Dynamics,4,EE,False,Prof. Ananya Singh,EE
+EE-B_I,EE,B,I,CR-022,theory,60,EE-104,Systems,4,EE,False,Dr. Priya Verma,EE
+EE-B_I,EE,B,I,CR-022,theory,60,EE-104L,Systems Lab,2,EE,True,Dr. Kiara Reddy,EE
+EE-B_I,EE,B,I,CR-022,theory,60,EE-1012,Engineering,3,EE,False,Dr. Riya Menon,EE
+EE-B_I,EE,B,I,CR-022,theory,60,EE-1012L,Engineering Lab,2,EE,True,Dr. Kiara Reddy,EE
+EE-B_I,EE,B,I,CR-022,theory,60,EE-102,Dynamics,3,EE,False,Prof. Ananya Singh,EE
+EE-B_I,EE,B,I,CR-022,theory,60,EE-102L,Dynamics Lab,2,EE,True,Dr. Fatima Menon,EE
+EE-B_II,EE,B,II,CR-022,theory,60,EE-202,Theory,3,EE,False,Dr. Kiara Reddy,EE
+EE-B_II,EE,B,II,CR-022,theory,60,EE-202L,Theory Lab,2,EE,True,Dr. Aanya Kumar,EE
+EE-B_II,EE,B,II,CR-022,theory,60,EE-205,Dynamics,3,EE,False,Prof. Kiara Menon,EE
+EE-B_II,EE,B,II,CR-022,theory,60,EE-209,Dynamics,4,EE,False,Prof. Ananya Singh,EE
+EE-B_II,EE,B,II,CR-022,theory,60,EE-2011,Programming,3,EE,False,Prof. Sai Iyer,EE
+EE-B_II,EE,B,II,CR-022,theory,60,EE-208,Systems,3,EE,False,Dr. Priya Verma,EE
+EE-B_III,EE,B,III,CR-022,theory,60,EE-303,Programming,4,EE,False,Prof. Aadhya Joshi,EE
+EE-B_III,EE,B,III,CR-022,theory,60,EE-303L,Programming Lab,2,EE,True,Prof. Aanya Yadav,EE
+EE-B_III,EE,B,III,CR-022,theory,60,EE-309,Structures,4,EE,False,Prof. Saanvi Gupta,EE
+EE-B_III,EE,B,III,CR-022,theory,60,EE-302,Applications,4,EE,False,Dr. Riya Menon,EE
+EE-B_III,EE,B,III,CR-022,theory,60,EE-302L,Applications Lab,2,EE,True,Prof. Saanvi Gupta,EE
+EE-B_III,EE,B,III,CR-022,theory,60,EE-308,Theory,3,EE,False,Dr. Fatima Menon,EE
+EE-B_IV,EE,B,IV,CR-022,theory,60,EE-4012,Analysis,4,EE,False,Prof. Aanya Yadav,EE
+EE-B_IV,EE,B,IV,CR-022,theory,60,EE-4010,Applications,3,EE,False,Prof. Aanya Yadav,EE
+EE-B_IV,EE,B,IV,CR-022,theory,60,EE-4010L,Applications Lab,2,EE,True,Prof. Kiara Menon,EE
+EE-B_IV,EE,B,IV,CR-022,theory,60,EE-4011,Structures,3,EE,False,Prof. Aadhya Joshi,EE
+EE-B_IV,EE,B,IV,CR-022,theory,60,EE-4011L,Structures Lab,2,EE,True,Dr. Aanya Kumar,EE
+EE-B_IV,EE,B,IV,CR-022,theory,60,EE-405,Theory,3,EE,False,Prof. Saanvi Gupta,EE
+EE-B_V,EE,B,V,CR-022,theory,60,EE-506,Fundamentals,3,EE,False,Prof. Saanvi Gupta,EE
+EE-B_V,EE,B,V,CR-022,theory,60,EE-5010,Systems,3,EE,False,Prof. Aanya Yadav,EE
+EE-B_V,EE,B,V,CR-022,theory,60,EE-501,Dynamics,4,EE,False,Dr. Aanya Kumar,EE
+EE-B_V,EE,B,V,CR-022,theory,60,EE-501L,Dynamics Lab,2,EE,True,Prof. Kiara Menon,EE
+EE-B_V,EE,B,V,CR-022,theory,60,EE-5011,Design,3,EE,False,Prof. Aadhya Joshi,EE
+EE-B_V,EE,B,V,CR-022,theory,60,EE-509,Systems,4,EE,False,Dr. Fatima Menon,EE
+EE-B_VI,EE,B,VI,CR-022,theory,60,EE-607,Theory,3,EE,False,Dr. Reyansh Mishra,EE
+EE-B_VI,EE,B,VI,CR-022,theory,60,EE-607L,Theory Lab,2,EE,True,Dr. Aanya Kumar,EE
+EE-B_VI,EE,B,VI,CR-022,theory,60,EE-6012,Engineering,3,EE,False,Dr. Kiara Reddy,EE
+EE-B_VI,EE,B,VI,CR-022,theory,60,EE-609,Structures,3,EE,False,Dr. Priya Verma,EE
+EE-B_VI,EE,B,VI,CR-022,theory,60,EE-606,Analysis,3,EE,False,Prof. Sai Iyer,EE
+EE-B_VI,EE,B,VI,CR-022,theory,60,EE-606L,Analysis Lab,2,EE,True,Prof. Aanya Yadav,EE
+EE-B_VII,EE,B,VII,CR-022,theory,60,EE-704,Analysis,3,EE,False,Dr. Reyansh Mishra,EE
+EE-B_VII,EE,B,VII,CR-022,theory,60,EE-7012,Applications,3,EE,False,Prof. Kiara Menon,EE
+EE-B_VII,EE,B,VII,CR-022,theory,60,EE-7012L,Applications Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-B_VII,EE,B,VII,CR-022,theory,60,EE-7010,Fundamentals,4,EE,False,Prof. Sai Iyer,EE
+EE-B_VII,EE,B,VII,CR-022,theory,60,EE-7010L,Fundamentals Lab,2,EE,True,Dr. Riya Menon,EE
+EE-B_VII,EE,B,VII,CR-022,theory,60,EE-709,Structures,3,EE,False,Dr. Fatima Menon,EE
+EE-B_VIII,EE,B,VIII,CR-022,theory,60,EE-805,Structures,3,EE,False,Dr. Fatima Menon,EE
+EE-B_VIII,EE,B,VIII,CR-022,theory,60,EE-809,Dynamics,4,EE,False,Prof. Kiara Menon,EE
+EE-B_VIII,EE,B,VIII,CR-022,theory,60,EE-809L,Dynamics Lab,2,EE,True,Dr. Kiara Reddy,EE
+EE-B_VIII,EE,B,VIII,CR-022,theory,60,EE-801,Applications,4,EE,False,Dr. Riya Menon,EE
+EE-B_VIII,EE,B,VIII,CR-022,theory,60,EE-8011,Fundamentals,4,EE,False,Prof. Aadhya Joshi,EE
+EE-B_VIII,EE,B,VIII,CR-022,theory,60,EE-8011L,Fundamentals Lab,2,EE,True,Dr. Aanya Kumar,EE
+EE-C_I,EE,C,I,CR-092,theory,52,EE-101,Design,3,EE,False,Dr. Aanya Kumar,EE
+EE-C_I,EE,C,I,CR-092,theory,52,EE-101L,Design Lab,2,EE,True,Prof. Reyansh Iyer,EE
+EE-C_I,EE,C,I,CR-092,theory,52,EE-1010,Engineering,4,EE,False,Dr. Fatima Menon,EE
+EE-C_I,EE,C,I,CR-092,theory,52,EE-103,Fundamentals,4,EE,False,Prof. Reyansh Iyer,EE
+EE-C_I,EE,C,I,CR-092,theory,52,EE-103L,Fundamentals Lab,2,EE,True,Dr. Fatima Menon,EE
+EE-C_I,EE,C,I,CR-092,theory,52,EE-104,Systems,4,EE,False,Prof. Saanvi Gupta,EE
+EE-C_II,EE,C,II,CR-092,theory,52,EE-205,Dynamics,3,EE,False,Prof. Ananya Singh,EE
+EE-C_II,EE,C,II,CR-092,theory,52,EE-201,Fundamentals,3,EE,False,Prof. Ananya Singh,EE
+EE-C_II,EE,C,II,CR-092,theory,52,EE-201L,Fundamentals Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-C_II,EE,C,II,CR-092,theory,52,EE-2012,Systems,3,EE,False,Prof. Saanvi Gupta,EE
+EE-C_II,EE,C,II,CR-092,theory,52,EE-204,Fundamentals,3,EE,False,Dr. Aanya Kumar,EE
+EE-C_II,EE,C,II,CR-092,theory,52,EE-204L,Fundamentals Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-C_III,EE,C,III,CR-092,theory,52,EE-305,Theory,3,EE,False,Prof. Kiara Menon,EE
+EE-C_III,EE,C,III,CR-092,theory,52,EE-3010,Engineering,3,EE,False,Dr. Kiara Reddy,EE
+EE-C_III,EE,C,III,CR-092,theory,52,EE-3010L,Engineering Lab,2,EE,True,Prof. Reyansh Iyer,EE
+EE-C_III,EE,C,III,CR-092,theory,52,EE-303,Programming,4,EE,False,Dr. Kiara Reddy,EE
+EE-C_III,EE,C,III,CR-092,theory,52,EE-303L,Programming Lab,2,EE,True,Prof. Reyansh Iyer,EE
+EE-C_III,EE,C,III,CR-092,theory,52,EE-308,Theory,3,EE,False,Prof. Kiara Menon,EE
+EE-C_IV,EE,C,IV,CR-092,theory,52,EE-402,Theory,3,EE,False,Prof. Sai Iyer,EE
+EE-C_IV,EE,C,IV,CR-092,theory,52,EE-406,Analysis,4,EE,False,Dr. Aanya Kumar,EE
+EE-C_IV,EE,C,IV,CR-092,theory,52,EE-406L,Analysis Lab,2,EE,True,Prof. Ananya Singh,EE
+EE-C_IV,EE,C,IV,CR-092,theory,52,EE-4011,Structures,3,EE,False,Dr. Reyansh Mishra,EE
+EE-C_IV,EE,C,IV,CR-092,theory,52,EE-4011L,Structures Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-C_IV,EE,C,IV,CR-092,theory,52,EE-4010,Applications,3,EE,False,Prof. Reyansh Iyer,EE
+EE-C_V,EE,C,V,CR-092,theory,52,EE-501,Dynamics,4,EE,False,Prof. Reyansh Iyer,EE
+EE-C_V,EE,C,V,CR-092,theory,52,EE-501L,Dynamics Lab,2,EE,True,Dr. Riya Menon,EE
+EE-C_V,EE,C,V,CR-092,theory,52,EE-5011,Design,3,EE,False,Dr. Kiara Reddy,EE
+EE-C_V,EE,C,V,CR-092,theory,52,EE-502,Theory,3,EE,False,Dr. Reyansh Mishra,EE
+EE-C_V,EE,C,V,CR-092,theory,52,EE-502L,Theory Lab,2,EE,True,Dr. Riya Menon,EE
+EE-C_V,EE,C,V,CR-092,theory,52,EE-5010,Systems,3,EE,False,Prof. Reyansh Iyer,EE
+EE-C_VI,EE,C,VI,CR-092,theory,52,EE-607,Theory,3,EE,False,Prof. Ananya Singh,EE
+EE-C_VI,EE,C,VI,CR-092,theory,52,EE-607L,Theory Lab,2,EE,True,Dr. Reyansh Mishra,EE
+EE-C_VI,EE,C,VI,CR-092,theory,52,EE-606,Analysis,3,EE,False,Prof. Saanvi Gupta,EE
+EE-C_VI,EE,C,VI,CR-092,theory,52,EE-606L,Analysis Lab,2,EE,True,Prof. Reyansh Iyer,EE
+EE-C_VI,EE,C,VI,CR-092,theory,52,EE-608,Principles,3,EE,False,Prof. Reyansh Iyer,EE
+EE-C_VI,EE,C,VI,CR-092,theory,52,EE-608L,Principles Lab,2,EE,True,Prof. Saanvi Gupta,EE
+EE-C_VII,EE,C,VII,CR-092,theory,52,EE-709,Structures,3,EE,False,Dr. Reyansh Mishra,EE
+EE-C_VII,EE,C,VII,CR-092,theory,52,EE-709L,Structures Lab,2,EE,True,Dr. Riya Menon,EE
+EE-C_VII,EE,C,VII,CR-092,theory,52,EE-705,Fundamentals,3,EE,False,Prof. Sai Iyer,EE
+EE-C_VII,EE,C,VII,CR-092,theory,52,EE-705L,Fundamentals Lab,2,EE,True,Prof. Saanvi Gupta,EE
+EE-C_VII,EE,C,VII,CR-092,theory,52,EE-706,Applications,3,EE,False,Prof. Kiara Menon,EE
+EE-C_VII,EE,C,VII,CR-092,theory,52,EE-706L,Applications Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-C_VIII,EE,C,VIII,CR-092,theory,52,EE-8010,Engineering,3,EE,False,Dr. Riya Menon,EE
+EE-C_VIII,EE,C,VIII,CR-092,theory,52,EE-806,Theory,3,EE,False,Prof. Saanvi Gupta,EE
+EE-C_VIII,EE,C,VIII,CR-092,theory,52,EE-809,Dynamics,4,EE,False,Prof. Kiara Menon,EE
+EE-C_VIII,EE,C,VIII,CR-092,theory,52,EE-809L,Dynamics Lab,2,EE,True,Dr. Riya Menon,EE
+EE-C_VIII,EE,C,VIII,CR-092,theory,52,EE-802,Programming,3,EE,False,Dr. Priya Verma,EE
+EE-C_VIII,EE,C,VIII,CR-092,theory,52,EE-8011,Fundamentals,4,EE,False,Prof. Aadhya Joshi,EE
+EE-D_I,EE,D,I,CR-118,theory,72,EE-105,Theory,3,EE,False,Prof. Aadhya Joshi,EE
+EE-D_I,EE,D,I,CR-118,theory,72,EE-105L,Theory Lab,2,EE,True,Prof. Sai Iyer,EE
+EE-D_I,EE,D,I,CR-118,theory,72,EE-1011,Dynamics,4,EE,False,Dr. Priya Verma,EE
+EE-D_I,EE,D,I,CR-118,theory,72,EE-1011L,Dynamics Lab,2,EE,True,Prof. Aadhya Joshi,EE
+EE-D_I,EE,D,I,CR-118,theory,72,EE-108,Dynamics,4,EE,False,Dr. Kiara Reddy,EE
+EE-D_I,EE,D,I,CR-118,theory,72,EE-109,Theory,3,EE,False,Prof. Ananya Singh,EE
+EE-D_II,EE,D,II,CR-118,theory,72,EE-208,Systems,3,EE,False,Dr. Priya Verma,EE
+EE-D_II,EE,D,II,CR-118,theory,72,EE-208L,Systems Lab,2,EE,True,Prof. Saanvi Gupta,EE
+EE-D_II,EE,D,II,CR-118,theory,72,EE-207,Analysis,4,EE,False,Dr. Priya Verma,EE
+EE-D_II,EE,D,II,CR-118,theory,72,EE-2012,Systems,3,EE,False,Dr. Priya Verma,EE
+EE-D_II,EE,D,II,CR-118,theory,72,EE-204,Fundamentals,3,EE,False,Dr. Priya Verma,EE
+EE-D_II,EE,D,II,CR-118,theory,72,EE-204L,Fundamentals Lab,2,EE,True,Dr. Fatima Menon,EE
+ME-A_I,ME,A,I,CR-134,theory,63,ME-106,Principles,4,ME,False,Prof. Vivaan Khan,ME
+ME-A_I,ME,A,I,CR-134,theory,63,ME-106L,Principles Lab,2,ME,True,Dr. Vihaan Iyer,ME
+ME-A_I,ME,A,I,CR-134,theory,63,ME-105,Applications,3,ME,False,Prof. Sai Yadav,ME
+ME-A_I,ME,A,I,CR-134,theory,63,ME-107,Analysis,3,ME,False,Prof. Vivaan Reddy,ME
+ME-A_I,ME,A,I,CR-134,theory,63,ME-109,Design,3,ME,False,Prof. Vivaan Reddy,ME
+ME-A_I,ME,A,I,CR-134,theory,63,ME-109L,Design Lab,2,ME,True,Prof. Diya Joshi,ME
+ME-A_II,ME,A,II,CR-134,theory,63,ME-208,Applications,3,ME,False,Dr. Ishaan Joshi,ME
+ME-A_II,ME,A,II,CR-134,theory,63,ME-206,Fundamentals,4,ME,False,Dr. Aanya Joshi,ME
+ME-A_II,ME,A,II,CR-134,theory,63,ME-206L,Fundamentals Lab,2,ME,True,Dr. Vihaan Iyer,ME
+ME-A_II,ME,A,II,CR-134,theory,63,ME-2010,Design,3,ME,False,Dr. Aanya Joshi,ME
+ME-A_II,ME,A,II,CR-134,theory,63,ME-203,Programming,3,ME,False,Dr. Ishaan Joshi,ME
+ME-A_II,ME,A,II,CR-134,theory,63,ME-203L,Programming Lab,2,ME,True,Prof. Ananya Gupta,ME
+ME-A_III,ME,A,III,CR-134,theory,63,ME-3012,Dynamics,3,ME,False,Prof. Aadhya Verma,ME
+ME-A_III,ME,A,III,CR-134,theory,63,ME-3012L,Dynamics Lab,2,ME,True,Prof. Aadhya Verma,ME
+ME-A_III,ME,A,III,CR-134,theory,63,ME-301,Structures,4,ME,False,Dr. Ishaan Joshi,ME
+ME-A_III,ME,A,III,CR-134,theory,63,ME-301L,Structures Lab,2,ME,True,Prof. Vivaan Khan,ME
+ME-A_III,ME,A,III,CR-134,theory,63,ME-3011,Programming,3,ME,False,Prof. Vivaan Reddy,ME
+ME-A_III,ME,A,III,CR-134,theory,63,ME-3011L,Programming Lab,2,ME,True,Prof. Ananya Gupta,ME
+ME-A_IV,ME,A,IV,CR-134,theory,63,ME-407,Systems,4,ME,False,Prof. Vivaan Reddy,ME
+ME-A_IV,ME,A,IV,CR-134,theory,63,ME-4011,Systems,4,ME,False,Prof. Sai Yadav,ME
+ME-A_IV,ME,A,IV,CR-134,theory,63,ME-4011L,Systems Lab,2,ME,True,Prof. Diya Joshi,ME
+ME-A_IV,ME,A,IV,CR-134,theory,63,ME-408,Fundamentals,4,ME,False,Prof. Aadhya Verma,ME
+ME-A_IV,ME,A,IV,CR-134,theory,63,ME-408L,Fundamentals Lab,2,ME,True,Prof. Sai Yadav,ME
+ME-A_IV,ME,A,IV,CR-134,theory,63,ME-409,Dynamics,3,ME,False,Prof. Ananya Gupta,ME
+ME-A_V,ME,A,V,CR-134,theory,63,ME-505,Design,4,ME,False,Prof. Vivaan Khan,ME
+ME-A_V,ME,A,V,CR-134,theory,63,ME-501,Systems,3,ME,False,Prof. Aadhya Verma,ME
+ME-A_V,ME,A,V,CR-134,theory,63,ME-501L,Systems Lab,2,ME,True,Prof. Ananya Gupta,ME
+ME-A_V,ME,A,V,CR-134,theory,63,ME-502,Theory,3,ME,False,Dr. Krishna Singh,ME
+ME-A_V,ME,A,V,CR-134,theory,63,ME-502L,Theory Lab,2,ME,True,Prof. Vivaan Reddy,ME
+ME-A_V,ME,A,V,CR-134,theory,63,ME-5012,Programming,4,ME,False,Prof. Ananya Gupta,ME
+ME-A_VI,ME,A,VI,CR-134,theory,63,ME-606,Fundamentals,3,ME,False,Dr. Krishna Singh,ME
+ME-A_VI,ME,A,VI,CR-134,theory,63,ME-609,Theory,4,ME,False,Dr. Aanya Joshi,ME
+ME-A_VI,ME,A,VI,CR-134,theory,63,ME-605,Fundamentals,4,ME,False,Dr. Vihaan Iyer,ME
+ME-A_VI,ME,A,VI,CR-134,theory,63,ME-6012,Analysis,3,ME,False,Prof. Ananya Gupta,ME
+ME-A_VI,ME,A,VI,CR-134,theory,63,ME-6012L,Analysis Lab,2,ME,True,Prof. Vivaan Khan,ME
+ME-A_VI,ME,A,VI,CR-134,theory,63,ME-601,Applications,3,ME,False,Dr. Krishna Singh,ME
+ME-A_VII,ME,A,VII,CR-134,theory,63,ME-7012,Principles,4,ME,False,Prof. Diya Joshi,ME
+ME-A_VII,ME,A,VII,CR-134,theory,63,ME-706,Applications,4,ME,False,Prof. Aadhya Verma,ME
+ME-A_VII,ME,A,VII,CR-134,theory,63,ME-706L,Applications Lab,2,ME,True,Dr. Krishna Singh,ME
+ME-A_VII,ME,A,VII,CR-134,theory,63,ME-7010,Engineering,3,ME,False,Prof. Sai Yadav,ME
+ME-A_VII,ME,A,VII,CR-134,theory,63,ME-703,Structures,4,ME,False,Dr. Aadhya Menon,ME
+ME-A_VII,ME,A,VII,CR-134,theory,63,ME-705,Dynamics,3,ME,False,Prof. Sai Yadav,ME
+ME-A_VIII,ME,A,VIII,CR-134,theory,63,ME-802,Dynamics,3,ME,False,Prof. Diya Joshi,ME
+ME-A_VIII,ME,A,VIII,CR-134,theory,63,ME-809,Structures,4,ME,False,Prof. Sai Yadav,ME
+ME-A_VIII,ME,A,VIII,CR-134,theory,63,ME-807,Principles,3,ME,False,Prof. Diya Joshi,ME
+ME-A_VIII,ME,A,VIII,CR-134,theory,63,ME-807L,Principles Lab,2,ME,True,Prof. Aadhya Verma,ME
+ME-A_VIII,ME,A,VIII,CR-134,theory,63,ME-801,Theory,4,ME,False,Prof. Vivaan Reddy,ME
+ME-A_VIII,ME,A,VIII,CR-134,theory,63,ME-801L,Theory Lab,2,ME,True,Prof. Aadhya Verma,ME
+ME-B_I,ME,B,I,CR-089,theory,50,ME-1011,Design,4,ME,False,Dr. Krishna Singh,ME
+ME-B_I,ME,B,I,CR-089,theory,50,ME-1011L,Design Lab,2,ME,True,Prof. Sai Yadav,ME
+ME-B_I,ME,B,I,CR-089,theory,50,ME-102,Programming,4,ME,False,Prof. Vivaan Khan,ME
+ME-B_I,ME,B,I,CR-089,theory,50,ME-102L,Programming Lab,2,ME,True,Prof. Vivaan Reddy,ME
+ME-B_I,ME,B,I,CR-089,theory,50,ME-101,Fundamentals,3,ME,False,Dr. Krishna Singh,ME
+ME-B_I,ME,B,I,CR-089,theory,50,ME-101L,Fundamentals Lab,2,ME,True,Dr. Aadhya Menon,ME
+ME-B_II,ME,B,II,CR-089,theory,50,ME-208,Applications,3,ME,False,Dr. Aanya Joshi,ME
+ME-B_II,ME,B,II,CR-089,theory,50,ME-209,Design,4,ME,False,Prof. Ananya Gupta,ME
+ME-B_II,ME,B,II,CR-089,theory,50,ME-209L,Design Lab,2,ME,True,Prof. Vivaan Reddy,ME
+ME-B_II,ME,B,II,CR-089,theory,50,ME-201,Dynamics,3,ME,False,Dr. Vihaan Iyer,ME
+ME-B_II,ME,B,II,CR-089,theory,50,ME-2012,Theory,4,ME,False,Prof. Diya Joshi,ME
+ME-B_II,ME,B,II,CR-089,theory,50,ME-2012L,Theory Lab,2,ME,True,Prof. Ananya Gupta,ME
+ME-B_III,ME,B,III,CR-089,theory,50,ME-302,Structures,4,ME,False,Prof. Ananya Gupta,ME
+ME-B_III,ME,B,III,CR-089,theory,50,ME-302L,Structures Lab,2,ME,True,Prof. Ananya Gupta,ME
+ME-B_III,ME,B,III,CR-089,theory,50,ME-304,Applications,3,ME,False,Prof. Aadhya Verma,ME
+ME-B_III,ME,B,III,CR-089,theory,50,ME-304L,Applications Lab,2,ME,True,Dr. Vihaan Iyer,ME
+ME-B_III,ME,B,III,CR-089,theory,50,ME-305,Design,3,ME,False,Prof. Diya Joshi,ME
+ME-B_III,ME,B,III,CR-089,theory,50,ME-305L,Design Lab,2,ME,True,Dr. Vihaan Iyer,ME
+ME-B_IV,ME,B,IV,CR-089,theory,50,ME-403,Design,3,ME,False,Dr. Krishna Singh,ME
+ME-B_IV,ME,B,IV,CR-089,theory,50,ME-4010,Dynamics,3,ME,False,Dr. Aanya Joshi,ME
+ME-B_IV,ME,B,IV,CR-089,theory,50,ME-4010L,Dynamics Lab,2,ME,True,Prof. Diya Joshi,ME
+ME-B_IV,ME,B,IV,CR-089,theory,50,ME-408,Fundamentals,4,ME,False,Prof. Aadhya Verma,ME
+ME-B_IV,ME,B,IV,CR-089,theory,50,ME-408L,Fundamentals Lab,2,ME,True,Prof. Ananya Gupta,ME
+ME-B_IV,ME,B,IV,CR-089,theory,50,ME-401,Applications,4,ME,False,Prof. Sai Yadav,ME
+ME-B_V,ME,B,V,CR-089,theory,50,ME-5012,Programming,4,ME,False,Dr. Krishna Singh,ME
+ME-B_V,ME,B,V,CR-089,theory,50,ME-5012L,Programming Lab,2,ME,True,Prof. Aadhya Verma,ME
+ME-B_V,ME,B,V,CR-089,theory,50,ME-504,Programming,3,ME,False,Dr. Krishna Singh,ME
+ME-B_V,ME,B,V,CR-089,theory,50,ME-5011,Fundamentals,4,ME,False,Dr. Aadhya Menon,ME
+ME-B_V,ME,B,V,CR-089,theory,50,ME-505,Design,4,ME,False,Dr. Aanya Joshi,ME
+ME-B_V,ME,B,V,CR-089,theory,50,ME-508,Design,4,ME,False,Prof. Diya Joshi,ME
+ME-B_VI,ME,B,VI,CR-089,theory,50,ME-607,Programming,4,ME,False,Dr. Aadhya Menon,ME
+ME-B_VI,ME,B,VI,CR-089,theory,50,ME-6012,Analysis,3,ME,False,Dr. Aanya Joshi,ME
+ME-B_VI,ME,B,VI,CR-089,theory,50,ME-6012L,Analysis Lab,2,ME,True,Prof. Sai Yadav,ME
+ME-B_VI,ME,B,VI,CR-089,theory,50,ME-602,Analysis,3,ME,False,Dr. Aadhya Menon,ME
+ME-B_VI,ME,B,VI,CR-089,theory,50,ME-602L,Analysis Lab,2,ME,True,Prof. Aadhya Verma,ME
+ME-B_VI,ME,B,VI,CR-089,theory,50,ME-605,Fundamentals,4,ME,False,Prof. Sai Yadav,ME
+ME-B_VII,ME,B,VII,CR-089,theory,50,ME-703,Structures,4,ME,False,Dr. Aadhya Menon,ME
+ME-B_VII,ME,B,VII,CR-089,theory,50,ME-701,Fundamentals,4,ME,False,Dr. Aadhya Menon,ME
+ME-B_VII,ME,B,VII,CR-089,theory,50,ME-7011,Design,4,ME,False,Dr. Aanya Joshi,ME
+ME-B_VII,ME,B,VII,CR-089,theory,50,ME-7011L,Design Lab,2,ME,True,Prof. Diya Joshi,ME
+ME-B_VII,ME,B,VII,CR-089,theory,50,ME-707,Dynamics,3,ME,False,Prof. Vivaan Reddy,ME
+ME-B_VII,ME,B,VII,CR-089,theory,50,ME-707L,Dynamics Lab,2,ME,True,Prof. Sai Yadav,ME
+ME-B_VIII,ME,B,VIII,CR-089,theory,50,ME-802,Dynamics,3,ME,False,Dr. Krishna Singh,ME
+ME-B_VIII,ME,B,VIII,CR-089,theory,50,ME-804,Design,4,ME,False,Prof. Aadhya Verma,ME
+ME-B_VIII,ME,B,VIII,CR-089,theory,50,ME-804L,Design Lab,2,ME,True,Prof. Vivaan Khan,ME
+ME-B_VIII,ME,B,VIII,CR-089,theory,50,ME-806,Systems,4,ME,False,Prof. Ananya Gupta,ME
+ME-B_VIII,ME,B,VIII,CR-089,theory,50,ME-806L,Systems Lab,2,ME,True,Dr. Krishna Singh,ME
+ME-B_VIII,ME,B,VIII,CR-089,theory,50,ME-803,Design,3,ME,False,Dr. Ishaan Joshi,ME
+ME-C_I,ME,C,I,CR-164,theory,79,ME-1012,Structures,4,ME,False,Dr. Ishaan Joshi,ME
+ME-C_I,ME,C,I,CR-164,theory,79,ME-1012L,Structures Lab,2,ME,True,Prof. Sai Yadav,ME
+ME-C_I,ME,C,I,CR-164,theory,79,ME-1011,Design,4,ME,False,Prof. Vivaan Reddy,ME
+ME-C_I,ME,C,I,CR-164,theory,79,ME-1011L,Design Lab,2,ME,True,Prof. Diya Joshi,ME
+ME-C_I,ME,C,I,CR-164,theory,79,ME-105,Applications,3,ME,False,Dr. Krishna Singh,ME
+ME-C_I,ME,C,I,CR-164,theory,79,ME-108,Engineering,3,ME,False,Dr. Vihaan Iyer,ME
+ME-C_II,ME,C,II,CR-164,theory,79,ME-206,Fundamentals,4,ME,False,Dr. Vihaan Iyer,ME
+ME-C_II,ME,C,II,CR-164,theory,79,ME-206L,Fundamentals Lab,2,ME,True,Dr. Aanya Joshi,ME
+ME-C_II,ME,C,II,CR-164,theory,79,ME-202,Analysis,3,ME,False,Prof. Vivaan Khan,ME
+ME-C_II,ME,C,II,CR-164,theory,79,ME-202L,Analysis Lab,2,ME,True,Dr. Ishaan Joshi,ME
+ME-C_II,ME,C,II,CR-164,theory,79,ME-203,Programming,3,ME,False,Dr. Vihaan Iyer,ME
+ME-C_II,ME,C,II,CR-164,theory,79,ME-203L,Programming Lab,2,ME,True,Dr. Aanya Joshi,ME
+ME-C_III,ME,C,III,CR-164,theory,79,ME-3012,Dynamics,3,ME,False,Dr. Vihaan Iyer,ME
+ME-C_III,ME,C,III,CR-164,theory,79,ME-3012L,Dynamics Lab,2,ME,True,Dr. Aanya Joshi,ME
+ME-C_III,ME,C,III,CR-164,theory,79,ME-309,Principles,4,ME,False,Prof. Diya Joshi,ME
+ME-C_III,ME,C,III,CR-164,theory,79,ME-309L,Principles Lab,2,ME,True,Prof. Vivaan Khan,ME
+ME-C_III,ME,C,III,CR-164,theory,79,ME-301,Structures,4,ME,False,Prof. Vivaan Reddy,ME
+ME-C_III,ME,C,III,CR-164,theory,79,ME-301L,Structures Lab,2,ME,True,Dr. Aadhya Menon,ME
+ME-C_IV,ME,C,IV,CR-164,theory,79,ME-405,Fundamentals,3,ME,False,Dr. Ishaan Joshi,ME
+ME-C_IV,ME,C,IV,CR-164,theory,79,ME-403,Design,3,ME,False,Prof. Vivaan Khan,ME
+ME-C_IV,ME,C,IV,CR-164,theory,79,ME-4011,Systems,4,ME,False,Dr. Vihaan Iyer,ME
+ME-C_IV,ME,C,IV,CR-164,theory,79,ME-4011L,Systems Lab,2,ME,True,Dr. Ishaan Joshi,ME
+ME-C_IV,ME,C,IV,CR-164,theory,79,ME-406,Dynamics,3,ME,False,Dr. Aadhya Menon,ME
+ME-C_IV,ME,C,IV,CR-164,theory,79,ME-406L,Dynamics Lab,2,ME,True,Prof. Vivaan Khan,ME
+ME-C_V,ME,C,V,CR-164,theory,79,ME-508,Design,4,ME,False,Dr. Aadhya Menon,ME
+ME-C_V,ME,C,V,CR-164,theory,79,ME-508L,Design Lab,2,ME,True,Prof. Vivaan Khan,ME
+ME-C_V,ME,C,V,CR-164,theory,79,ME-5012,Programming,4,ME,False,Dr. Vihaan Iyer,ME
+ME-C_V,ME,C,V,CR-164,theory,79,ME-5012L,Programming Lab,2,ME,True,Prof. Vivaan Reddy,ME
+ME-C_V,ME,C,V,CR-164,theory,79,ME-507,Theory,4,ME,False,Prof. Vivaan Khan,ME
+ME-C_V,ME,C,V,CR-164,theory,79,ME-505,Design,4,ME,False,Dr. Ishaan Joshi,ME
+ME-C_VI,ME,C,VI,CR-164,theory,79,ME-604,Principles,4,ME,False,Dr. Ishaan Joshi,ME
+ME-C_VI,ME,C,VI,CR-164,theory,79,ME-604L,Principles Lab,2,ME,True,Prof. Vivaan Khan,ME
+ME-C_VI,ME,C,VI,CR-164,theory,79,ME-601,Applications,3,ME,False,Dr. Ishaan Joshi,ME
+CE-A_I,CE,A,I,CR-178,theory,53,CE-105,Structures,4,CE,False,Prof. Riya Pandey,CE
+CE-A_I,CE,A,I,CR-178,theory,53,CE-1012,Systems,3,CE,False,Prof. Priya Verma,CE
+CE-A_I,CE,A,I,CR-178,theory,53,CE-101,Systems,4,CE,False,Prof. Pari Khan,CE
+CE-A_I,CE,A,I,CR-178,theory,53,CE-101L,Systems Lab,2,CE,True,Prof. Riya Iyer,CE
+CE-A_I,CE,A,I,CR-178,theory,53,CE-102,Programming,4,CE,False,Prof. Riya Iyer,CE
+CE-A_I,CE,A,I,CR-178,theory,53,CE-104,Dynamics,4,CE,False,Dr. Aditya Iyer,CE
+CE-A_II,CE,A,II,CR-178,theory,53,CE-2012,Theory,4,CE,False,Prof. Kiara Mishra,CE
+CE-A_II,CE,A,II,CR-178,theory,53,CE-209,Applications,3,CE,False,Prof. Priya Patel,CE
+CE-A_II,CE,A,II,CR-178,theory,53,CE-203,Principles,4,CE,False,Prof. Kiara Mishra,CE
+CE-A_II,CE,A,II,CR-178,theory,53,CE-203L,Principles Lab,2,CE,True,Prof. Pari Khan,CE
+CE-A_II,CE,A,II,CR-178,theory,53,CE-206,Fundamentals,3,CE,False,Dr. Aarav Kumar,CE
+CE-A_II,CE,A,II,CR-178,theory,53,CE-206L,Fundamentals Lab,2,CE,True,Dr. Aditya Iyer,CE
+CE-A_III,CE,A,III,CR-178,theory,53,CE-3010,Theory,4,CE,False,Prof. Pari Iyer,CE
+CE-A_III,CE,A,III,CR-178,theory,53,CE-308,Design,3,CE,False,Prof. Riya Pandey,CE
+CE-A_III,CE,A,III,CR-178,theory,53,CE-303,Design,3,CE,False,Prof. Priya Verma,CE
+CE-A_III,CE,A,III,CR-178,theory,53,CE-307,Structures,3,CE,False,Dr. Aarav Kumar,CE
+CE-A_III,CE,A,III,CR-178,theory,53,CE-307L,Structures Lab,2,CE,True,Dr. Aarav Reddy,CE
+CE-A_III,CE,A,III,CR-178,theory,53,CE-306,Systems,4,CE,False,Dr. Aditya Verma,CE
+CE-A_IV,CE,A,IV,CR-178,theory,53,CE-401,Dynamics,4,CE,False,Prof. Riya Pandey,CE
+CE-A_IV,CE,A,IV,CR-178,theory,53,CE-401L,Dynamics Lab,2,CE,True,Prof. Riya Pandey,CE
+CE-A_IV,CE,A,IV,CR-178,theory,53,CE-408,Analysis,4,CE,False,Prof. Priya Patel,CE
+CE-A_IV,CE,A,IV,CR-178,theory,53,CE-403,Fundamentals,3,CE,False,Dr. Aditya Iyer,CE
+CE-A_IV,CE,A,IV,CR-178,theory,53,CE-403L,Fundamentals Lab,2,CE,True,Prof. Pari Iyer,CE
+CE-A_IV,CE,A,IV,CR-178,theory,53,CE-405,Analysis,3,CE,False,Prof. Riya Pandey,CE
+CE-A_V,CE,A,V,CR-178,theory,53,CE-509,Systems,3,CE,False,Prof. Riya Pandey,CE
+CE-A_V,CE,A,V,CR-178,theory,53,CE-507,Dynamics,4,CE,False,Dr. Riya Patel,CE
+CE-A_V,CE,A,V,CR-178,theory,53,CE-507L,Dynamics Lab,2,CE,True,Dr. Aarav Kumar,CE
+CE-A_V,CE,A,V,CR-178,theory,53,CE-5010,Structures,4,CE,False,Prof. Priya Verma,CE
+CE-A_V,CE,A,V,CR-178,theory,53,CE-5010L,Structures Lab,2,CE,True,Dr. Aditya Iyer,CE
+CE-A_V,CE,A,V,CR-178,theory,53,CE-5011,Structures,4,CE,False,Prof. Pari Iyer,CE
+CE-A_VI,CE,A,VI,CR-178,theory,53,CE-604,Programming,3,CE,False,Prof. Riya Iyer,CE
+CE-A_VI,CE,A,VI,CR-178,theory,53,CE-604L,Programming Lab,2,CE,True,Prof. Pari Iyer,CE
+CE-A_VI,CE,A,VI,CR-178,theory,53,CE-608,Engineering,3,CE,False,Prof. Riya Iyer,CE
+CE-A_VI,CE,A,VI,CR-178,theory,53,CE-608L,Engineering Lab,2,CE,True,Prof. Priya Patel,CE
+CE-A_VI,CE,A,VI,CR-178,theory,53,CE-602,Structures,4,CE,False,Prof. Pari Iyer,CE
+CE-A_VI,CE,A,VI,CR-178,theory,53,CE-605,Fundamentals,3,CE,False,Prof. Kiara Mishra,CE
+CE-A_VII,CE,A,VII,CR-178,theory,53,CE-705,Principles,3,CE,False,Prof. Riya Iyer,CE
+CE-A_VII,CE,A,VII,CR-178,theory,53,CE-705L,Principles Lab,2,CE,True,Dr. Ayaan Khan,CE
+CE-A_VII,CE,A,VII,CR-178,theory,53,CE-7011,Fundamentals,3,CE,False,Dr. Aditya Iyer,CE
+CE-A_VII,CE,A,VII,CR-178,theory,53,CE-707,Engineering,3,CE,False,Dr. Ayaan Khan,CE
+CE-A_VII,CE,A,VII,CR-178,theory,53,CE-707L,Engineering Lab,2,CE,True,Dr. Aarav Reddy,CE
+CE-A_VII,CE,A,VII,CR-178,theory,53,CE-703,Principles,4,CE,False,Dr. Aarav Kumar,CE
+CE-A_VIII,CE,A,VIII,CR-178,theory,53,CE-808,Theory,3,CE,False,Dr. Aarav Kumar,CE
+CE-A_VIII,CE,A,VIII,CR-178,theory,53,CE-808L,Theory Lab,2,CE,True,Prof. Pari Khan,CE
+CE-A_VIII,CE,A,VIII,CR-178,theory,53,CE-802,Design,3,CE,False,Prof. Kiara Mishra,CE
+CE-A_VIII,CE,A,VIII,CR-178,theory,53,CE-802L,Design Lab,2,CE,True,Prof. Riya Iyer,CE
+CE-A_VIII,CE,A,VIII,CR-178,theory,53,CE-8011,Design,4,CE,False,Dr. Ayaan Khan,CE
+CE-A_VIII,CE,A,VIII,CR-178,theory,53,CE-8011L,Design Lab,2,CE,True,Dr. Ayaan Khan,CE
+CE-B_I,CE,B,I,CR-144,theory,55,CE-109,Fundamentals,4,CE,False,Prof. Pari Iyer,CE
+CE-B_I,CE,B,I,CR-144,theory,55,CE-109L,Fundamentals Lab,2,CE,True,Dr. Aditya Iyer,CE
+CE-B_I,CE,B,I,CR-144,theory,55,CE-1010,Theory,3,CE,False,Prof. Riya Pandey,CE
+CE-B_I,CE,B,I,CR-144,theory,55,CE-103,Structures,4,CE,False,Prof. Pari Khan,CE
+CE-B_I,CE,B,I,CR-144,theory,55,CE-103L,Structures Lab,2,CE,True,Dr. Aditya Iyer,CE
+CE-B_I,CE,B,I,CR-144,theory,55,CE-102,Programming,4,CE,False,Dr. Aarav Kumar,CE
+CE-B_II,CE,B,II,CR-144,theory,55,CE-2010,Fundamentals,4,CE,False,Prof. Diya Menon,CE
+CE-B_II,CE,B,II,CR-144,theory,55,CE-206,Fundamentals,3,CE,False,Prof. Pari Khan,CE
+CE-B_II,CE,B,II,CR-144,theory,55,CE-206L,Fundamentals Lab,2,CE,True,Prof. Priya Verma,CE
+CE-B_II,CE,B,II,CR-144,theory,55,CE-2011,Applications,4,CE,False,Dr. Aditya Verma,CE
+CE-B_II,CE,B,II,CR-144,theory,55,CE-2011L,Applications Lab,2,CE,True,Prof. Riya Iyer,CE
+CE-B_II,CE,B,II,CR-144,theory,55,CE-209,Applications,3,CE,False,Dr. Riya Patel,CE
+CE-B_III,CE,B,III,CR-144,theory,55,CE-308,Design,3,CE,False,Prof. Pari Iyer,CE
+CE-B_III,CE,B,III,CR-144,theory,55,CE-3010,Theory,4,CE,False,Prof. Kiara Mishra,CE
+CE-B_III,CE,B,III,CR-144,theory,55,CE-309,Programming,4,CE,False,Dr. Aarav Reddy,CE
+CE-B_III,CE,B,III,CR-144,theory,55,CE-309L,Programming Lab,2,CE,True,Dr. Ayaan Khan,CE
+CE-B_III,CE,B,III,CR-144,theory,55,CE-304,Dynamics,4,CE,False,Prof. Kiara Mishra,CE
+CE-B_III,CE,B,III,CR-144,theory,55,CE-304L,Dynamics Lab,2,CE,True,Prof. Riya Pandey,CE
+CE-B_IV,CE,B,IV,CR-144,theory,55,CE-401,Dynamics,4,CE,False,Prof. Priya Verma,CE
+CE-B_IV,CE,B,IV,CR-144,theory,55,CE-401L,Dynamics Lab,2,CE,True,Prof. Riya Iyer,CE
+CE-B_IV,CE,B,IV,CR-144,theory,55,CE-404,Applications,3,CE,False,Dr. Aarav Kumar,CE
+CE-B_IV,CE,B,IV,CR-144,theory,55,CE-404L,Applications Lab,2,CE,True,Dr. Ayaan Khan,CE
+CE-B_IV,CE,B,IV,CR-144,theory,55,CE-407,Theory,4,CE,False,Prof. Priya Patel,CE
+CE-B_IV,CE,B,IV,CR-144,theory,55,CE-407L,Theory Lab,2,CE,True,Dr. Aditya Iyer,CE
+CE-B_V,CE,B,V,CR-144,theory,55,CE-502,Theory,3,CE,False,Prof. Pari Iyer,CE
+CE-B_V,CE,B,V,CR-144,theory,55,CE-509,Systems,3,CE,False,Prof. Diya Menon,CE
+CE-B_V,CE,B,V,CR-144,theory,55,CE-501,Theory,4,CE,False,Prof. Pari Iyer,CE
+CE-B_V,CE,B,V,CR-144,theory,55,CE-501L,Theory Lab,2,CE,True,Dr. Ayaan Khan,CE
+CE-B_V,CE,B,V,CR-144,theory,55,CE-5010,Structures,4,CE,False,Prof. Kiara Mishra,CE
+CE-B_V,CE,B,V,CR-144,theory,55,CE-5010L,Structures Lab,2,CE,True,Prof. Priya Verma,CE
+CE-B_VI,CE,B,VI,CR-144,theory,55,CE-604,Programming,3,CE,False,Dr. Aditya Verma,CE
+CE-B_VI,CE,B,VI,CR-144,theory,55,CE-604L,Programming Lab,2,CE,True,Prof. Diya Menon,CE
+CE-B_VI,CE,B,VI,CR-144,theory,55,CE-6011,Principles,4,CE,False,Dr. Ayaan Khan,CE
+CE-B_VI,CE,B,VI,CR-144,theory,55,CE-6011L,Principles Lab,2,CE,True,Prof. Pari Iyer,CE
+CE-B_VI,CE,B,VI,CR-144,theory,55,CE-606,Engineering,3,CE,False,Dr. Ayaan Khan,CE
+CE-B_VI,CE,B,VI,CR-144,theory,55,CE-606L,Engineering Lab,2,CE,True,Dr. Aditya Verma,CE
+CE-B_VII,CE,B,VII,CR-144,theory,55,CE-704,Design,3,CE,False,Dr. Aarav Kumar,CE
+CE-B_VII,CE,B,VII,CR-144,theory,55,CE-704L,Design Lab,2,CE,True,Prof. Riya Iyer,CE
+CE-B_VII,CE,B,VII,CR-144,theory,55,CE-7010,Engineering,4,CE,False,Dr. Riya Patel,CE
+CE-B_VII,CE,B,VII,CR-144,theory,55,CE-7010L,Engineering Lab,2,CE,True,Prof. Priya Patel,CE
+CE-B_VII,CE,B,VII,CR-144,theory,55,CE-706,Dynamics,3,CE,False,Prof. Kiara Mishra,CE
+CE-B_VII,CE,B,VII,CR-144,theory,55,CE-706L,Dynamics Lab,2,CE,True,Prof. Pari Khan,CE
+CE-B_VIII,CE,B,VIII,CR-144,theory,55,CE-801,Design,3,CE,False,Dr. Aarav Kumar,CE
+CE-B_VIII,CE,B,VIII,CR-144,theory,55,CE-801L,Design Lab,2,CE,True,Prof. Riya Iyer,CE
+CE-B_VIII,CE,B,VIII,CR-144,theory,55,CE-809,Fundamentals,3,CE,False,Dr. Aarav Kumar,CE
+CE-B_VIII,CE,B,VIII,CR-144,theory,55,CE-809L,Fundamentals Lab,2,CE,True,Dr. Aditya Verma,CE
+CE-B_VIII,CE,B,VIII,CR-144,theory,55,CE-806,Applications,3,CE,False,Prof. Priya Patel,CE
+CE-B_VIII,CE,B,VIII,CR-144,theory,55,CE-806L,Applications Lab,2,CE,True,Dr. Ayaan Khan,CE
+CE-C_I,CE,C,I,CR-062,theory,62,CE-1011,Design,4,CE,False,Prof. Priya Patel,CE
+CE-C_I,CE,C,I,CR-062,theory,62,CE-101,Systems,4,CE,False,Prof. Pari Khan,CE
+CE-C_I,CE,C,I,CR-062,theory,62,CE-101L,Systems Lab,2,CE,True,Dr. Aditya Verma,CE
+CE-C_I,CE,C,I,CR-062,theory,62,CE-103,Structures,4,CE,False,Prof. Pari Iyer,CE
+CE-C_I,CE,C,I,CR-062,theory,62,CE-103L,Structures Lab,2,CE,True,Prof. Priya Patel,CE
+CE-C_I,CE,C,I,CR-062,theory,62,CE-107,Principles,4,CE,False,Prof. Pari Khan,CE
+CE-C_II,CE,C,II,CR-062,theory,62,CE-202,Structures,3,CE,False,Dr. Riya Patel,CE
+CE-C_II,CE,C,II,CR-062,theory,62,CE-202L,Structures Lab,2,CE,True,Prof. Kiara Mishra,CE
+CE-C_II,CE,C,II,CR-062,theory,62,CE-201,Design,4,CE,False,Prof. Diya Menon,CE
+CE-C_II,CE,C,II,CR-062,theory,62,CE-201L,Design Lab,2,CE,True,Prof. Diya Menon,CE
+CE-C_II,CE,C,II,CR-062,theory,62,CE-204,Theory,4,CE,False,Prof. Riya Iyer,CE
+CE-C_II,CE,C,II,CR-062,theory,62,CE-204L,Theory Lab,2,CE,True,Dr. Aarav Kumar,CE
+CE-C_III,CE,C,III,CR-062,theory,62,CE-3012,Engineering,4,CE,False,Prof. Priya Verma,CE
+CE-C_III,CE,C,III,CR-062,theory,62,CE-3012L,Engineering Lab,2,CE,True,Dr. Aditya Verma,CE
+CE-C_III,CE,C,III,CR-062,theory,62,CE-306,Systems,4,CE,False,Prof. Kiara Mishra,CE
+CE-C_III,CE,C,III,CR-062,theory,62,CE-306L,Systems Lab,2,CE,True,Prof. Riya Pandey,CE
+CE-C_III,CE,C,III,CR-062,theory,62,CE-303,Design,3,CE,False,Dr. Riya Patel,CE
+CE-C_III,CE,C,III,CR-062,theory,62,CE-308,Design,3,CE,False,Dr. Riya Patel,CE
+CE-C_IV,CE,C,IV,CR-062,theory,62,CE-4010,Theory,4,CE,False,Dr. Ayaan Khan,CE
+CE-C_IV,CE,C,IV,CR-062,theory,62,CE-403,Fundamentals,3,CE,False,Dr. Aarav Reddy,CE
+CE-C_IV,CE,C,IV,CR-062,theory,62,CE-403L,Fundamentals Lab,2,CE,True,Prof. Diya Menon,CE
+CE-C_IV,CE,C,IV,CR-062,theory,62,CE-4011,Principles,4,CE,False,Prof. Priya Verma,CE
+CE-C_IV,CE,C,IV,CR-062,theory,62,CE-4011L,Principles Lab,2,CE,True,Dr. Aarav Reddy,CE
+CE-C_IV,CE,C,IV,CR-062,theory,62,CE-402,Dynamics,4,CE,False,Prof. Riya Iyer,CE
+CE-C_V,CE,C,V,CR-062,theory,62,CE-501,Theory,4,CE,False,Prof. Pari Khan,CE
+CE-C_V,CE,C,V,CR-062,theory,62,CE-501L,Theory Lab,2,CE,True,Prof. Riya Iyer,CE
+CE-C_V,CE,C,V,CR-062,theory,62,CE-5010,Structures,4,CE,False,Dr. Aditya Verma,CE
+CE-C_V,CE,C,V,CR-062,theory,62,CE-5010L,Structures Lab,2,CE,True,Prof. Pari Khan,CE
+CE-C_V,CE,C,V,CR-062,theory,62,CE-507,Dynamics,4,CE,False,Prof. Pari Khan,CE
+CE-C_V,CE,C,V,CR-062,theory,62,CE-507L,Dynamics Lab,2,CE,True,Dr. Ayaan Khan,CE
+CE-C_VI,CE,C,VI,CR-062,theory,62,CE-609,Dynamics,3,CE,False,Dr. Ayaan Khan,CE
+CE-C_VI,CE,C,VI,CR-062,theory,62,CE-609L,Dynamics Lab,2,CE,True,Dr. Aarav Reddy,CE
+CE-C_VI,CE,C,VI,CR-062,theory,62,CE-601,Design,3,CE,False,Dr. Aditya Verma,CE
+CE-C_VI,CE,C,VI,CR-062,theory,62,CE-601L,Design Lab,2,CE,True,Dr. Aditya Verma,CE
+CE-C_VI,CE,C,VI,CR-062,theory,62,CE-602,Structures,4,CE,False,Dr. Riya Patel,CE
+CE-C_VI,CE,C,VI,CR-062,theory,62,CE-6011,Principles,4,CE,False,Prof. Priya Verma,CE
+CE-C_VII,CE,C,VII,CR-062,theory,62,CE-703,Principles,4,CE,False,Prof. Priya Verma,CE
+CE-C_VII,CE,C,VII,CR-062,theory,62,CE-703L,Principles Lab,2,CE,True,Dr. Aditya Verma,CE
+CE-C_VII,CE,C,VII,CR-062,theory,62,CE-709,Structures,3,CE,False,Dr. Riya Patel,CE
+CE-C_VII,CE,C,VII,CR-062,theory,62,CE-709L,Structures Lab,2,CE,True,Dr. Aarav Kumar,CE
+CE-C_VII,CE,C,VII,CR-062,theory,62,CE-708,Fundamentals,4,CE,False,Prof. Riya Pandey,CE
+CE-C_VII,CE,C,VII,CR-062,theory,62,CE-7010,Engineering,4,CE,False,Prof. Priya Patel,CE
+CE-C_VIII,CE,C,VIII,CR-062,theory,62,CE-806,Applications,3,CE,False,Prof. Diya Menon,CE
+CE-C_VIII,CE,C,VIII,CR-062,theory,62,CE-806L,Applications Lab,2,CE,True,Dr. Riya Patel,CE
+CE-C_VIII,CE,C,VIII,CR-062,theory,62,CE-804,Design,4,CE,False,Prof. Riya Pandey,CE
+CE-C_VIII,CE,C,VIII,CR-062,theory,62,CE-8011,Design,4,CE,False,Prof. Diya Menon,CE
+CE-C_VIII,CE,C,VIII,CR-062,theory,62,CE-8011L,Design Lab,2,CE,True,Prof. Diya Menon,CE
+CE-C_VIII,CE,C,VIII,CR-062,theory,62,CE-802,Design,3,CE,False,Dr. Riya Patel,CE
+CE-D_I,CE,D,I,CR-044,theory,73,CE-1010,Theory,3,CE,False,Dr. Aditya Iyer,CE
+CE-D_I,CE,D,I,CR-044,theory,73,CE-109,Fundamentals,4,CE,False,Dr. Aditya Verma,CE
+CE-D_I,CE,D,I,CR-044,theory,73,CE-109L,Fundamentals Lab,2,CE,True,Prof. Priya Patel,CE
+CE-D_I,CE,D,I,CR-044,theory,73,CE-1011,Design,4,CE,False,Prof. Priya Patel,CE
+CE-D_I,CE,D,I,CR-044,theory,73,CE-101,Systems,4,CE,False,Dr. Aditya Iyer,CE
+CE-D_I,CE,D,I,CR-044,theory,73,CE-101L,Systems Lab,2,CE,True,Prof. Priya Patel,CE
+CE-D_II,CE,D,II,CR-044,theory,73,CE-201,Design,4,CE,False,Dr. Riya Patel,CE
+CE-D_II,CE,D,II,CR-044,theory,73,CE-201L,Design Lab,2,CE,True,Dr. Aarav Reddy,CE
+CE-D_II,CE,D,II,CR-044,theory,73,CE-202,Structures,3,CE,False,Dr. Aarav Reddy,CE
+CE-D_II,CE,D,II,CR-044,theory,73,CE-202L,Structures Lab,2,CE,True,Dr. Aditya Iyer,CE
+CE-D_II,CE,D,II,CR-044,theory,73,CE-2011,Applications,4,CE,False,Dr. Aarav Reddy,CE
+CE-D_II,CE,D,II,CR-044,theory,73,CE-2011L,Applications Lab,2,CE,True,Prof. Riya Pandey,CE
+CE-D_III,CE,D,III,CR-044,theory,73,CE-306,Systems,4,CE,False,Dr. Aarav Reddy,CE
+CE-D_III,CE,D,III,CR-044,theory,73,CE-306L,Systems Lab,2,CE,True,Prof. Priya Verma,CE
+CE-D_III,CE,D,III,CR-044,theory,73,CE-303,Design,3,CE,False,Prof. Diya Menon,CE
+CE-D_III,CE,D,III,CR-044,theory,73,CE-307,Structures,3,CE,False,Dr. Aditya Iyer,CE
+CE-D_III,CE,D,III,CR-044,theory,73,CE-307L,Structures Lab,2,CE,True,Dr. Aarav Reddy,CE
+CE-D_III,CE,D,III,CR-044,theory,73,CE-308,Design,3,CE,False,Prof. Diya Menon,CE
+CE-D_IV,CE,D,IV,CR-044,theory,73,CE-407,Theory,4,CE,False,Dr. Aditya Iyer,CE
+CE-D_IV,CE,D,IV,CR-044,theory,73,CE-407L,Theory Lab,2,CE,True,Dr. Aarav Reddy,CE
+CE-D_IV,CE,D,IV,CR-044,theory,73,CE-401,Dynamics,4,CE,False,Prof. Diya Menon,CE
+CE-D_IV,CE,D,IV,CR-044,theory,73,CE-401L,Dynamics Lab,2,CE,True,Dr. Aarav Reddy,CE
+IT-A_I,IT,A,I,CR-167,theory,74,IT-102,Structures,3,IT,False,Dr. Fatima Nath,IT
+IT-A_I,IT,A,I,CR-167,theory,74,IT-102L,Structures Lab,2,IT,True,Prof. Ishaan Gupta,IT
+IT-A_I,IT,A,I,CR-167,theory,74,IT-105,Theory,4,IT,False,Prof. Sai Pandey,IT
+IT-A_I,IT,A,I,CR-167,theory,74,IT-109,Applications,4,IT,False,Dr. Vihaan Nath,IT
+IT-A_I,IT,A,I,CR-167,theory,74,IT-109L,Applications Lab,2,IT,True,Prof. Vihaan Verma,IT
+IT-A_I,IT,A,I,CR-167,theory,74,IT-1011,Theory,3,IT,False,Prof. Fatima Patel,IT
+IT-A_II,IT,A,II,CR-167,theory,74,IT-206,Engineering,4,IT,False,Dr. Fatima Nath,IT
+IT-A_II,IT,A,II,CR-167,theory,74,IT-206L,Engineering Lab,2,IT,True,Prof. Fatima Patel,IT
+IT-A_II,IT,A,II,CR-167,theory,74,IT-201,Design,3,IT,False,Dr. Fatima Nath,IT
+IT-A_II,IT,A,II,CR-167,theory,74,IT-201L,Design Lab,2,IT,True,Prof. Fatima Patel,IT
+IT-A_II,IT,A,II,CR-167,theory,74,IT-2011,Theory,3,IT,False,Dr. Vihaan Nath,IT
+IT-A_II,IT,A,II,CR-167,theory,74,IT-2011L,Theory Lab,2,IT,True,Prof. Aadhya Pandey,IT
+IT-A_III,IT,A,III,CR-167,theory,74,IT-308,Applications,3,IT,False,Prof. Vihaan Verma,IT
+IT-A_III,IT,A,III,CR-167,theory,74,IT-3010,Analysis,3,IT,False,Dr. Aanya Khan,IT
+IT-A_III,IT,A,III,CR-167,theory,74,IT-3012,Applications,4,IT,False,Prof. Sai Pandey,IT
+IT-A_III,IT,A,III,CR-167,theory,74,IT-3011,Dynamics,4,IT,False,Prof. Ishaan Gupta,IT
+IT-A_III,IT,A,III,CR-167,theory,74,IT-3011L,Dynamics Lab,2,IT,True,Dr. Aarav Joshi,IT
+IT-A_III,IT,A,III,CR-167,theory,74,IT-306,Systems,4,IT,False,Dr. Fatima Nath,IT
+IT-A_IV,IT,A,IV,CR-167,theory,74,IT-403,Theory,4,IT,False,Dr. Arjun Reddy,IT
+IT-A_IV,IT,A,IV,CR-167,theory,74,IT-404,Theory,3,IT,False,Prof. Vihaan Verma,IT
+IT-A_IV,IT,A,IV,CR-167,theory,74,IT-404L,Theory Lab,2,IT,True,Dr. Vihaan Nath,IT
+IT-A_IV,IT,A,IV,CR-167,theory,74,IT-409,Dynamics,3,IT,False,Dr. Aanya Khan,IT
+IT-A_IV,IT,A,IV,CR-167,theory,74,IT-409L,Dynamics Lab,2,IT,True,Dr. Ayaan Sharma,IT
+IT-A_IV,IT,A,IV,CR-167,theory,74,IT-407,Systems,4,IT,False,Prof. Fatima Patel,IT
+IT-A_V,IT,A,V,CR-167,theory,74,IT-509,Engineering,3,IT,False,Prof. Vihaan Verma,IT
+IT-A_V,IT,A,V,CR-167,theory,74,IT-502,Engineering,4,IT,False,Prof. Vihaan Verma,IT
+IT-A_V,IT,A,V,CR-167,theory,74,IT-502L,Engineering Lab,2,IT,True,Dr. Aarav Joshi,IT
+IT-A_V,IT,A,V,CR-167,theory,74,IT-5010,Applications,3,IT,False,Dr. Arjun Reddy,IT
+IT-A_V,IT,A,V,CR-167,theory,74,IT-505,Design,3,IT,False,Prof. Sai Pandey,IT
+IT-A_V,IT,A,V,CR-167,theory,74,IT-505L,Design Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-A_VI,IT,A,VI,CR-167,theory,74,IT-605,Engineering,4,IT,False,Dr. Arjun Reddy,IT
+IT-A_VI,IT,A,VI,CR-167,theory,74,IT-605L,Engineering Lab,2,IT,True,Dr. Aarav Joshi,IT
+IT-A_VI,IT,A,VI,CR-167,theory,74,IT-6011,Principles,3,IT,False,Prof. Ishaan Gupta,IT
+IT-A_VI,IT,A,VI,CR-167,theory,74,IT-6011L,Principles Lab,2,IT,True,Prof. Sai Pandey,IT
+IT-A_VI,IT,A,VI,CR-167,theory,74,IT-607,Design,4,IT,False,Dr. Ayaan Sharma,IT
+IT-A_VI,IT,A,VI,CR-167,theory,74,IT-607L,Design Lab,2,IT,True,Prof. Aadhya Pandey,IT
+IT-A_VII,IT,A,VII,CR-167,theory,74,IT-7010,Principles,4,IT,False,Prof. Fatima Patel,IT
+IT-A_VII,IT,A,VII,CR-167,theory,74,IT-7010L,Principles Lab,2,IT,True,Dr. Diya Kumar,IT
+IT-A_VII,IT,A,VII,CR-167,theory,74,IT-702,Structures,4,IT,False,Dr. Vihaan Yadav,IT
+IT-A_VII,IT,A,VII,CR-167,theory,74,IT-705,Engineering,4,IT,False,Dr. Aarav Joshi,IT
+IT-A_VII,IT,A,VII,CR-167,theory,74,IT-705L,Engineering Lab,2,IT,True,Dr. Aarav Joshi,IT
+IT-A_VII,IT,A,VII,CR-167,theory,74,IT-7012,Analysis,3,IT,False,Prof. Ishaan Gupta,IT
+IT-A_VIII,IT,A,VIII,CR-167,theory,74,IT-8012,Structures,3,IT,False,Prof. Aadhya Pandey,IT
+IT-A_VIII,IT,A,VIII,CR-167,theory,74,IT-8012L,Structures Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-A_VIII,IT,A,VIII,CR-167,theory,74,IT-809,Applications,4,IT,False,Dr. Diya Kumar,IT
+IT-A_VIII,IT,A,VIII,CR-167,theory,74,IT-809L,Applications Lab,2,IT,True,Prof. Ishaan Gupta,IT
+IT-A_VIII,IT,A,VIII,CR-167,theory,74,IT-8011,Engineering,4,IT,False,Prof. Vihaan Verma,IT
+IT-A_VIII,IT,A,VIII,CR-167,theory,74,IT-8011L,Engineering Lab,2,IT,True,Dr. Vihaan Yadav,IT
+IT-B_I,IT,B,I,CR-176,theory,76,IT-105,Theory,4,IT,False,Dr. Aarav Joshi,IT
+IT-B_I,IT,B,I,CR-176,theory,76,IT-1011,Theory,3,IT,False,Prof. Aadhya Pandey,IT
+IT-B_I,IT,B,I,CR-176,theory,76,IT-1011L,Theory Lab,2,IT,True,Dr. Ayaan Sharma,IT
+IT-B_I,IT,B,I,CR-176,theory,76,IT-106,Applications,4,IT,False,Prof. Ishaan Gupta,IT
+IT-B_I,IT,B,I,CR-176,theory,76,IT-106L,Applications Lab,2,IT,True,Dr. Diya Kumar,IT
+IT-B_I,IT,B,I,CR-176,theory,76,IT-108,Structures,3,IT,False,Prof. Aadhya Pandey,IT
+IT-B_II,IT,B,II,CR-176,theory,76,IT-201,Design,3,IT,False,Prof. Vihaan Verma,IT
+IT-B_II,IT,B,II,CR-176,theory,76,IT-201L,Design Lab,2,IT,True,Dr. Ayaan Sharma,IT
+IT-B_II,IT,B,II,CR-176,theory,76,IT-2011,Theory,3,IT,False,Dr. Aanya Khan,IT
+IT-B_II,IT,B,II,CR-176,theory,76,IT-2011L,Theory Lab,2,IT,True,Dr. Vihaan Nath,IT
+IT-B_II,IT,B,II,CR-176,theory,76,IT-202,Dynamics,3,IT,False,Dr. Arjun Reddy,IT
+IT-B_II,IT,B,II,CR-176,theory,76,IT-202L,Dynamics Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-B_III,IT,B,III,CR-176,theory,76,IT-301,Structures,3,IT,False,Prof. Aadhya Pandey,IT
+IT-B_III,IT,B,III,CR-176,theory,76,IT-301L,Structures Lab,2,IT,True,Prof. Sai Pandey,IT
+IT-B_III,IT,B,III,CR-176,theory,76,IT-304,Principles,4,IT,False,Prof. Ishaan Gupta,IT
+IT-B_III,IT,B,III,CR-176,theory,76,IT-304L,Principles Lab,2,IT,True,Prof. Aadhya Pandey,IT
+IT-B_III,IT,B,III,CR-176,theory,76,IT-3010,Analysis,3,IT,False,Dr. Ayaan Sharma,IT
+IT-B_III,IT,B,III,CR-176,theory,76,IT-307,Structures,4,IT,False,Dr. Vihaan Yadav,IT
+IT-B_IV,IT,B,IV,CR-176,theory,76,IT-407,Systems,4,IT,False,Dr. Diya Kumar,IT
+IT-B_IV,IT,B,IV,CR-176,theory,76,IT-407L,Systems Lab,2,IT,True,Dr. Diya Kumar,IT
+IT-B_IV,IT,B,IV,CR-176,theory,76,IT-4012,Design,4,IT,False,Prof. Aadhya Pandey,IT
+IT-B_IV,IT,B,IV,CR-176,theory,76,IT-406,Engineering,4,IT,False,Dr. Diya Kumar,IT
+IT-B_IV,IT,B,IV,CR-176,theory,76,IT-406L,Engineering Lab,2,IT,True,Prof. Fatima Patel,IT
+IT-B_IV,IT,B,IV,CR-176,theory,76,IT-401,Applications,3,IT,False,Prof. Sai Pandey,IT
+IT-B_V,IT,B,V,CR-176,theory,76,IT-505,Design,3,IT,False,Dr. Aarav Joshi,IT
+IT-B_V,IT,B,V,CR-176,theory,76,IT-505L,Design Lab,2,IT,True,Prof. Vihaan Verma,IT
+IT-B_V,IT,B,V,CR-176,theory,76,IT-5011,Theory,4,IT,False,Prof. Fatima Patel,IT
+IT-B_V,IT,B,V,CR-176,theory,76,IT-5011L,Theory Lab,2,IT,True,Prof. Vihaan Verma,IT
+IT-B_V,IT,B,V,CR-176,theory,76,IT-501,Fundamentals,4,IT,False,Dr. Aanya Khan,IT
+IT-B_V,IT,B,V,CR-176,theory,76,IT-504,Dynamics,4,IT,False,Prof. Sai Pandey,IT
+IT-B_VI,IT,B,VI,CR-176,theory,76,IT-607,Design,4,IT,False,Prof. Vihaan Verma,IT
+IT-B_VI,IT,B,VI,CR-176,theory,76,IT-607L,Design Lab,2,IT,True,Dr. Aanya Khan,IT
+IT-B_VI,IT,B,VI,CR-176,theory,76,IT-608,Programming,3,IT,False,Prof. Vihaan Verma,IT
+IT-B_VI,IT,B,VI,CR-176,theory,76,IT-6011,Principles,3,IT,False,Dr. Diya Kumar,IT
+IT-B_VI,IT,B,VI,CR-176,theory,76,IT-6011L,Principles Lab,2,IT,True,Prof. Vihaan Verma,IT
+IT-B_VI,IT,B,VI,CR-176,theory,76,IT-605,Engineering,4,IT,False,Dr. Vihaan Nath,IT
+IT-B_VII,IT,B,VII,CR-176,theory,76,IT-708,Principles,3,IT,False,Prof. Ishaan Gupta,IT
+IT-B_VII,IT,B,VII,CR-176,theory,76,IT-708L,Principles Lab,2,IT,True,Dr. Aarav Joshi,IT
+IT-B_VII,IT,B,VII,CR-176,theory,76,IT-7011,Dynamics,3,IT,False,Prof. Ishaan Gupta,IT
+IT-B_VII,IT,B,VII,CR-176,theory,76,IT-701,Principles,4,IT,False,Prof. Ishaan Gupta,IT
+IT-B_VII,IT,B,VII,CR-176,theory,76,IT-701L,Principles Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-B_VII,IT,B,VII,CR-176,theory,76,IT-702,Structures,4,IT,False,Dr. Aarav Joshi,IT
+IT-B_VIII,IT,B,VIII,CR-176,theory,76,IT-808,Theory,3,IT,False,Prof. Sai Pandey,IT
+IT-B_VIII,IT,B,VIII,CR-176,theory,76,IT-807,Programming,3,IT,False,Prof. Fatima Patel,IT
+IT-B_VIII,IT,B,VIII,CR-176,theory,76,IT-807L,Programming Lab,2,IT,True,Dr. Ayaan Sharma,IT
+IT-B_VIII,IT,B,VIII,CR-176,theory,76,IT-806,Theory,4,IT,False,Dr. Vihaan Yadav,IT
+IT-B_VIII,IT,B,VIII,CR-176,theory,76,IT-806L,Theory Lab,2,IT,True,Dr. Aanya Khan,IT
+IT-B_VIII,IT,B,VIII,CR-176,theory,76,IT-8011,Engineering,4,IT,False,Dr. Arjun Reddy,IT
+IT-C_I,IT,C,I,CR-139,theory,54,IT-109,Applications,4,IT,False,Dr. Vihaan Yadav,IT
+IT-C_I,IT,C,I,CR-139,theory,54,IT-109L,Applications Lab,2,IT,True,Prof. Aadhya Pandey,IT
+IT-C_I,IT,C,I,CR-139,theory,54,IT-102,Structures,3,IT,False,Dr. Arjun Reddy,IT
+IT-C_I,IT,C,I,CR-139,theory,54,IT-102L,Structures Lab,2,IT,True,Prof. Ishaan Gupta,IT
+IT-C_I,IT,C,I,CR-139,theory,54,IT-107,Theory,4,IT,False,Dr. Aanya Khan,IT
+IT-C_I,IT,C,I,CR-139,theory,54,IT-107L,Theory Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-C_II,IT,C,II,CR-139,theory,54,IT-202,Dynamics,3,IT,False,Dr. Vihaan Nath,IT
+IT-C_II,IT,C,II,CR-139,theory,54,IT-202L,Dynamics Lab,2,IT,True,Dr. Vihaan Yadav,IT
+IT-C_II,IT,C,II,CR-139,theory,54,IT-2012,Design,3,IT,False,Dr. Vihaan Nath,IT
+IT-C_II,IT,C,II,CR-139,theory,54,IT-2012L,Design Lab,2,IT,True,Dr. Vihaan Nath,IT
+IT-C_II,IT,C,II,CR-139,theory,54,IT-2010,Dynamics,4,IT,False,Dr. Aanya Khan,IT
+IT-C_II,IT,C,II,CR-139,theory,54,IT-206,Engineering,4,IT,False,Dr. Diya Kumar,IT
+IT-C_III,IT,C,III,CR-139,theory,54,IT-305,Dynamics,4,IT,False,Dr. Aarav Joshi,IT
+IT-C_III,IT,C,III,CR-139,theory,54,IT-305L,Dynamics Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-C_III,IT,C,III,CR-139,theory,54,IT-307,Structures,4,IT,False,Dr. Diya Kumar,IT
+IT-C_III,IT,C,III,CR-139,theory,54,IT-3011,Dynamics,4,IT,False,Dr. Arjun Reddy,IT
+IT-C_III,IT,C,III,CR-139,theory,54,IT-3011L,Dynamics Lab,2,IT,True,Dr. Vihaan Nath,IT
+IT-C_III,IT,C,III,CR-139,theory,54,IT-309,Analysis,4,IT,False,Dr. Vihaan Nath,IT
+IT-C_IV,IT,C,IV,CR-139,theory,54,IT-402,Systems,4,IT,False,Dr. Aanya Khan,IT
+IT-C_IV,IT,C,IV,CR-139,theory,54,IT-401,Applications,3,IT,False,Dr. Aarav Joshi,IT
+IT-C_IV,IT,C,IV,CR-139,theory,54,IT-401L,Applications Lab,2,IT,True,Dr. Vihaan Nath,IT
+IT-C_IV,IT,C,IV,CR-139,theory,54,IT-4011,Principles,3,IT,False,Dr. Aanya Khan,IT
+IT-C_IV,IT,C,IV,CR-139,theory,54,IT-406,Engineering,4,IT,False,Dr. Aarav Joshi,IT
+IT-C_IV,IT,C,IV,CR-139,theory,54,IT-406L,Engineering Lab,2,IT,True,Prof. Ishaan Gupta,IT
+IT-C_V,IT,C,V,CR-139,theory,54,IT-5010,Applications,3,IT,False,Dr. Vihaan Yadav,IT
+IT-C_V,IT,C,V,CR-139,theory,54,IT-507,Principles,4,IT,False,Dr. Fatima Nath,IT
+IT-C_V,IT,C,V,CR-139,theory,54,IT-507L,Principles Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-C_V,IT,C,V,CR-139,theory,54,IT-5012,Programming,4,IT,False,Dr. Diya Kumar,IT
+IT-C_V,IT,C,V,CR-139,theory,54,IT-504,Dynamics,4,IT,False,Dr. Vihaan Nath,IT
+IT-C_V,IT,C,V,CR-139,theory,54,IT-504L,Dynamics Lab,2,IT,True,Dr. Aanya Khan,IT
+IT-C_VI,IT,C,VI,CR-139,theory,54,IT-609,Analysis,4,IT,False,Dr. Arjun Reddy,IT
+IT-C_VI,IT,C,VI,CR-139,theory,54,IT-609L,Analysis Lab,2,IT,True,Dr. Arjun Reddy,IT
+IT-C_VI,IT,C,VI,CR-139,theory,54,IT-603,Principles,4,IT,False,Prof. Fatima Patel,IT
+IT-C_VI,IT,C,VI,CR-139,theory,54,IT-603L,Principles Lab,2,IT,True,Dr. Aanya Khan,IT
+IT-C_VI,IT,C,VI,CR-139,theory,54,IT-605,Engineering,4,IT,False,Dr. Ayaan Sharma,IT
+IT-C_VI,IT,C,VI,CR-139,theory,54,IT-605L,Engineering Lab,2,IT,True,Dr. Vihaan Yadav,IT
+IT-C_VII,IT,C,VII,CR-139,theory,54,IT-7012,Analysis,3,IT,False,Dr. Diya Kumar,IT
+IT-C_VII,IT,C,VII,CR-139,theory,54,IT-7012L,Analysis Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-C_VII,IT,C,VII,CR-139,theory,54,IT-705,Engineering,4,IT,False,Dr. Arjun Reddy,IT
+IT-C_VII,IT,C,VII,CR-139,theory,54,IT-705L,Engineering Lab,2,IT,True,Dr. Ayaan Sharma,IT
+IT-C_VII,IT,C,VII,CR-139,theory,54,IT-7011,Dynamics,3,IT,False,Prof. Sai Pandey,IT
+IT-C_VII,IT,C,VII,CR-139,theory,54,IT-704,Applications,3,IT,False,Prof. Fatima Patel,IT
+IT-C_VIII,IT,C,VIII,CR-139,theory,54,IT-8012,Structures,3,IT,False,Prof. Fatima Patel,IT
+IT-C_VIII,IT,C,VIII,CR-139,theory,54,IT-8012L,Structures Lab,2,IT,True,Prof. Fatima Patel,IT
+IT-C_VIII,IT,C,VIII,CR-139,theory,54,IT-8011,Engineering,4,IT,False,Prof. Aadhya Pandey,IT
+IT-C_VIII,IT,C,VIII,CR-139,theory,54,IT-8011L,Engineering Lab,2,IT,True,Prof. Aadhya Pandey,IT
+IT-C_VIII,IT,C,VIII,CR-139,theory,54,IT-804,Theory,3,IT,False,Prof. Aadhya Pandey,IT
+IT-C_VIII,IT,C,VIII,CR-139,theory,54,IT-807,Programming,3,IT,False,Dr. Ayaan Sharma,IT
+IT-D_I,IT,D,I,CR-006,theory,66,IT-108,Structures,3,IT,False,Dr. Vihaan Yadav,IT
+IT-D_I,IT,D,I,CR-006,theory,66,IT-1011,Theory,3,IT,False,Prof. Aadhya Pandey,IT
+IT-D_I,IT,D,I,CR-006,theory,66,IT-1011L,Theory Lab,2,IT,True,Prof. Sai Pandey,IT
+IT-D_I,IT,D,I,CR-006,theory,66,IT-109,Applications,4,IT,False,Dr. Ayaan Sharma,IT
+IT-D_I,IT,D,I,CR-006,theory,66,IT-109L,Applications Lab,2,IT,True,Dr. Vihaan Yadav,IT
+IT-D_I,IT,D,I,CR-006,theory,66,IT-1010,Theory,4,IT,False,Dr. Ayaan Sharma,IT
+IT-D_II,IT,D,II,CR-006,theory,66,IT-204,Principles,4,IT,False,Dr. Ayaan Sharma,IT
+IT-D_II,IT,D,II,CR-006,theory,66,IT-204L,Principles Lab,2,IT,True,Dr. Fatima Nath,IT
+IT-D_II,IT,D,II,CR-006,theory,66,IT-205,Systems,3,IT,False,Prof. Sai Pandey,IT
+IT-D_II,IT,D,II,CR-006,theory,66,IT-205L,Systems Lab,2,IT,True,Dr. Vihaan Yadav,IT
+IT-D_II,IT,D,II,CR-006,theory,66,IT-209,Programming,3,IT,False,Prof. Sai Pandey,IT
+IT-D_II,IT,D,II,CR-006,theory,66,IT-209L,Programming Lab,2,IT,True,Dr. Vihaan Yadav,IT
+Biotech-A_I,Biotech,A,I,CR-030,theory,54,BT-105,Programming,3,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-A_I,Biotech,A,I,CR-030,theory,54,BT-1011,Design,4,Biotech,False,Dr. Ananya Khan,Biotech
+Biotech-A_I,Biotech,A,I,CR-030,theory,54,BT-107,Dynamics,3,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-A_I,Biotech,A,I,CR-030,theory,54,BT-102,Analysis,3,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-A_I,Biotech,A,I,CR-030,theory,54,BT-1010,Applications,4,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-A_I,Biotech,A,I,CR-030,theory,54,BT-1010L,Applications Lab,2,Biotech,True,Dr. Priya Menon,Biotech
+Biotech-A_II,Biotech,A,II,CR-030,theory,54,BT-205,Theory,4,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-A_II,Biotech,A,II,CR-030,theory,54,BT-205L,Theory Lab,2,Biotech,True,Prof. Aditya Patel,Biotech
+Biotech-A_II,Biotech,A,II,CR-030,theory,54,BT-2010,Principles,4,Biotech,False,Prof. Reyansh Gupta,Biotech
+Biotech-A_II,Biotech,A,II,CR-030,theory,54,BT-2010L,Principles Lab,2,Biotech,True,Prof. Aditya Patel,Biotech
+Biotech-A_II,Biotech,A,II,CR-030,theory,54,BT-2011,Applications,4,Biotech,False,Prof. Reyansh Gupta,Biotech
+Biotech-A_II,Biotech,A,II,CR-030,theory,54,BT-2011L,Applications Lab,2,Biotech,True,Prof. Diya Mishra,Biotech
+Biotech-A_III,Biotech,A,III,CR-030,theory,54,BT-306,Engineering,4,Biotech,False,Dr. Sai Verma,Biotech
+Biotech-A_III,Biotech,A,III,CR-030,theory,54,BT-306L,Engineering Lab,2,Biotech,True,Prof. Reyansh Gupta,Biotech
+Biotech-A_III,Biotech,A,III,CR-030,theory,54,BT-302,Principles,3,Biotech,False,Prof. Diya Mishra,Biotech
+Biotech-A_III,Biotech,A,III,CR-030,theory,54,BT-302L,Principles Lab,2,Biotech,True,Prof. Aditya Joshi,Biotech
+Biotech-A_III,Biotech,A,III,CR-030,theory,54,BT-309,Programming,3,Biotech,False,Prof. Diya Mishra,Biotech
+Biotech-A_III,Biotech,A,III,CR-030,theory,54,BT-309L,Programming Lab,2,Biotech,True,Dr. Ananya Khan,Biotech
+Biotech-A_IV,Biotech,A,IV,CR-030,theory,54,BT-401,Applications,3,Biotech,False,Dr. Ananya Khan,Biotech
+Biotech-A_IV,Biotech,A,IV,CR-030,theory,54,BT-4012,Engineering,4,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-A_IV,Biotech,A,IV,CR-030,theory,54,BT-4012L,Engineering Lab,2,Biotech,True,Prof. Diya Mishra,Biotech
+Biotech-A_IV,Biotech,A,IV,CR-030,theory,54,BT-406,Systems,4,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-A_IV,Biotech,A,IV,CR-030,theory,54,BT-402,Engineering,3,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-A_IV,Biotech,A,IV,CR-030,theory,54,BT-403,Systems,4,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-A_V,Biotech,A,V,CR-030,theory,54,BT-501,Engineering,4,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-A_V,Biotech,A,V,CR-030,theory,54,BT-504,Design,4,Biotech,False,Dr. Ananya Khan,Biotech
+Biotech-A_V,Biotech,A,V,CR-030,theory,54,BT-508,Design,4,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-A_V,Biotech,A,V,CR-030,theory,54,BT-508L,Design Lab,2,Biotech,True,Dr. Aadhya Verma,Biotech
+Biotech-A_V,Biotech,A,V,CR-030,theory,54,BT-5012,Analysis,3,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-A_V,Biotech,A,V,CR-030,theory,54,BT-5011,Dynamics,4,Biotech,False,Dr. Sai Verma,Biotech
+Biotech-A_VI,Biotech,A,VI,CR-030,theory,54,BT-608,Applications,4,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-A_VI,Biotech,A,VI,CR-030,theory,54,BT-608L,Applications Lab,2,Biotech,True,Prof. Reyansh Gupta,Biotech
+Biotech-A_VI,Biotech,A,VI,CR-030,theory,54,BT-604,Applications,3,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-A_VI,Biotech,A,VI,CR-030,theory,54,BT-604L,Applications Lab,2,Biotech,True,Prof. Aadhya Gupta,Biotech
+Biotech-A_VI,Biotech,A,VI,CR-030,theory,54,BT-6010,Fundamentals,3,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-A_VI,Biotech,A,VI,CR-030,theory,54,BT-6010L,Fundamentals Lab,2,Biotech,True,Prof. Aditya Joshi,Biotech
+Biotech-A_VII,Biotech,A,VII,CR-030,theory,54,BT-7011,Analysis,3,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-A_VII,Biotech,A,VII,CR-030,theory,54,BT-7011L,Analysis Lab,2,Biotech,True,Prof. Aditya Joshi,Biotech
+Biotech-A_VII,Biotech,A,VII,CR-030,theory,54,BT-708,Theory,4,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-A_VII,Biotech,A,VII,CR-030,theory,54,BT-702,Programming,3,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-A_VII,Biotech,A,VII,CR-030,theory,54,BT-702L,Programming Lab,2,Biotech,True,Prof. Aditya Menon,Biotech
+Biotech-A_VII,Biotech,A,VII,CR-030,theory,54,BT-703,Fundamentals,4,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-A_VIII,Biotech,A,VIII,CR-030,theory,54,BT-801,Fundamentals,4,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-A_VIII,Biotech,A,VIII,CR-030,theory,54,BT-801L,Fundamentals Lab,2,Biotech,True,Dr. Sai Verma,Biotech
+Biotech-A_VIII,Biotech,A,VIII,CR-030,theory,54,BT-8011,Design,4,Biotech,False,Prof. Reyansh Gupta,Biotech
+Biotech-A_VIII,Biotech,A,VIII,CR-030,theory,54,BT-805,Principles,3,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-A_VIII,Biotech,A,VIII,CR-030,theory,54,BT-805L,Principles Lab,2,Biotech,True,Prof. Pari Verma,Biotech
+Biotech-A_VIII,Biotech,A,VIII,CR-030,theory,54,BT-809,Systems,4,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-B_I,Biotech,B,I,CR-061,theory,65,BT-106,Analysis,3,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-B_I,Biotech,B,I,CR-061,theory,65,BT-106L,Analysis Lab,2,Biotech,True,Prof. Pari Verma,Biotech
+Biotech-B_I,Biotech,B,I,CR-061,theory,65,BT-107,Dynamics,3,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-B_I,Biotech,B,I,CR-061,theory,65,BT-102,Analysis,3,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-B_I,Biotech,B,I,CR-061,theory,65,BT-104,Dynamics,3,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-B_I,Biotech,B,I,CR-061,theory,65,BT-104L,Dynamics Lab,2,Biotech,True,Dr. Ananya Khan,Biotech
+Biotech-B_II,Biotech,B,II,CR-061,theory,65,BT-208,Principles,3,Biotech,False,Prof. Diya Mishra,Biotech
+Biotech-B_II,Biotech,B,II,CR-061,theory,65,BT-208L,Principles Lab,2,Biotech,True,Prof. Reyansh Gupta,Biotech
+Biotech-B_II,Biotech,B,II,CR-061,theory,65,BT-203,Theory,4,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-B_II,Biotech,B,II,CR-061,theory,65,BT-203L,Theory Lab,2,Biotech,True,Prof. Pari Verma,Biotech
+Biotech-B_II,Biotech,B,II,CR-061,theory,65,BT-204,Applications,3,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-B_II,Biotech,B,II,CR-061,theory,65,BT-204L,Applications Lab,2,Biotech,True,Dr. Ananya Khan,Biotech
+Biotech-B_III,Biotech,B,III,CR-061,theory,65,BT-3011,Systems,4,Biotech,False,Prof. Pari Verma,Biotech
+Biotech-B_III,Biotech,B,III,CR-061,theory,65,BT-3011L,Systems Lab,2,Biotech,True,Dr. Priya Menon,Biotech
+Biotech-B_III,Biotech,B,III,CR-061,theory,65,BT-305,Applications,4,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-B_III,Biotech,B,III,CR-061,theory,65,BT-305L,Applications Lab,2,Biotech,True,Prof. Aditya Menon,Biotech
+Biotech-B_III,Biotech,B,III,CR-061,theory,65,BT-301,Structures,3,Biotech,False,Dr. Sai Verma,Biotech
+Biotech-B_III,Biotech,B,III,CR-061,theory,65,BT-307,Applications,3,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-B_IV,Biotech,B,IV,CR-061,theory,65,BT-406,Systems,4,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-B_IV,Biotech,B,IV,CR-061,theory,65,BT-401,Applications,3,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-B_IV,Biotech,B,IV,CR-061,theory,65,BT-407,Engineering,4,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-B_IV,Biotech,B,IV,CR-061,theory,65,BT-407L,Engineering Lab,2,Biotech,True,Dr. Ananya Khan,Biotech
+Biotech-B_IV,Biotech,B,IV,CR-061,theory,65,BT-4010,Theory,4,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-B_IV,Biotech,B,IV,CR-061,theory,65,BT-4010L,Theory Lab,2,Biotech,True,Dr. Ananya Khan,Biotech
+Biotech-B_V,Biotech,B,V,CR-061,theory,65,BT-5011,Dynamics,4,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-B_V,Biotech,B,V,CR-061,theory,65,BT-5011L,Dynamics Lab,2,Biotech,True,Prof. Pari Verma,Biotech
+Biotech-B_V,Biotech,B,V,CR-061,theory,65,BT-505,Principles,4,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-B_V,Biotech,B,V,CR-061,theory,65,BT-501,Engineering,4,Biotech,False,Dr. Sai Verma,Biotech
+Biotech-B_V,Biotech,B,V,CR-061,theory,65,BT-503,Programming,3,Biotech,False,Prof. Aadhya Gupta,Biotech
+Biotech-B_V,Biotech,B,V,CR-061,theory,65,BT-503L,Programming Lab,2,Biotech,True,Prof. Pari Verma,Biotech
+Biotech-B_VI,Biotech,B,VI,CR-061,theory,65,BT-6011,Programming,3,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-B_VI,Biotech,B,VI,CR-061,theory,65,BT-606,Dynamics,4,Biotech,False,Dr. Ananya Khan,Biotech
+Biotech-B_VI,Biotech,B,VI,CR-061,theory,65,BT-606L,Dynamics Lab,2,Biotech,True,Dr. Ananya Khan,Biotech
+Biotech-B_VI,Biotech,B,VI,CR-061,theory,65,BT-603,Systems,3,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-B_VI,Biotech,B,VI,CR-061,theory,65,BT-603L,Systems Lab,2,Biotech,True,Dr. Ananya Khan,Biotech
+Biotech-B_VI,Biotech,B,VI,CR-061,theory,65,BT-608,Applications,4,Biotech,False,Prof. Pari Verma,Biotech
+Biotech-B_VII,Biotech,B,VII,CR-061,theory,65,BT-703,Fundamentals,4,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-B_VII,Biotech,B,VII,CR-061,theory,65,BT-703L,Fundamentals Lab,2,Biotech,True,Prof. Aditya Patel,Biotech
+Biotech-B_VII,Biotech,B,VII,CR-061,theory,65,BT-7011,Analysis,3,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-B_VII,Biotech,B,VII,CR-061,theory,65,BT-7011L,Analysis Lab,2,Biotech,True,Prof. Diya Mishra,Biotech
+Biotech-B_VII,Biotech,B,VII,CR-061,theory,65,BT-704,Fundamentals,3,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-B_VII,Biotech,B,VII,CR-061,theory,65,BT-705,Theory,4,Biotech,False,Prof. Pari Verma,Biotech
+Biotech-B_VIII,Biotech,B,VIII,CR-061,theory,65,BT-803,Engineering,3,Biotech,False,Prof. Reyansh Gupta,Biotech
+Biotech-B_VIII,Biotech,B,VIII,CR-061,theory,65,BT-8010,Theory,4,Biotech,False,Prof. Reyansh Gupta,Biotech
+Biotech-B_VIII,Biotech,B,VIII,CR-061,theory,65,BT-805,Principles,3,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-B_VIII,Biotech,B,VIII,CR-061,theory,65,BT-805L,Principles Lab,2,Biotech,True,Prof. Aditya Joshi,Biotech
+Biotech-B_VIII,Biotech,B,VIII,CR-061,theory,65,BT-8012,Design,3,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-B_VIII,Biotech,B,VIII,CR-061,theory,65,BT-8012L,Design Lab,2,Biotech,True,Dr. Sai Verma,Biotech
+Biotech-C_I,Biotech,C,I,CR-079,theory,77,BT-103,Theory,3,Biotech,False,Dr. Sai Verma,Biotech
+Biotech-C_I,Biotech,C,I,CR-079,theory,77,BT-101,Fundamentals,4,Biotech,False,Prof. Reyansh Gupta,Biotech
+Biotech-C_I,Biotech,C,I,CR-079,theory,77,BT-101L,Fundamentals Lab,2,Biotech,True,Dr. Aadhya Verma,Biotech
+Biotech-C_I,Biotech,C,I,CR-079,theory,77,BT-106,Analysis,3,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-C_I,Biotech,C,I,CR-079,theory,77,BT-106L,Analysis Lab,2,Biotech,True,Prof. Reyansh Gupta,Biotech
+Biotech-C_I,Biotech,C,I,CR-079,theory,77,BT-104,Dynamics,3,Biotech,False,Dr. Priya Menon,Biotech
+Biotech-C_II,Biotech,C,II,CR-079,theory,77,BT-202,Theory,4,Biotech,False,Prof. Reyansh Gupta,Biotech
+Biotech-C_II,Biotech,C,II,CR-079,theory,77,BT-207,Theory,3,Biotech,False,Dr. Ananya Khan,Biotech
+Biotech-C_II,Biotech,C,II,CR-079,theory,77,BT-205,Theory,4,Biotech,False,Dr. Aadhya Verma,Biotech
+Biotech-C_II,Biotech,C,II,CR-079,theory,77,BT-205L,Theory Lab,2,Biotech,True,Prof. Diya Mishra,Biotech
+Biotech-C_II,Biotech,C,II,CR-079,theory,77,BT-201,Systems,4,Biotech,False,Dr. Ananya Khan,Biotech
+Biotech-C_II,Biotech,C,II,CR-079,theory,77,BT-2010,Principles,4,Biotech,False,Prof. Diya Mishra,Biotech
+Biotech-C_III,Biotech,C,III,CR-079,theory,77,BT-3011,Systems,4,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-C_III,Biotech,C,III,CR-079,theory,77,BT-3011L,Systems Lab,2,Biotech,True,Prof. Aditya Joshi,Biotech
+Biotech-C_III,Biotech,C,III,CR-079,theory,77,BT-308,Systems,4,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-C_III,Biotech,C,III,CR-079,theory,77,BT-308L,Systems Lab,2,Biotech,True,Dr. Sai Patel,Biotech
+Biotech-C_III,Biotech,C,III,CR-079,theory,77,BT-3010,Design,4,Biotech,False,Prof. Diya Mishra,Biotech
+Biotech-C_III,Biotech,C,III,CR-079,theory,77,BT-309,Programming,3,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-C_IV,Biotech,C,IV,CR-079,theory,77,BT-407,Engineering,4,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-C_IV,Biotech,C,IV,CR-079,theory,77,BT-407L,Engineering Lab,2,Biotech,True,Dr. Sai Patel,Biotech
+Biotech-C_IV,Biotech,C,IV,CR-079,theory,77,BT-409,Dynamics,3,Biotech,False,Prof. Aditya Joshi,Biotech
+Biotech-C_IV,Biotech,C,IV,CR-079,theory,77,BT-405,Design,3,Biotech,False,Prof. Pari Verma,Biotech
+Biotech-C_IV,Biotech,C,IV,CR-079,theory,77,BT-405L,Design Lab,2,Biotech,True,Prof. Aditya Patel,Biotech
+Biotech-C_IV,Biotech,C,IV,CR-079,theory,77,BT-406,Systems,4,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-C_V,Biotech,C,V,CR-079,theory,77,BT-503,Programming,3,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-C_V,Biotech,C,V,CR-079,theory,77,BT-503L,Programming Lab,2,Biotech,True,Dr. Sai Patel,Biotech
+Biotech-C_V,Biotech,C,V,CR-079,theory,77,BT-509,Analysis,3,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-C_V,Biotech,C,V,CR-079,theory,77,BT-509L,Analysis Lab,2,Biotech,True,Prof. Pari Verma,Biotech
+Biotech-C_V,Biotech,C,V,CR-079,theory,77,BT-5012,Analysis,3,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-C_V,Biotech,C,V,CR-079,theory,77,BT-506,Analysis,4,Biotech,False,Prof. Diya Mishra,Biotech
+Biotech-C_VI,Biotech,C,VI,CR-079,theory,77,BT-607,Programming,4,Biotech,False,Prof. Diya Mishra,Biotech
+Biotech-C_VI,Biotech,C,VI,CR-079,theory,77,BT-6010,Fundamentals,3,Biotech,False,Prof. Pari Verma,Biotech
+Biotech-C_VI,Biotech,C,VI,CR-079,theory,77,BT-6010L,Fundamentals Lab,2,Biotech,True,Dr. Sai Verma,Biotech
+Biotech-C_VI,Biotech,C,VI,CR-079,theory,77,BT-601,Structures,3,Biotech,False,Prof. Pari Verma,Biotech
+Biotech-C_VI,Biotech,C,VI,CR-079,theory,77,BT-601L,Structures Lab,2,Biotech,True,Dr. Sai Patel,Biotech
+Biotech-C_VI,Biotech,C,VI,CR-079,theory,77,BT-604,Applications,3,Biotech,False,Prof. Pari Verma,Biotech
+Biotech-C_VII,Biotech,C,VII,CR-079,theory,77,BT-7010,Design,4,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-C_VII,Biotech,C,VII,CR-079,theory,77,BT-707,Programming,4,Biotech,False,Dr. Sai Verma,Biotech
+Biotech-C_VII,Biotech,C,VII,CR-079,theory,77,BT-707L,Programming Lab,2,Biotech,True,Prof. Diya Mishra,Biotech
+Biotech-C_VII,Biotech,C,VII,CR-079,theory,77,BT-703,Fundamentals,4,Biotech,False,Dr. Sai Patel,Biotech
+Biotech-C_VII,Biotech,C,VII,CR-079,theory,77,BT-703L,Fundamentals Lab,2,Biotech,True,Dr. Sai Verma,Biotech
+Biotech-C_VII,Biotech,C,VII,CR-079,theory,77,BT-709,Analysis,3,Biotech,False,Prof. Aditya Patel,Biotech
+Biotech-C_VIII,Biotech,C,VIII,CR-079,theory,77,BT-807,Applications,3,Biotech,False,Prof. Aditya Menon,Biotech
+Biotech-C_VIII,Biotech,C,VIII,CR-079,theory,77,BT-807L,Applications Lab,2,Biotech,True,Dr. Sai Verma,Biotech
+Biotech-C_VIII,Biotech,C,VIII,CR-079,theory,77,BT-803,Engineering,3,Biotech,False,Dr. Sai Verma,Biotech

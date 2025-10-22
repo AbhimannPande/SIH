@@ -1,0 +1,65 @@
+import csv
+
+def create_guaranteed_dataset():
+    """
+    Creates a small, perfectly balanced, and guaranteed-to-be-solvable
+    dataset with a full academic load and special activities.
+    """
+    print("📝 Creating a handcrafted, conflict-free dataset with a full curriculum...")
+
+    header = [
+        'stream_semester_group', 'stream', 'section', 'semester', 'dedicated_room', 'room_type', 
+        'room_capacity', 'course_code', 'course_name', 'course_hours_per_week', 
+        'course_department', 'is_lab', 'faculty_name', 'faculty_department'
+    ]
+    
+    data = [
+        # --- CSE-A, Semester III ---
+        ['CSE-A_III', 'CSE', 'A', 'III', 'CR-101', 'theory', 60, 'CS-301', 'Data Structures', 4, 'CSE', False, 'Dr. Sunita Patel', 'CSE'],
+        ['CSE-A_III', 'CSE', 'A', 'III', 'CR-101', 'theory', 60, 'CS-351L', 'Data Structures Lab', 2, 'CSE', True, 'Dr. Sunita Patel', 'CSE'],
+        ['CSE-A_III', 'CSE', 'A', 'III', 'CR-101', 'theory', 60, 'CS-302', 'OOP', 4, 'CSE', False, 'Prof. Vikram Rao', 'CSE'],
+        ['CSE-A_III', 'CSE', 'A', 'III', 'CR-101', 'theory', 60, 'AS-301', 'Maths III', 4, 'Maths', False, 'Prof. L. M. Sharma', 'Maths'],
+        # NEW: Added more academic subjects
+        ['CSE-A_III', 'CSE', 'A', 'III', 'CR-101', 'theory', 60, 'CS-303', 'Discrete Structures', 3, 'CSE', False, 'Dr. Alok Nath', 'CSE'],
+        ['CSE-A_III', 'CSE', 'A', 'III', 'CR-101', 'theory', 60, 'CS-304', 'Computer Architecture', 3, 'CSE', False, 'Prof. Meera Iyer', 'CSE'],
+        # NEW: Added activities
+        ['CSE-A_III', 'CSE', 'A', 'III', 'NA', 'activity', 0, 'LIB-301', 'Library Hour', 1, 'Activity', False, 'Activity Coordinator', 'Activity'],
+        ['CSE-A_III', 'CSE', 'A', 'III', 'NA', 'activity', 0, 'SPORT-301', 'Sports', 2, 'Activity', True, 'Activity Coordinator', 'Activity'],
+
+        # --- ECE-A, Semester III ---
+        ['ECE-A_III', 'ECE', 'A', 'III', 'CR-102', 'theory', 60, 'EC-301', 'Signals & Systems', 4, 'ECE', False, 'Dr. Sameer Joshi', 'ECE'],
+        ['ECE-A_III', 'ECE', 'A', 'III', 'CR-102', 'theory', 60, 'EC-351L', 'Signals & Systems Lab', 2, 'ECE', True, 'Dr. Sameer Joshi', 'ECE'],
+        ['ECE-A_III', 'ECE', 'A', 'III', 'CR-102', 'theory', 60, 'EC-302', 'Digital Logic', 4, 'ECE', False, 'Prof. Priya Desai', 'ECE'],
+        ['ECE-A_III', 'ECE', 'A', 'III', 'CR-102', 'theory', 60, 'AS-301', 'Maths III', 4, 'Maths', False, 'Prof. L. M. Sharma', 'Maths'],
+        # NEW: Added more academic subjects
+        ['ECE-A_III', 'ECE', 'A', 'III', 'CR-102', 'theory', 60, 'EC-303', 'Electronic Devices', 3, 'ECE', False, 'Dr. Anand Kumar', 'ECE'],
+        ['ECE-A_III', 'ECE', 'A', 'III', 'CR-102', 'theory', 60, 'EC-304', 'Network Theory', 3, 'ECE', False, 'Prof. Priya Desai', 'ECE'],
+        # NEW: Added activities
+        ['ECE-A_III', 'ECE', 'A', 'III', 'NA', 'activity', 0, 'LIB-301', 'Library Hour', 1, 'Activity', False, 'Activity Coordinator', 'Activity'],
+        ['ECE-A_III', 'ECE', 'A', 'III', 'NA', 'activity', 0, 'SPORT-301', 'Sports', 2, 'Activity', True, 'Activity Coordinator', 'Activity'],
+
+        # --- ME-A, Semester III ---
+        ['ME-A_III', 'ME', 'A', 'III', 'CR-201', 'theory', 60, 'ME-301', 'Thermodynamics', 4, 'ME', False, 'Prof. Ritu Verma', 'ME'],
+        ['ME-A_III', 'ME', 'A', 'III', 'CR-201', 'theory', 60, 'ME-351L', 'Thermo Lab', 2, 'ME', True, 'Prof. Ritu Verma', 'ME'],
+        ['ME-A_III', 'ME', 'A', 'III', 'CR-201', 'theory', 60, 'ME-302', 'Fluid Mechanics', 4, 'ME', False, 'Dr. Sandeep Verma', 'ME'],
+        # NEW: Added more academic subjects to reach 6
+        ['ME-A_III', 'ME', 'A', 'III', 'CR-201', 'theory', 60, 'ME-303', 'Material Science', 3, 'ME', False, 'Prof. Alok Kumar', 'ME'],
+        ['ME-A_III', 'ME', 'A', 'III', 'CR-201', 'theory', 60, 'ME-304', 'Engg. Mechanics', 4, 'ME', False, 'Dr. Sandeep Verma', 'ME'],
+        ['ME-A_III', 'ME', 'A', 'III', 'CR-201', 'theory', 60, 'ME-354L', 'Mechanics Lab', 2, 'ME', True, 'Dr. Sandeep Verma', 'ME'],
+        # NEW: Added activities
+        ['ME-A_III', 'ME', 'A', 'III', 'NA', 'activity', 0, 'LIB-301', 'Library Hour', 1, 'Activity', False, 'Activity Coordinator', 'Activity'],
+        ['ME-A_III', 'ME', 'A', 'III', 'NA', 'activity', 0, 'SPORT-301', 'Sports', 2, 'Activity', True, 'Activity Coordinator', 'Activity'],
+    ]
+
+    filename = "timetable_data.csv"
+    try:
+        with open(filename, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(header)
+            writer.writerows(data)
+        print(f"✅ Success! Rich dataset with a full curriculum saved to '{filename}'")
+    except Exception as e:
+        print(f"❌ Error: Could not write to file. {e}")
+
+if __name__ == '__main__':
+    create_guaranteed_dataset()
